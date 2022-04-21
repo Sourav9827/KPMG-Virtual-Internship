@@ -1,0 +1,2930 @@
+customer_id,first_name,job_industry_category,wealth_segment,owns_car,Age,state,RFM_value
+419,Chrissie,Manufacturing,Affluent Customer,No,40.0,QLD,444
+3290,Brandyn,Manufacturing,High Net Worth,Yes,59.0,Victoria,444
+1438,Winifred,Health,Mass Customer,Yes,46.0,New South Wales,444
+1905,Corabelle,Manufacturing,Affluent Customer,No,68.0,New South Wales,444
+768,Alexia,Argiculture,Affluent Customer,Yes,47.0,New South Wales,444
+1182,Carolann,IT,Mass Customer,Yes,46.0,New South Wales,444
+165,Aldon,Argiculture,Mass Customer,Yes,37.0,New South Wales,444
+2492,Gayelord,Manufacturing,High Net Worth,No,47.0,New South Wales,444
+167,Nathalie,Health,High Net Worth,Yes,52.0,QLD,444
+2659,Konstance,Argiculture,High Net Worth,Yes,47.0,QLD,444
+2653,Aylmer,Health,Affluent Customer,No,26.0,Victoria,444
+753,Josy,Health,Affluent Customer,Yes,51.0,New South Wales,444
+1428,Morissa,Retail,High Net Worth,No,23.0,New South Wales,444
+173,Ebba,Health,Affluent Customer,No,24.0,New South Wales,444
+174,Catie,Health,Mass Customer,No,32.0,New South Wales,444
+2651,Silvan,Manufacturing,Mass Customer,Yes,43.0,New South Wales,444
+1885,Jerome,Health,High Net Worth,Yes,39.0,New South Wales,444
+3118,Cleveland,Health,High Net Worth,No,28.0,QLD,444
+322,De,Financial Services,Mass Customer,Yes,44.0,QLD,444
+180,Trisha,Argiculture,Affluent Customer,No,50.0,QLD,444
+3375,Thorsten,Financial Services,High Net Worth,Yes,28.0,New South Wales,444
+182,Lydon,Financial Services,Affluent Customer,Yes,29.0,QLD,444
+320,Aldous,Health,Mass Customer,No,24.0,QLD,444
+2992,Crystal,Health,Mass Customer,Yes,47.0,Victoria,444
+577,Nadean,Property,Mass Customer,Yes,65.0,Victoria,444
+2993,Blinnie,Financial Services,Affluent Customer,No,26.0,New South Wales,444
+739,Arnie,Manufacturing,Mass Customer,No,57.0,Victoria,444
+1232,Stillmann,Property,Affluent Customer,No,62.0,QLD,444
+1233,Keeley,Retail,Affluent Customer,Yes,43.0,New South Wales,444
+1446,Gabriello,Manufacturing,Mass Customer,No,34.0,Victoria,444
+548,Georgie,IT,High Net Worth,Yes,43.969332992588804,QLD,444
+1404,Emmott,Manufacturing,Mass Customer,Yes,64.0,Victoria,444
+3286,Kent,Entertainment,Mass Customer,No,60.0,Victoria,444
+2705,Madalena,Manufacturing,Mass Customer,No,25.0,QLD,444
+1942,Abe,Financial Services,High Net Worth,No,34.0,New South Wales,444
+2929,Winny,Retail,Mass Customer,No,22.0,QLD,444
+2183,Jillie,Manufacturing,Mass Customer,Yes,49.0,QLD,444
+3402,Krystyna,Retail,Mass Customer,No,36.0,New South Wales,444
+2308,Nancey,Financial Services,Mass Customer,Yes,58.0,Victoria,444
+1470,Albie,Financial Services,High Net Worth,Yes,26.0,New South Wales,444
+2698,Nedi,Health,High Net Worth,No,47.0,New South Wales,444
+799,Harland,IT,Mass Customer,Yes,43.969332992588804,New South Wales,444
+2695,Kippy,Manufacturing,Mass Customer,Yes,45.0,New South Wales,444
+538,Millicent,Manufacturing,Mass Customer,Yes,65.0,QLD,444
+2476,Hal,Property,High Net Worth,No,65.0,QLD,444
+144,Jory,IT,Mass Customer,No,43.969332992588804,New South Wales,444
+2374,Dolf,Financial Services,Mass Customer,No,28.0,Victoria,444
+793,Kissie,Financial Services,High Net Worth,Yes,32.0,New South Wales,444
+346,Timmie,Financial Services,Mass Customer,No,40.0,New South Wales,444
+151,Donnie,Manufacturing,Mass Customer,Yes,56.0,New South Wales,444
+1460,Morley,Financial Services,High Net Worth,Yes,48.0,New South Wales,444
+3283,Rowe,Property,Mass Customer,Yes,42.0,New South Wales,444
+2369,Averyl,Financial Services,Mass Customer,Yes,25.0,Victoria,444
+195,Talyah,Manufacturing,Mass Customer,No,63.0,Victoria,444
+310,Myranda,Financial Services,Mass Customer,Yes,36.0,New South Wales,444
+124,Kath,Health,High Net Worth,Yes,26.0,Victoria,444
+235,Leona,Health,Mass Customer,No,45.0,New South Wales,444
+668,Ebony,Health,Mass Customer,No,55.0,New South Wales,444
+3315,Ninnette,Property,Mass Customer,Yes,27.0,Victoria,444
+239,Wells,Health,Affluent Customer,No,29.0,QLD,444
+1313,Hughie,Property,Mass Customer,No,35.0,QLD,444
+3074,Tracie,Health,Mass Customer,Yes,52.0,New South Wales,444
+3044,Russell,Health,Affluent Customer,Yes,31.0,Victoria,444
+1792,Dunstan,Financial Services,Mass Customer,No,33.0,New South Wales,444
+1317,Barrett,Retail,Mass Customer,Yes,48.0,QLD,444
+3048,Kenon,Manufacturing,Mass Customer,No,52.0,Victoria,444
+3337,Brendan,Argiculture,Mass Customer,Yes,45.0,QLD,444
+1328,Stavro,IT,Mass Customer,Yes,40.0,Victoria,444
+1773,Nickolas,IT,Mass Customer,Yes,43.969332992588804,New South Wales,444
+1331,Edward,Telecommunications,High Net Worth,No,34.0,Victoria,444
+2301,Ken,Financial Services,Mass Customer,Yes,55.0,QLD,444
+1358,Gerome,Health,High Net Worth,No,27.0,Victoria,444
+640,Galvin,Entertainment,High Net Worth,Yes,46.0,New South Wales,444
+637,Mercy,Health,High Net Worth,No,45.0,New South Wales,444
+1357,Waylin,Health,High Net Worth,No,28.0,Victoria,444
+1748,Skell,Manufacturing,Mass Customer,Yes,65.0,QLD,444
+1346,Woody,Telecommunications,Mass Customer,No,51.0,Victoria,444
+234,Mead,Retail,High Net Worth,No,52.0,New South Wales,444
+729,Ammamaria,Health,Affluent Customer,No,48.0,Victoria,444
+1802,Lizzie,Manufacturing,Mass Customer,No,48.0,QLD,444
+2999,Rinaldo,IT,Affluent Customer,Yes,43.969332992588804,Victoria,444
+200,Hube,Property,Affluent Customer,Yes,64.0,QLD,444
+725,Gage,Health,High Net Worth,Yes,56.0,QLD,444
+1396,Sinclair,Financial Services,Mass Customer,No,34.0,Victoria,444
+2523,Lauree,Financial Services,Mass Customer,Yes,60.0,QLD,444
+1252,Les,Manufacturing,Mass Customer,Yes,56.0,QLD,444
+719,Pattin,Retail,Mass Customer,No,68.0,QLD,444
+1830,Nathan,Manufacturing,High Net Worth,No,36.0,New South Wales,444
+1706,Slade,Financial Services,High Net Worth,Yes,60.0,New South Wales,444
+3007,Tudor,Manufacturing,Mass Customer,No,48.0,New South Wales,444
+2341,Caterina,IT,Mass Customer,Yes,43.969332992588804,Victoria,444
+704,Lindsay,Health,Mass Customer,No,23.0,New South Wales,444
+2340,Joachim,Health,Mass Customer,Yes,43.0,QLD,444
+2339,Damien,Property,Affluent Customer,Yes,63.0,New South Wales,444
+298,Maurise,Manufacturing,High Net Worth,No,65.0,Victoria,444
+3086,Pieter,IT,High Net Worth,No,43.969332992588804,QLD,444
+605,Bart,Manufacturing,Mass Customer,Yes,49.0,New South Wales,444
+695,Kevan,Health,High Net Worth,No,44.0,New South Wales,444
+1722,Fritz,Financial Services,Mass Customer,No,58.0,New South Wales,444
+2606,Addi,Manufacturing,High Net Worth,No,43.0,New South Wales,444
+2603,Mercy,Financial Services,High Net Worth,No,59.0,Victoria,444
+1726,Mariette,Financial Services,High Net Worth,No,48.0,New South Wales,444
+1291,Warner,Health,Mass Customer,No,41.0,QLD,444
+3080,Christoforo,Financial Services,High Net Worth,No,63.0,Victoria,444
+2335,Payton,IT,Mass Customer,No,43.969332992588804,New South Wales,444
+2379,Trixie,Health,Affluent Customer,Yes,40.0,New South Wales,444
+2937,Belia,Financial Services,Mass Customer,No,47.0,Victoria,444
+2013,Marge,Health,Affluent Customer,Yes,26.0,New South Wales,444
+52,Curran,Financial Services,Mass Customer,Yes,33.0,New South Wales,444
+2851,Ulberto,Entertainment,Affluent Customer,Yes,46.0,New South Wales,444
+2109,Grazia,Health,High Net Worth,Yes,56.0,New South Wales,444
+1558,Oberon,Financial Services,Affluent Customer,No,30.0,New South Wales,444
+2111,Ellis,Property,Affluent Customer,Yes,48.0,New South Wales,444
+906,Cammy,Financial Services,High Net Worth,Yes,23.0,Victoria,444
+820,Cecilia,Financial Services,High Net Worth,No,44.0,New South Wales,444
+902,Selene,Retail,Mass Customer,No,32.0,New South Wales,444
+2856,Milissent,Financial Services,Mass Customer,Yes,45.0,New South Wales,444
+3202,Garry,Financial Services,Mass Customer,Yes,27.0,New South Wales,444
+2859,Brandais,Argiculture,High Net Worth,No,27.0,QLD,444
+1000,Paulie,Financial Services,Mass Customer,No,43.0,Victoria,444
+3217,Lorena,Manufacturing,Mass Customer,No,53.0,New South Wales,444
+3251,Cammie,Financial Services,High Net Worth,Yes,45.0,New South Wales,444
+995,Urbano,Health,Mass Customer,Yes,56.0,QLD,444
+973,Annabella,Health,High Net Worth,No,42.0,Victoria,444
+1068,Frazer,Health,Mass Customer,Yes,26.0,New South Wales,444
+2816,Denys,Financial Services,Mass Customer,Yes,32.0,QLD,444
+2060,Constancia,Financial Services,Mass Customer,No,62.0,Victoria,444
+2120,Clare,Manufacturing,Mass Customer,No,24.0,New South Wales,444
+3232,Rose,Financial Services,Mass Customer,Yes,28.0,Victoria,444
+2836,Matilda,Health,Mass Customer,No,58.0,New South Wales,444
+946,Bettina,Manufacturing,High Net Worth,No,60.0,New South Wales,444
+25,Geoff,Financial Services,Mass Customer,Yes,45.0,QLD,444
+2055,Harmon,Retail,High Net Worth,No,41.0,New South Wales,444
+3470,Catherina,Health,Affluent Customer,Yes,54.0,Victoria,444
+37,Laurie,Health,High Net Worth,No,36.0,QLD,444
+934,Marcellus,Manufacturing,Mass Customer,No,25.0,New South Wales,444
+2029,Charlie,Manufacturing,Mass Customer,No,29.0,QLD,444
+2791,Dew,Financial Services,Mass Customer,No,33.0,New South Wales,444
+925,Nicko,Manufacturing,Affluent Customer,No,43.0,New South Wales,444
+2103,Jayme,Financial Services,Affluent Customer,No,46.0,New South Wales,444
+2762,Rozamond,Manufacturing,Mass Customer,No,29.0,Victoria,444
+2761,Agathe,Financial Services,Mass Customer,No,60.0,New South Wales,444
+2033,Mar,Health,High Net Worth,No,50.0,New South Wales,444
+2794,Megen,Health,Mass Customer,Yes,46.0,New South Wales,444
+2865,Lila,Manufacturing,High Net Worth,No,24.0,New South Wales,444
+886,Dawna,Health,Mass Customer,No,47.0,New South Wales,444
+3262,Maynord,Entertainment,Mass Customer,No,62.0,QLD,444
+2386,Adrianne,Financial Services,Mass Customer,No,24.0,New South Wales,444
+2418,Elspeth,Property,Mass Customer,Yes,51.0,Victoria,444
+2728,Imojean,IT,High Net Worth,No,62.0,Victoria,444
+2458,Leilah,Manufacturing,High Net Worth,Yes,57.0,New South Wales,444
+1506,Andonis,Property,Mass Customer,No,63.0,New South Wales,444
+983,Shaylyn,IT,Affluent Customer,No,43.969332992588804,New South Wales,444
+2464,Cleve,Retail,Mass Customer,No,38.0,New South Wales,444
+2152,Junina,Manufacturing,Mass Customer,Yes,53.0,Victoria,444
+2914,Jessamine,Health,Affluent Customer,Yes,39.0,New South Wales,444
+3433,Karissa,Property,Mass Customer,No,23.0,Victoria,444
+3169,Maxim,IT,Mass Customer,Yes,57.0,Victoria,444
+3420,Norby,Financial Services,Mass Customer,Yes,41.0,QLD,444
+3225,Durante,Health,Mass Customer,Yes,41.0,New South Wales,444
+498,Emmalee,Manufacturing,High Net Worth,Yes,43.0,New South Wales,444
+3223,Tiffi,IT,Mass Customer,Yes,43.969332992588804,New South Wales,444
+117,Nance,Manufacturing,Mass Customer,No,39.0,QLD,444
+3157,Hurlee,Retail,Mass Customer,Yes,24.0,New South Wales,444
+2165,Marlie,Manufacturing,Affluent Customer,No,43.969332992588804,Victoria,444
+515,Winna,IT,High Net Worth,No,32.0,New South Wales,444
+99,Reggie,Financial Services,Mass Customer,No,23.0,New South Wales,444
+377,Levy,Argiculture,Mass Customer,No,22.0,New South Wales,444
+1625,Caryl,Property,Mass Customer,Yes,44.0,New South Wales,444
+2391,Corny,Health,Mass Customer,No,60.0,QLD,444
+975,Goldarina,IT,Mass Customer,No,43.969332992588804,New South Wales,444
+3191,Bobbette,Financial Services,Affluent Customer,Yes,62.0,QLD,444
+1076,Siegfried,Health,Affluent Customer,No,21.0,New South Wales,444
+2737,Andras,Retail,Mass Customer,Yes,23.0,New South Wales,444
+1530,Alexandr,Health,Mass Customer,Yes,45.0,New South Wales,444
+1084,Serena,Retail,Affluent Customer,No,27.0,New South Wales,444
+2879,Tatum,Argiculture,Mass Customer,Yes,47.0,Victoria,444
+1086,Ezechiel,Property,Mass Customer,Yes,32.0,Victoria,444
+2072,Margie,Financial Services,Mass Customer,Yes,61.0,Victoria,444
+2130,Evangelina,Property,High Net Worth,Yes,31.0,New South Wales,444
+1091,Keith,Health,Mass Customer,No,41.0,Victoria,444
+1578,Andreas,Health,High Net Worth,Yes,43.0,New South Wales,444
+89,Benedicto,Health,Mass Customer,Yes,54.0,New South Wales,444
+1991,Tobe,Health,Mass Customer,Yes,28.0,New South Wales,444
+91,Dylan,Financial Services,Affluent Customer,Yes,66.0,New South Wales,444
+3256,Collen,Financial Services,Affluent Customer,No,35.0,QLD,444
+1629,Edsel,Financial Services,Mass Customer,No,47.0,QLD,444
+1740,Faythe,IT,Mass Customer,Yes,43.969332992588804,Victoria,443
+1745,Leigha,Financial Services,Mass Customer,Yes,66.0,QLD,443
+1577,Diannne,Manufacturing,High Net Worth,No,45.0,New South Wales,443
+1367,Fredrika,Retail,Mass Customer,No,48.0,Victoria,443
+433,Reinhard,Property,Affluent Customer,No,57.0,Victoria,443
+1353,Phebe,Health,Mass Customer,Yes,41.0,Victoria,443
+2318,Willa,Manufacturing,Mass Customer,Yes,33.0,Victoria,443
+359,Dulcine,Manufacturing,Affluent Customer,Yes,63.0,New South Wales,443
+611,Otto,Manufacturing,Mass Customer,Yes,35.0,QLD,443
+1600,Priscella,Financial Services,High Net Worth,No,36.0,QLD,443
+3151,Thorn,IT,Affluent Customer,Yes,43.969332992588804,QLD,443
+1478,Fulton,Financial Services,High Net Worth,No,29.0,New South Wales,443
+368,Lacee,Financial Services,High Net Worth,No,35.0,QLD,443
+2372,Jim,Health,Affluent Customer,No,44.0,Victoria,443
+1511,Yves,Financial Services,Mass Customer,No,31.0,New South Wales,443
+2358,Ave,Retail,High Net Worth,Yes,62.0,QLD,443
+1519,Marwin,Telecommunications,High Net Worth,Yes,20.0,New South Wales,443
+2498,Rosana,Retail,High Net Worth,No,43.0,New South Wales,443
+318,Libbie,Retail,Affluent Customer,Yes,52.0,New South Wales,443
+3300,Quintus,Retail,Mass Customer,No,60.0,New South Wales,443
+3112,Terri,Retail,High Net Worth,Yes,20.0,Victoria,443
+2505,Myrah,Financial Services,High Net Worth,No,41.0,New South Wales,443
+1407,Tamarah,Manufacturing,Mass Customer,Yes,41.0,Victoria,443
+1545,Carver,Health,Mass Customer,Yes,44.0,Victoria,443
+307,Ruben,Health,Affluent Customer,Yes,37.0,Victoria,443
+1390,Christyna,Retail,High Net Worth,Yes,21.0,Victoria,443
+2530,Engracia,Property,Mass Customer,Yes,61.0,New South Wales,443
+2531,Brendan,Property,High Net Worth,Yes,40.0,New South Wales,443
+1713,Jennica,Retail,High Net Worth,Yes,33.0,Victoria,443
+3241,Milt,Manufacturing,Mass Customer,Yes,42.0,QLD,443
+1721,Delcine,Financial Services,High Net Worth,No,41.0,QLD,443
+443,Lauree,Argiculture,High Net Worth,Yes,49.0,QLD,443
+442,Linc,Financial Services,Mass Customer,No,20.0,QLD,443
+3077,Emelen,Manufacturing,Affluent Customer,No,21.0,New South Wales,443
+1549,Vikki,Financial Services,Affluent Customer,Yes,24.0,New South Wales,443
+1,Laraine,Health,Mass Customer,Yes,68.0,New South Wales,443
+789,Gabrielle,Manufacturing,Affluent Customer,Yes,43.0,New South Wales,443
+110,Sascha,Financial Services,Affluent Customer,No,21.0,Victoria,443
+835,Zachary,Manufacturing,Mass Customer,Yes,53.0,New South Wales,443
+115,Alberik,Health,Mass Customer,No,40.0,Victoria,443
+1953,Luisa,Financial Services,High Net Worth,No,43.0,Victoria,443
+1950,Berne,Manufacturing,Affluent Customer,Yes,58.0,New South Wales,443
+142,Bentley,Health,Affluent Customer,No,54.0,Victoria,443
+796,Ira,Financial Services,Mass Customer,No,24.0,Victoria,443
+3395,Sigmund,Financial Services,Mass Customer,No,28.0,Victoria,443
+786,Francklin,Financial Services,Affluent Customer,No,36.0,New South Wales,443
+1165,Fanni,Financial Services,High Net Worth,No,28.0,New South Wales,443
+2680,Noella,Financial Services,Mass Customer,Yes,62.0,Victoria,443
+2647,Marcelia,IT,High Net Worth,No,43.969332992588804,New South Wales,443
+1217,Dulcinea,Manufacturing,High Net Worth,No,53.0,New South Wales,443
+2990,Brice,Argiculture,High Net Worth,No,43.0,New South Wales,443
+185,Crosby,Property,Mass Customer,Yes,42.0,New South Wales,443
+3427,Mace,Financial Services,Mass Customer,Yes,40.0,New South Wales,443
+1970,Carl,Manufacturing,Mass Customer,No,39.0,Victoria,443
+856,Peyton,Financial Services,Mass Customer,Yes,33.0,Victoria,443
+1054,Natal,Manufacturing,Mass Customer,Yes,38.0,New South Wales,443
+3495,Constantine,Financial Services,High Net Worth,No,34.0,New South Wales,443
+993,Reine,Argiculture,High Net Worth,No,44.0,New South Wales,443
+2082,Sybyl,Health,Affluent Customer,Yes,42.0,New South Wales,443
+2088,Ernie,Financial Services,Mass Customer,Yes,52.0,QLD,443
+2796,Margette,Manufacturing,Mass Customer,No,44.0,New South Wales,443
+1014,Miller,Property,Mass Customer,Yes,61.0,New South Wales,443
+1098,Maure,Financial Services,Mass Customer,Yes,32.0,New South Wales,443
+908,Carry,Financial Services,Affluent Customer,Yes,41.0,Victoria,443
+903,Hewe,Financial Services,Mass Customer,No,60.0,QLD,443
+2751,Cordell,Retail,High Net Worth,Yes,42.0,QLD,443
+76,Rea,Retail,High Net Worth,Yes,43.0,QLD,443
+2732,Clarine,Health,Mass Customer,No,60.0,Victoria,443
+1990,Mira,Financial Services,High Net Worth,No,43.969332992588804,New South Wales,443
+1824,Robbie,Manufacturing,Affluent Customer,Yes,62.0,Victoria,443
+723,Madelina,Health,Mass Customer,Yes,58.0,New South Wales,443
+3013,Lorain,Property,High Net Worth,No,53.0,QLD,443
+215,Debera,Retail,High Net Worth,Yes,47.0,QLD,443
+2611,Aeriel,Financial Services,Affluent Customer,No,30.0,New South Wales,443
+1274,Emmerich,Manufacturing,Mass Customer,No,44.0,QLD,443
+2621,Moreen,Entertainment,High Net Worth,No,47.0,New South Wales,443
+2622,Natty,Financial Services,Mass Customer,No,42.0,QLD,443
+1318,Barbe,Financial Services,Mass Customer,Yes,55.0,QLD,443
+656,Marty,Manufacturing,High Net Worth,Yes,43.0,Victoria,443
+1798,Eunice,Manufacturing,High Net Worth,Yes,21.0,Victoria,443
+260,Farand,Health,High Net Worth,Yes,42.0,QLD,443
+1760,Kelsy,Health,High Net Worth,No,55.0,Victoria,443
+2633,Shayla,Property,Mass Customer,Yes,52.0,New South Wales,443
+3335,Damian,Health,Mass Customer,No,42.0,QLD,443
+1763,Suzie,Manufacturing,Affluent Customer,Yes,27.0,Victoria,443
+652,Edee,Financial Services,High Net Worth,Yes,25.0,Victoria,442
+2730,Taddeo,Financial Services,Mass Customer,No,61.0,QLD,442
+116,Scottie,Manufacturing,Affluent Customer,Yes,22.0,New South Wales,442
+1221,Byrom,Health,High Net Worth,Yes,26.0,New South Wales,442
+3088,Hilarius,Retail,Affluent Customer,Yes,47.0,New South Wales,442
+990,Melissa,Manufacturing,Mass Customer,Yes,45.0,New South Wales,442
+1104,Jewelle,Retail,Mass Customer,No,62.0,New South Wales,442
+2607,Laurent,Health,Affluent Customer,Yes,29.0,Victoria,442
+3183,Craig,Health,Mass Customer,No,47.0,Victoria,442
+1515,Dietrich,Manufacturing,Mass Customer,Yes,31.0,New South Wales,442
+440,Sheena,Telecommunications,Mass Customer,No,44.0,New South Wales,442
+1301,Trix,Health,Mass Customer,No,30.0,QLD,442
+86,Job,Health,High Net Worth,Yes,32.0,New South Wales,442
+1996,Filmer,Manufacturing,Mass Customer,No,36.0,QLD,442
+1999,Raquel,Manufacturing,Mass Customer,Yes,59.0,QLD,442
+3154,Angil,Telecommunications,Mass Customer,Yes,64.0,New South Wales,442
+470,Darbee,Retail,Mass Customer,No,20.0,New South Wales,442
+2009,Neilla,Health,Affluent Customer,Yes,61.0,New South Wales,442
+1315,Ebba,IT,Mass Customer,Yes,48.0,Victoria,442
+955,Teresina,Health,Mass Customer,Yes,32.0,New South Wales,442
+2559,Fulvia,Entertainment,High Net Worth,No,52.0,New South Wales,442
+338,Hilliary,Health,Mass Customer,No,63.0,Victoria,442
+1702,Bryn,Health,Mass Customer,No,65.0,New South Wales,442
+2479,Helge,Retail,Mass Customer,No,25.0,Victoria,442
+1914,Clyve,Financial Services,Mass Customer,No,53.0,QLD,442
+2958,Regan,Manufacturing,Affluent Customer,Yes,46.0,New South Wales,442
+2251,Leslie,Property,High Net Worth,No,62.0,Victoria,442
+1758,Helli,Argiculture,Mass Customer,Yes,50.0,New South Wales,442
+2672,Talbert,Health,Affluent Customer,No,35.0,New South Wales,442
+172,Hilton,Manufacturing,Affluent Customer,Yes,33.0,Victoria,442
+1690,Torey,Health,Affluent Customer,Yes,33.0,New South Wales,442
+328,Bernice,Manufacturing,Mass Customer,No,30.0,Victoria,442
+1134,Sullivan,Financial Services,Affluent Customer,No,27.0,New South Wales,442
+2935,Jessi,Manufacturing,Mass Customer,No,43.0,New South Wales,442
+217,Jeralee,Manufacturing,High Net Worth,No,42.0,New South Wales,442
+776,Stanley,Financial Services,High Net Worth,No,41.0,QLD,442
+1467,Alysia,Manufacturing,Mass Customer,Yes,46.0,New South Wales,442
+56,Reese,Property,Mass Customer,Yes,25.0,New South Wales,441
+398,Randee,Retail,Affluent Customer,No,52.0,Victoria,441
+1207,Mabel,Health,Mass Customer,No,24.0,New South Wales,441
+576,Bart,Retail,Mass Customer,Yes,44.0,New South Wales,434
+772,Lorianna,Entertainment,Mass Customer,No,23.0,New South Wales,434
+3105,Bryn,Health,Mass Customer,No,56.0,QLD,434
+2831,Starlin,Health,Mass Customer,Yes,53.0,New South Wales,434
+2808,Preston,Financial Services,Mass Customer,Yes,20.0,New South Wales,434
+918,Mahmud,Health,High Net Worth,No,46.0,Victoria,434
+1586,Madelena,Manufacturing,High Net Worth,No,36.0,New South Wales,434
+1184,Auberta,Health,Mass Customer,No,53.0,New South Wales,434
+2555,Brad,Health,Affluent Customer,No,45.0,New South Wales,434
+513,Kienan,IT,Mass Customer,No,43.969332992588804,Victoria,434
+829,Byran,Financial Services,High Net Worth,Yes,20.0,Victoria,434
+1123,Dominick,Property,Mass Customer,No,59.0,New South Wales,434
+703,Ethelda,Property,Mass Customer,No,55.0,New South Wales,434
+1471,Berri,Financial Services,Mass Customer,No,43.0,New South Wales,434
+3016,Forster,Financial Services,High Net Worth,No,36.0,New South Wales,434
+2536,Aigneis,Health,Mass Customer,Yes,57.0,New South Wales,434
+533,Conny,Retail,Mass Customer,No,40.0,New South Wales,434
+3181,Ferd,Financial Services,High Net Worth,No,45.0,New South Wales,434
+2947,Standford,Manufacturing,Mass Customer,No,44.0,QLD,434
+2892,Paulie,Manufacturing,Affluent Customer,Yes,56.0,New South Wales,434
+3012,Devland,IT,Mass Customer,Yes,43.969332992588804,Victoria,434
+1589,Walker,Health,Mass Customer,Yes,32.0,New South Wales,434
+2597,Carita,Manufacturing,High Net Worth,Yes,41.0,QLD,434
+2623,Zackariah,Property,Mass Customer,Yes,39.0,New South Wales,434
+1303,Nollie,Argiculture,Mass Customer,No,49.0,QLD,434
+2961,Merv,Health,Mass Customer,Yes,46.0,Victoria,434
+1378,Ellie,Property,Affluent Customer,Yes,43.0,Victoria,434
+545,Alecia,Health,Mass Customer,Yes,43.0,New South Wales,434
+1306,Doyle,Health,Affluent Customer,Yes,65.0,QLD,434
+2712,Carissa,Manufacturing,High Net Worth,Yes,34.0,New South Wales,434
+2805,Laverna,Manufacturing,High Net Worth,No,29.0,New South Wales,434
+2195,Nevsa,Financial Services,Affluent Customer,Yes,34.0,QLD,434
+2057,Elianora,Manufacturing,Affluent Customer,Yes,62.0,Victoria,434
+2053,Horatius,Financial Services,Affluent Customer,Yes,43.0,QLD,434
+3255,Sutherlan,IT,High Net Worth,No,43.969332992588804,Victoria,434
+374,Valdemar,Financial Services,Mass Customer,Yes,29.0,Victoria,434
+2044,Leyla,Health,Mass Customer,Yes,23.0,New South Wales,434
+371,Pernell,Financial Services,Mass Customer,No,67.0,Victoria,434
+40,Tomasine,Manufacturing,Affluent Customer,No,40.0,New South Wales,434
+3467,Killy,IT,Mass Customer,No,41.0,QLD,434
+363,Sabrina,Retail,Mass Customer,Yes,33.0,New South Wales,434
+360,Atalanta,Property,Mass Customer,Yes,65.0,New South Wales,434
+1926,Stefano,Financial Services,High Net Worth,Yes,64.0,QLD,434
+2022,Mortimer,IT,Affluent Customer,No,39.0,New South Wales,434
+2377,Kristien,IT,High Net Worth,No,23.0,Victoria,434
+2017,Ezri,Financial Services,Affluent Customer,Yes,26.0,New South Wales,434
+220,Jeniffer,Manufacturing,High Net Worth,No,67.0,Victoria,434
+62,Sorcha,IT,Mass Customer,Yes,42.0,New South Wales,434
+3307,Portia,Health,High Net Worth,No,43.0,QLD,434
+2005,Marina,Manufacturing,High Net Worth,No,43.0,Victoria,434
+2345,Arden,Retail,Affluent Customer,Yes,35.0,QLD,434
+3298,Christine,IT,Affluent Customer,Yes,43.969332992588804,Victoria,434
+21,Mile,Manufacturing,Affluent Customer,Yes,41.0,New South Wales,434
+312,Garek,Financial Services,Affluent Customer,Yes,63.0,New South Wales,434
+1860,Holly-anne,Manufacturing,Mass Customer,Yes,45.0,QLD,434
+1594,Rolando,Property,Mass Customer,No,40.0,New South Wales,434
+189,Umberto,Financial Services,Affluent Customer,No,40.0,Victoria,434
+1787,Tull,Retail,High Net Worth,Yes,45.0,Victoria,434
+1602,Shamus,Retail,Mass Customer,No,42.0,New South Wales,434
+1663,Analiese,Property,High Net Worth,Yes,43.0,New South Wales,433
+1668,Aurlie,Financial Services,Mass Customer,No,56.0,New South Wales,433
+2114,Erick,Argiculture,High Net Worth,No,67.0,New South Wales,433
+285,Julee,Manufacturing,Mass Customer,No,44.0,New South Wales,433
+290,Giorgio,IT,Mass Customer,No,43.969332992588804,New South Wales,433
+2012,Maisey,Health,High Net Worth,No,49.0,New South Wales,433
+3356,Dill,Financial Services,Mass Customer,Yes,62.0,Victoria,433
+3227,Costa,Manufacturing,Affluent Customer,No,26.0,Victoria,433
+2676,Stinky,Retail,Mass Customer,Yes,64.0,QLD,433
+2282,Dominic,Financial Services,Affluent Customer,Yes,64.0,Victoria,433
+2092,Stavros,Manufacturing,High Net Worth,No,44.0,Victoria,433
+1143,Goraud,Health,Mass Customer,Yes,66.0,New South Wales,433
+1872,Leif,Manufacturing,Mass Customer,Yes,48.0,New South Wales,433
+53,Agnella,Financial Services,Mass Customer,No,67.0,QLD,433
+2378,Aggi,Manufacturing,Affluent Customer,No,27.0,New South Wales,433
+2995,Garvin,Health,Mass Customer,Yes,24.0,New South Wales,433
+517,Iona,Property,Mass Customer,Yes,36.0,New South Wales,433
+2550,Dionysus,Health,Mass Customer,Yes,24.0,Victoria,433
+2325,Emmett,Retail,High Net Worth,Yes,57.0,Victoria,433
+134,Merna,Telecommunications,Affluent Customer,Yes,24.0,New South Wales,433
+511,Theo,Health,High Net Worth,No,39.0,New South Wales,433
+1052,Dela,Financial Services,High Net Worth,No,35.0,Victoria,433
+70,Foster,Financial Services,Affluent Customer,No,28.0,New South Wales,433
+1453,Ahmed,Health,High Net Worth,No,44.0,New South Wales,433
+3084,Birgit,Financial Services,Affluent Customer,Yes,62.0,QLD,433
+1972,Obed,IT,Mass Customer,Yes,32.0,New South Wales,433
+1994,Gray,Manufacturing,High Net Worth,No,35.0,Victoria,433
+1413,Vi,Financial Services,Mass Customer,No,23.0,New South Wales,433
+3445,Craggy,Financial Services,Affluent Customer,Yes,55.0,Victoria,433
+1918,Devin,IT,Affluent Customer,No,43.969332992588804,New South Wales,433
+3114,Judah,IT,Mass Customer,Yes,47.0,New South Wales,433
+858,Barby,Financial Services,High Net Worth,Yes,41.0,QLD,433
+188,Audry,Property,High Net Worth,Yes,46.0,New South Wales,433
+572,Clementius,Health,High Net Worth,Yes,54.0,Victoria,433
+224,Morgun,Financial Services,Affluent Customer,No,54.0,New South Wales,433
+693,Bambi,Financial Services,Affluent Customer,Yes,51.0,QLD,433
+1081,Marga,Health,Mass Customer,No,36.0,New South Wales,433
+327,Cris,Health,Mass Customer,No,53.0,QLD,433
+884,Pepito,Property,Mass Customer,No,43.0,Victoria,433
+3448,Roderich,Financial Services,High Net Worth,No,44.0,New South Wales,433
+979,Kayla,Manufacturing,High Net Worth,No,62.0,Victoria,433
+1445,Bettine,IT,Affluent Customer,No,48.0,New South Wales,433
+3129,Leola,Property,High Net Worth,Yes,66.0,QLD,433
+3130,Krissy,Telecommunications,Mass Customer,No,50.0,QLD,433
+1452,Zachery,Retail,Mass Customer,No,66.0,New South Wales,433
+2535,Butch,Financial Services,Affluent Customer,No,40.0,QLD,433
+364,Leontyne,Financial Services,Affluent Customer,No,45.0,QLD,433
+3031,Diego,Health,Mass Customer,Yes,25.0,QLD,433
+2786,Hubie,Health,Mass Customer,Yes,53.0,QLD,433
+2780,Papageno,Financial Services,Affluent Customer,Yes,36.0,QLD,433
+2693,Abram,Health,High Net Worth,Yes,53.0,QLD,433
+1342,Barnett,Retail,Affluent Customer,Yes,59.0,New South Wales,433
+716,Trescha,Health,Mass Customer,No,42.0,New South Wales,433
+1522,Hubie,Financial Services,Mass Customer,No,27.0,New South Wales,433
+140,Morrie,Manufacturing,Mass Customer,No,27.0,Victoria,433
+1532,Marty,Financial Services,Mass Customer,Yes,49.0,New South Wales,433
+1623,Katy,Entertainment,High Net Worth,Yes,24.0,Victoria,433
+2396,Elmira,Retail,Affluent Customer,Yes,48.0,QLD,433
+1795,Wally,Manufacturing,Affluent Customer,No,44.0,New South Wales,433
+2833,Cy,IT,Mass Customer,Yes,22.0,New South Wales,433
+1540,Ilene,Property,Mass Customer,Yes,59.0,New South Wales,433
+465,Alina,Financial Services,Affluent Customer,Yes,45.0,New South Wales,433
+2443,Towny,Property,High Net Worth,No,31.0,New South Wales,433
+3197,Stern,Health,High Net Worth,No,45.0,New South Wales,433
+1617,Jannelle,Financial Services,Affluent Customer,No,43.0,QLD,433
+122,Colver,Financial Services,Mass Customer,Yes,42.0,QLD,433
+1767,Cicely,Manufacturing,Affluent Customer,Yes,62.0,QLD,433
+2426,Yancy,IT,Affluent Customer,Yes,43.969332992588804,New South Wales,433
+3054,Marieann,Manufacturing,Affluent Customer,No,56.0,QLD,433
+2661,Dorrie,Financial Services,High Net Worth,Yes,45.0,New South Wales,433
+2922,Wallache,Manufacturing,Affluent Customer,Yes,40.0,QLD,433
+2404,Conney,Retail,Mass Customer,No,61.0,New South Wales,433
+1327,Sarita,Property,Affluent Customer,No,26.0,Victoria,433
+1326,Goddard,Health,Affluent Customer,Yes,55.0,Victoria,433
+447,Brittany,Argiculture,Mass Customer,Yes,20.0,New South Wales,433
+3472,Dionysus,Retail,Affluent Customer,Yes,44.0,New South Wales,433
+1355,Isador,Property,Mass Customer,No,20.0,Victoria,433
+1906,Waylan,Retail,Mass Customer,No,33.0,New South Wales,433
+937,Nikolos,Manufacturing,Affluent Customer,No,36.0,New South Wales,433
+132,Celesta,Manufacturing,Mass Customer,Yes,58.0,New South Wales,433
+933,Melany,Retail,Mass Customer,Yes,25.0,New South Wales,433
+3386,Cliff,IT,High Net Worth,Yes,22.0,New South Wales,433
+3332,Cissy,Health,Mass Customer,No,23.0,New South Wales,433
+156,Shayla,Financial Services,Mass Customer,Yes,42.0,Victoria,433
+3008,Etta,Health,High Net Worth,Yes,39.0,New South Wales,433
+405,Vivien,Manufacturing,High Net Worth,Yes,50.0,New South Wales,433
+2778,Micheil,Financial Services,Mass Customer,No,43.0,New South Wales,433
+485,Ulrika,Manufacturing,High Net Worth,No,47.0,New South Wales,433
+831,Teddy,Financial Services,Affluent Customer,No,48.0,QLD,432
+1120,Jacquelyn,Retail,Affluent Customer,No,41.0,New South Wales,432
+256,Linell,Health,High Net Worth,Yes,46.0,New South Wales,432
+817,Niel,Financial Services,Mass Customer,Yes,29.0,Victoria,432
+3042,Barris,Property,High Net Worth,Yes,50.0,QLD,432
+1965,Bendicty,Retail,Mass Customer,Yes,48.0,New South Wales,432
+2908,Tiffy,Health,Affluent Customer,Yes,66.0,Victoria,432
+2954,Albertine,Health,Mass Customer,No,47.0,Victoria,432
+625,Abra,Entertainment,High Net Worth,Yes,47.0,QLD,432
+3065,Winna,Financial Services,High Net Worth,Yes,43.0,New South Wales,432
+2520,Gabie,Retail,Affluent Customer,Yes,47.0,QLD,432
+1944,Gregory,Argiculture,High Net Worth,Yes,41.0,Victoria,432
+1166,Fannie,Health,Affluent Customer,No,49.0,New South Wales,432
+2709,Simone,Financial Services,High Net Worth,No,26.0,New South Wales,432
+1794,Caro,Property,Mass Customer,No,52.0,QLD,432
+683,Brennan,Manufacturing,Mass Customer,Yes,59.0,New South Wales,432
+2329,Donny,IT,Affluent Customer,No,64.0,New South Wales,432
+843,Salomone,Manufacturing,Affluent Customer,Yes,32.0,New South Wales,432
+293,Virgilio,Manufacturing,Mass Customer,Yes,32.0,New South Wales,432
+3082,Emlyn,Manufacturing,Mass Customer,Yes,24.0,New South Wales,432
+279,Tamera,Manufacturing,Mass Customer,No,40.0,New South Wales,432
+2575,Hagan,Financial Services,High Net Worth,Yes,47.0,New South Wales,432
+262,Cordie,Health,High Net Worth,Yes,44.0,New South Wales,432
+631,Ortensia,Health,Affluent Customer,No,55.0,Victoria,432
+612,Grange,Health,Mass Customer,No,59.0,New South Wales,432
+681,Jobyna,Manufacturing,Mass Customer,Yes,43.0,New South Wales,432
+639,Mayor,Manufacturing,Mass Customer,No,47.0,New South Wales,432
+613,Carolann,Property,High Net Worth,No,32.0,New South Wales,432
+673,Artie,Health,Mass Customer,Yes,46.0,New South Wales,432
+1709,Osgood,Health,Affluent Customer,No,47.0,New South Wales,432
+1297,Shay,Health,Mass Customer,No,40.0,QLD,432
+1319,Trevor,Entertainment,Mass Customer,Yes,66.0,QLD,432
+3355,Cherin,Manufacturing,Mass Customer,No,31.0,QLD,432
+245,Noell,Financial Services,Affluent Customer,No,20.0,Victoria,432
+1701,Hazlett,Manufacturing,High Net Worth,No,58.0,New South Wales,432
+2775,Dael,Manufacturing,Mass Customer,Yes,55.0,QLD,432
+3152,Lettie,Financial Services,High Net Worth,Yes,22.0,QLD,432
+1479,Avrom,Argiculture,Mass Customer,No,44.0,QLD,432
+362,Jamima,Financial Services,High Net Worth,Yes,47.0,New South Wales,432
+3158,Korey,Telecommunications,Mass Customer,Yes,51.0,QLD,432
+1607,Tiffani,Retail,Mass Customer,Yes,33.0,Victoria,432
+3163,Irvine,Argiculture,Affluent Customer,No,53.0,New South Wales,432
+964,Rhetta,Financial Services,High Net Worth,No,27.0,New South Wales,432
+926,Terrel,Telecommunications,Affluent Customer,No,56.0,New South Wales,432
+3363,Orson,Manufacturing,High Net Worth,Yes,21.0,QLD,432
+2980,Di,Manufacturing,Mass Customer,No,42.0,Victoria,432
+1190,Sib,Financial Services,Affluent Customer,Yes,53.0,New South Wales,432
+766,Nonna,Retail,Mass Customer,Yes,46.0,New South Wales,432
+1833,Klemens,Financial Services,High Net Worth,Yes,54.0,QLD,432
+1624,Hakim,Financial Services,Mass Customer,Yes,41.0,New South Wales,432
+2448,Lorri,Property,High Net Worth,No,29.0,New South Wales,432
+717,Basilius,Manufacturing,Mass Customer,Yes,45.0,New South Wales,432
+3193,Augusta,Property,High Net Worth,No,43.0,New South Wales,432
+951,Meryl,Entertainment,Mass Customer,No,22.0,New South Wales,432
+2254,Ann,Health,Affluent Customer,No,66.0,New South Wales,432
+203,Donovan,Argiculture,Mass Customer,Yes,57.0,New South Wales,432
+3239,Wendi,Health,High Net Worth,No,50.0,Victoria,432
+216,Cinderella,Financial Services,High Net Worth,Yes,26.0,New South Wales,432
+2063,Benny,Health,Affluent Customer,No,58.0,Victoria,432
+218,Stefa,Property,High Net Worth,Yes,28.0,New South Wales,432
+1815,Bab,Argiculture,Mass Customer,Yes,67.0,New South Wales,432
+2502,Concordia,Manufacturing,Mass Customer,Yes,57.0,Victoria,432
+1077,Sheba,Telecommunications,Mass Customer,Yes,66.0,QLD,432
+2125,Laurene,Financial Services,High Net Worth,No,46.0,New South Wales,432
+1684,Janie,Manufacturing,Mass Customer,No,42.0,QLD,432
+564,Nettie,Retail,High Net Worth,No,38.0,New South Wales,432
+694,Lilith,Health,Mass Customer,No,53.0,New South Wales,432
+3393,Henrietta,Retail,Mass Customer,Yes,67.0,New South Wales,432
+2365,Lauretta,Argiculture,Mass Customer,Yes,23.0,QLD,432
+550,Emeline,Retail,Mass Customer,No,45.0,Victoria,432
+891,Talbot,Health,High Net Worth,Yes,40.0,Victoria,432
+1454,Caesar,Argiculture,Mass Customer,Yes,42.0,New South Wales,432
+3133,Eda,Manufacturing,Mass Customer,No,22.0,New South Wales,432
+543,Mikey,Retail,Affluent Customer,Yes,48.0,New South Wales,432
+2862,Normand,Financial Services,Mass Customer,No,34.0,New South Wales,432
+2081,Gelya,Financial Services,Mass Customer,No,49.0,New South Wales,432
+2471,Noland,Manufacturing,Mass Customer,Yes,43.0,New South Wales,432
+529,Sandor,Retail,Affluent Customer,Yes,32.0,New South Wales,432
+3210,Stella,Manufacturing,Mass Customer,No,33.0,Victoria,432
+2098,Ame,Health,High Net Worth,No,52.0,QLD,432
+2421,Marilee,Health,Affluent Customer,Yes,67.0,Victoria,431
+649,Krissie,Financial Services,Mass Customer,Yes,47.0,New South Wales,431
+1895,Leese,Manufacturing,Mass Customer,No,46.0,Victoria,431
+1504,Coop,Property,Affluent Customer,Yes,46.0,New South Wales,431
+276,Goldi,Financial Services,Mass Customer,No,31.0,Victoria,431
+1822,Trudie,Financial Services,Mass Customer,No,59.0,New South Wales,431
+742,Dexter,Manufacturing,Mass Customer,No,55.0,New South Wales,431
+705,Eddie,Retail,High Net Worth,No,57.0,New South Wales,431
+520,Jazmin,Financial Services,Affluent Customer,Yes,57.0,New South Wales,431
+2714,Emmy,Health,High Net Worth,Yes,23.0,New South Wales,431
+3147,Bonnee,Retail,Affluent Customer,Yes,45.0,Victoria,431
+350,Carmela,Health,Mass Customer,Yes,44.0,Victoria,431
+64,Gerek,IT,High Net Worth,No,43.0,Victoria,431
+687,Welby,Retail,High Net Worth,Yes,62.0,New South Wales,431
+2632,Krishna,Argiculture,Mass Customer,No,56.0,New South Wales,424
+697,Weston,Entertainment,Mass Customer,No,35.0,QLD,424
+1179,Kerry,Financial Services,High Net Worth,Yes,33.0,QLD,424
+3374,Joann,Manufacturing,Mass Customer,Yes,62.0,New South Wales,424
+2319,David,Entertainment,High Net Worth,No,36.0,New South Wales,424
+2561,Elga,Manufacturing,High Net Worth,Yes,58.0,QLD,424
+1638,Zachery,Financial Services,Mass Customer,Yes,29.0,Victoria,424
+1116,Tori,Health,Mass Customer,Yes,47.0,New South Wales,424
+1095,Emelda,Health,Mass Customer,No,63.0,New South Wales,424
+3253,Bernadine,Financial Services,High Net Worth,Yes,31.0,New South Wales,424
+824,Fleurette,Financial Services,Affluent Customer,Yes,44.0,QLD,424
+1571,Tadeas,Health,Mass Customer,Yes,41.0,New South Wales,424
+2470,Roy,Argiculture,Mass Customer,No,64.0,New South Wales,423
+2752,Cissiee,Retail,Affluent Customer,Yes,61.0,Victoria,423
+1507,Holmes,Manufacturing,High Net Worth,Yes,44.0,New South Wales,423
+2848,Callie,Property,Mass Customer,Yes,54.0,Victoria,423
+2106,Antons,Financial Services,High Net Worth,Yes,51.0,New South Wales,423
+2038,Fae,Financial Services,Mass Customer,Yes,62.0,Victoria,423
+1264,Michail,Health,Mass Customer,Yes,27.0,QLD,423
+660,Stormi,Manufacturing,High Net Worth,No,26.0,New South Wales,423
+30,Darrick,IT,Affluent Customer,Yes,60.0,New South Wales,423
+2976,Lindsay,Health,Mass Customer,Yes,57.0,Victoria,423
+81,Bee,Health,High Net Worth,No,35.0,New South Wales,423
+2054,Horace,Manufacturing,Mass Customer,Yes,26.0,New South Wales,423
+1240,Pen,Manufacturing,Mass Customer,Yes,56.0,New South Wales,423
+199,Verla,Health,Mass Customer,Yes,43.0,New South Wales,423
+3486,Reece,Manufacturing,Mass Customer,No,65.0,New South Wales,423
+2814,Mandel,Property,High Net Worth,Yes,35.0,QLD,423
+1873,Raul,Manufacturing,Affluent Customer,Yes,29.0,Victoria,423
+3494,Robers,Argiculture,High Net Worth,No,23.0,New South Wales,423
+1425,Chrisy,Retail,High Net Worth,Yes,35.0,New South Wales,423
+2112,Aubrie,Financial Services,Mass Customer,Yes,28.0,New South Wales,423
+1408,Kendricks,Health,High Net Worth,No,24.0,New South Wales,423
+297,Cecile,Manufacturing,High Net Worth,No,62.0,Victoria,423
+680,Gay,IT,High Net Worth,Yes,43.969332992588804,New South Wales,423
+3312,Franky,IT,High Net Worth,No,43.969332992588804,QLD,423
+3096,Lulu,Financial Services,Mass Customer,No,48.0,New South Wales,423
+101,Goran,Manufacturing,High Net Worth,No,46.0,New South Wales,423
+1983,Kimberlee,Entertainment,Affluent Customer,Yes,58.0,QLD,423
+2136,Heather,Health,High Net Worth,Yes,56.0,New South Wales,423
+1941,Dmitri,Entertainment,Mass Customer,No,29.0,QLD,423
+1167,Elberta,Health,Mass Customer,No,25.0,QLD,423
+1161,Sibylle,Retail,Mass Customer,No,44.0,QLD,423
+1923,Immanuel,Health,Mass Customer,No,51.0,Victoria,423
+2823,Weidar,Property,Mass Customer,No,50.0,New South Wales,422
+2817,Agata,Financial Services,Affluent Customer,Yes,34.0,New South Wales,422
+826,Marc,Financial Services,Mass Customer,Yes,23.0,New South Wales,422
+1886,Eugenie,IT,Affluent Customer,No,43.0,New South Wales,422
+1197,Isobel,Financial Services,High Net Worth,Yes,24.0,New South Wales,422
+143,Kendall,Argiculture,Mass Customer,Yes,64.0,QLD,422
+2168,Levon,Financial Services,Mass Customer,Yes,47.0,QLD,422
+1216,Frank,Telecommunications,Affluent Customer,Yes,62.0,Victoria,422
+3487,Amalee,Health,High Net Worth,No,44.0,Victoria,422
+745,Dotty,Manufacturing,Mass Customer,Yes,43.0,QLD,422
+1219,Kaine,Financial Services,Mass Customer,No,50.0,Victoria,422
+2075,Devondra,Manufacturing,Mass Customer,No,48.0,QLD,422
+985,Aryn,Retail,High Net Worth,No,51.0,QLD,422
+1087,Lian,Financial Services,Mass Customer,Yes,42.0,Victoria,422
+2108,Michel,Property,Mass Customer,Yes,36.0,QLD,422
+2122,Osborne,Health,High Net Worth,Yes,48.0,Victoria,422
+1174,Shellysheldon,IT,Mass Customer,No,43.969332992588804,New South Wales,422
+2746,Carmelia,Financial Services,High Net Worth,Yes,68.0,Victoria,422
+2748,Dolorita,Financial Services,Mass Customer,No,54.0,New South Wales,422
+2967,Dud,Health,Affluent Customer,Yes,42.0,QLD,422
+2731,Meagan,Retail,Mass Customer,Yes,21.0,New South Wales,422
+1148,Inigo,Financial Services,High Net Worth,No,34.0,New South Wales,422
+1159,Elbert,Entertainment,Mass Customer,No,28.0,Victoria,422
+106,Glyn,Health,High Net Worth,Yes,55.0,New South Wales,422
+1038,Fraser,Manufacturing,Mass Customer,Yes,43.969332992588804,Victoria,422
+2773,Page,Manufacturing,Mass Customer,Yes,45.0,Victoria,422
+2042,Bendix,Health,Mass Customer,No,53.0,Victoria,422
+2838,Lydie,Retail,High Net Worth,No,44.0,QLD,422
+3473,Sanderson,IT,Mass Customer,No,43.969332992588804,Victoria,422
+3475,Correna,Retail,Affluent Customer,No,36.0,New South Wales,422
+1108,Ginnie,Health,Mass Customer,No,59.0,New South Wales,422
+2414,Basile,Health,Mass Customer,Yes,43.969332992588804,Victoria,422
+3282,Helga,Health,High Net Worth,No,62.0,New South Wales,422
+309,Maurizia,Health,Mass Customer,Yes,47.0,Victoria,422
+1687,Chance,Manufacturing,Affluent Customer,Yes,30.0,New South Wales,422
+2436,Jaymie,IT,Mass Customer,No,35.0,New South Wales,422
+316,Genni,Manufacturing,Mass Customer,Yes,45.0,Victoria,422
+675,Sharl,Financial Services,Mass Customer,Yes,45.0,New South Wales,422
+1399,Kaye,Manufacturing,Mass Customer,No,54.0,Victoria,422
+589,Duff,Financial Services,Mass Customer,Yes,26.0,New South Wales,422
+3125,Krystyna,Health,High Net Worth,Yes,43.0,New South Wales,422
+3275,Lela,Manufacturing,Mass Customer,No,46.0,New South Wales,422
+3338,Nata,Manufacturing,Mass Customer,Yes,57.0,New South Wales,422
+1333,Phillipp,Financial Services,High Net Worth,No,48.0,Victoria,422
+2306,Hilary,Financial Services,High Net Worth,Yes,61.0,Victoria,422
+1705,Nelle,Financial Services,Mass Customer,Yes,42.0,QLD,422
+1751,Sara-ann,Health,Mass Customer,No,52.0,New South Wales,422
+281,Jeanette,Financial Services,High Net Worth,Yes,49.0,New South Wales,422
+296,Marshal,Health,High Net Worth,Yes,49.0,New South Wales,422
+1648,Prissie,Financial Services,Mass Customer,No,40.0,Victoria,422
+236,Tybalt,Health,Affluent Customer,No,67.0,Victoria,422
+1655,Prinz,Manufacturing,Affluent Customer,Yes,38.0,Victoria,422
+559,Erma,Retail,High Net Worth,Yes,33.0,New South Wales,422
+3139,Pail,Financial Services,High Net Worth,Yes,48.0,Victoria,422
+3209,Clarie,Manufacturing,Affluent Customer,No,57.0,QLD,422
+409,Tatiania,Health,Mass Customer,Yes,43.0,New South Wales,422
+2236,Arin,Manufacturing,Affluent Customer,Yes,53.0,New South Wales,422
+1253,Mahalia,Manufacturing,Mass Customer,No,25.0,QLD,422
+1265,Kipper,Property,Mass Customer,Yes,34.0,QLD,421
+126,Norman,Health,Mass Customer,Yes,29.0,QLD,421
+1978,Marge,Health,Mass Customer,No,66.0,Victoria,421
+1703,Nerita,Telecommunications,Mass Customer,Yes,30.0,Victoria,421
+3216,Edgar,Manufacturing,Mass Customer,Yes,23.0,QLD,421
+2758,Fabien,Manufacturing,Affluent Customer,No,66.0,New South Wales,421
+2389,Sibyl,Retail,High Net Worth,No,48.0,New South Wales,421
+1393,Adria,Manufacturing,Mass Customer,No,45.0,Victoria,421
+900,Clevey,Manufacturing,Mass Customer,Yes,31.0,Victoria,421
+1035,Kara-lynn,Retail,Affluent Customer,Yes,45.0,New South Wales,421
+2710,Flory,Retail,Mass Customer,No,23.0,QLD,421
+1456,Berkie,Property,Mass Customer,Yes,57.0,New South Wales,421
+2846,Bryana,Property,Mass Customer,No,51.0,Victoria,421
+2713,Hadlee,Retail,Affluent Customer,Yes,67.0,New South Wales,421
+3322,Hew,Financial Services,Affluent Customer,Yes,43.969332992588804,New South Wales,421
+2994,Karlen,Manufacturing,Mass Customer,Yes,45.0,New South Wales,421
+2719,Alleyn,Telecommunications,Affluent Customer,Yes,33.0,QLD,421
+2330,Claresta,Property,Mass Customer,No,31.0,New South Wales,421
+1341,Parry,Financial Services,Affluent Customer,No,35.0,Victoria,421
+3156,Bearnard,Financial Services,Mass Customer,No,45.0,New South Wales,421
+2878,Sauveur,Property,Mass Customer,Yes,36.0,New South Wales,421
+876,Neil,IT,High Net Worth,No,53.0,New South Wales,421
+689,Hamnet,Entertainment,High Net Worth,Yes,55.0,Victoria,421
+1564,Sascha,Retail,Mass Customer,No,57.0,New South Wales,421
+2949,Alexa,Telecommunications,Mass Customer,No,44.0,Victoria,421
+1538,Ahmed,Health,High Net Worth,Yes,32.0,New South Wales,421
+966,Krystyna,Retail,High Net Worth,Yes,43.0,QLD,421
+3142,Hubert,Manufacturing,Mass Customer,No,29.0,New South Wales,421
+155,Orran,Manufacturing,Mass Customer,No,36.0,New South Wales,421
+2452,Sophronia,Manufacturing,Mass Customer,Yes,46.0,Victoria,421
+885,Yancey,Financial Services,Mass Customer,No,55.0,QLD,421
+2840,Wallie,Manufacturing,Mass Customer,Yes,29.0,Victoria,421
+3123,Tina,Health,High Net Worth,No,45.0,New South Wales,421
+2128,Gregorius,Property,Affluent Customer,Yes,45.0,New South Wales,412
+1963,Syman,Argiculture,Mass Customer,Yes,23.0,QLD,412
+1359,Estrella,Retail,Mass Customer,No,28.0,Victoria,412
+481,Marcella,Argiculture,Mass Customer,No,31.0,New South Wales,412
+351,Dev,Health,Mass Customer,Yes,22.0,Victoria,412
+1584,Susanetta,Manufacturing,Mass Customer,No,29.0,New South Wales,412
+3452,Maura,Retail,Mass Customer,No,57.0,New South Wales,412
+3446,Gard,Manufacturing,Mass Customer,No,54.0,QLD,411
+1121,Dione,Health,Mass Customer,Yes,37.0,New South Wales,411
+3222,Caralie,IT,Affluent Customer,No,43.969332992588804,QLD,411
+2556,Chucho,Health,Mass Customer,Yes,33.0,New South Wales,411
+1485,Meredeth,Health,Mass Customer,Yes,52.0,New South Wales,411
+2032,Theodore,Property,Mass Customer,Yes,38.0,New South Wales,411
+1203,Claresta,Health,Affluent Customer,No,33.0,QLD,411
+1565,Jay,Retail,High Net Worth,Yes,68.0,New South Wales,411
+1810,Royall,Manufacturing,High Net Worth,No,62.0,New South Wales,411
+1495,Charmion,Health,High Net Worth,Yes,32.0,New South Wales,411
+100,Tripp,Financial Services,Mass Customer,Yes,53.0,New South Wales,411
+1145,Korella,Property,Mass Customer,Yes,56.0,Victoria,411
+2468,Parker,Retail,High Net Worth,No,26.0,QLD,344
+2375,Alika,Retail,Affluent Customer,No,34.0,Victoria,344
+1056,Kendricks,Manufacturing,Affluent Customer,No,55.0,New South Wales,344
+2750,Sybille,Property,High Net Worth,No,41.0,Victoria,344
+2469,Kermie,IT,Mass Customer,Yes,43.969332992588804,New South Wales,344
+1477,Leo,Financial Services,Mass Customer,Yes,43.969332992588804,New South Wales,344
+2474,Chrysa,Argiculture,High Net Worth,Yes,41.0,QLD,344
+2020,Portia,Property,Affluent Customer,Yes,50.0,Victoria,344
+2755,Karen,Manufacturing,Mass Customer,Yes,22.0,QLD,344
+1483,Beth,Telecommunications,Mass Customer,Yes,50.0,New South Wales,344
+1616,Shamus,Retail,High Net Worth,Yes,66.0,QLD,344
+1551,Joell,Entertainment,Affluent Customer,No,46.0,New South Wales,344
+2400,Lindsay,Property,Mass Customer,Yes,43.0,QLD,344
+1554,Land,Retail,Affluent Customer,No,27.0,New South Wales,344
+1611,Terencio,Health,High Net Worth,Yes,50.0,New South Wales,344
+1006,Norbert,Telecommunications,Affluent Customer,Yes,44.0,Victoria,344
+2793,Mead,Health,Affluent Customer,Yes,50.0,Victoria,344
+2095,Anette,Manufacturing,Affluent Customer,No,32.0,Victoria,344
+1561,Clemens,Manufacturing,Mass Customer,Yes,46.0,New South Wales,344
+1570,Phil,Entertainment,Mass Customer,No,26.0,New South Wales,344
+1576,Reube,Financial Services,Mass Customer,No,36.0,New South Wales,344
+1597,Jeffry,Retail,Affluent Customer,No,44.0,New South Wales,344
+1579,Madelaine,Financial Services,Affluent Customer,Yes,43.0,New South Wales,344
+987,Lars,Financial Services,Affluent Customer,Yes,47.0,QLD,344
+1537,Andres,Entertainment,Mass Customer,No,52.0,New South Wales,344
+1517,Murdoch,IT,Affluent Customer,No,34.0,New South Wales,344
+1030,Nariko,Health,Mass Customer,No,59.0,Victoria,344
+1049,Fraser,Property,Mass Customer,No,25.0,Victoria,344
+2770,Olvan,Manufacturing,High Net Worth,Yes,44.0,New South Wales,344
+2380,Merissa,Retail,Mass Customer,Yes,65.0,New South Wales,344
+1646,Emmye,Financial Services,Mass Customer,Yes,27.0,New South Wales,344
+1493,Lisabeth,Argiculture,High Net Worth,No,34.0,New South Wales,344
+1644,Gaby,Health,Mass Customer,No,52.0,New South Wales,344
+1461,Earl,Retail,Mass Customer,Yes,64.0,New South Wales,344
+1502,Margalit,Financial Services,Affluent Customer,Yes,31.0,New South Wales,344
+1627,Vladimir,Entertainment,Affluent Customer,No,60.0,Victoria,344
+2383,Zaria,Financial Services,Mass Customer,No,43.0,New South Wales,344
+1024,Rhodia,Health,High Net Worth,Yes,29.0,Victoria,344
+2385,Gaultiero,Health,Mass Customer,No,63.0,Victoria,344
+2454,Gene,Property,Mass Customer,Yes,61.0,New South Wales,344
+1021,Elvis,Retail,High Net Worth,No,44.0,New South Wales,344
+1643,Manda,Retail,Mass Customer,No,60.0,New South Wales,344
+2138,Jonell,Manufacturing,High Net Worth,No,43.0,New South Wales,344
+2367,Lorne,Manufacturing,Mass Customer,Yes,64.0,Victoria,344
+1451,Courtney,Argiculture,Mass Customer,Yes,44.0,New South Wales,344
+2268,Wilhelmina,Health,Mass Customer,No,56.0,Victoria,344
+1818,Katha,Entertainment,Mass Customer,Yes,54.0,Victoria,344
+1812,Daffi,Health,Affluent Customer,No,62.0,New South Wales,344
+2684,Erastus,Health,Mass Customer,Yes,57.0,QLD,344
+2194,Johnette,Manufacturing,Affluent Customer,Yes,63.0,QLD,344
+2601,Morgana,Financial Services,Affluent Customer,No,46.0,New South Wales,344
+1811,Sylvan,Financial Services,Mass Customer,No,22.0,New South Wales,344
+1917,Raquela,Argiculture,Affluent Customer,Yes,48.0,New South Wales,344
+1282,Garald,Entertainment,Affluent Customer,Yes,41.0,QLD,344
+2686,Cully,Financial Services,Affluent Customer,No,25.0,Victoria,344
+2592,Archibaldo,Financial Services,Mass Customer,Yes,26.0,Victoria,344
+2190,Maressa,IT,Affluent Customer,No,42.0,New South Wales,344
+1806,Gil,IT,Mass Customer,No,43.969332992588804,QLD,344
+1302,Ericka,Financial Services,Affluent Customer,Yes,23.0,QLD,344
+2279,Garrett,Health,Mass Customer,No,42.0,New South Wales,344
+1152,Humfrid,Financial Services,Mass Customer,Yes,23.0,QLD,344
+2189,Thedric,Financial Services,High Net Worth,No,23.0,QLD,344
+1272,Nettie,Manufacturing,Affluent Customer,No,36.0,QLD,344
+1591,Fonz,Manufacturing,Mass Customer,Yes,45.0,New South Wales,344
+2201,Trisha,Financial Services,Affluent Customer,Yes,23.0,QLD,344
+1194,Audry,Telecommunications,Affluent Customer,No,29.0,QLD,344
+1858,Gabriella,Manufacturing,High Net Worth,Yes,64.0,New South Wales,344
+1210,Shandie,IT,Mass Customer,No,43.969332992588804,New South Wales,344
+1205,Barton,Manufacturing,Affluent Customer,No,43.0,New South Wales,344
+1887,Kynthia,IT,Affluent Customer,Yes,56.0,Victoria,344
+2240,Niall,Manufacturing,High Net Worth,Yes,52.0,Victoria,344
+2247,Gweneth,Retail,High Net Worth,Yes,26.0,New South Wales,344
+1237,Junia,Health,High Net Worth,No,52.0,Victoria,344
+1820,Yard,IT,Affluent Customer,No,25.0,New South Wales,344
+1845,Pascal,Financial Services,Mass Customer,No,43.0,New South Wales,344
+1250,Jacklyn,Manufacturing,Mass Customer,No,20.0,QLD,344
+1837,Tirrell,Manufacturing,Mass Customer,Yes,48.0,New South Wales,344
+2210,Kirby,Health,High Net Worth,No,36.0,Victoria,344
+2266,Jeth,Retail,High Net Worth,No,23.0,New South Wales,344
+2620,Henderson,Manufacturing,Mass Customer,No,22.0,New South Wales,344
+1821,Fields,Entertainment,High Net Worth,Yes,49.0,New South Wales,344
+1933,Ephraim,Manufacturing,Affluent Customer,No,41.0,New South Wales,344
+2697,Klarika,IT,High Net Worth,No,43.969332992588804,New South Wales,344
+2132,Davina,Financial Services,High Net Worth,Yes,36.0,New South Wales,344
+1106,Sibyl,Retail,Mass Customer,No,59.0,Victoria,344
+2528,Cassie,Financial Services,Affluent Customer,No,43.0,QLD,344
+1103,Glynnis,Financial Services,High Net Worth,Yes,43.0,New South Wales,344
+1102,Stephana,Manufacturing,Affluent Customer,No,45.0,New South Wales,344
+2726,Bradford,Financial Services,Affluent Customer,No,45.0,New South Wales,344
+1866,Huberto,Manufacturing,Mass Customer,No,29.0,New South Wales,344
+1398,Anderea,Manufacturing,Mass Customer,No,55.0,Victoria,344
+1698,Christabella,Health,Affluent Customer,Yes,50.0,New South Wales,344
+2733,Jordanna,Manufacturing,Mass Customer,Yes,36.0,QLD,344
+1696,Mose,Entertainment,High Net Worth,No,30.0,New South Wales,344
+1694,Tonnie,IT,Mass Customer,Yes,62.0,Victoria,344
+2740,Godiva,Financial Services,Affluent Customer,Yes,58.0,New South Wales,344
+1435,Derek,Telecommunications,Affluent Customer,Yes,53.0,New South Wales,344
+2489,Emma,Retail,Mass Customer,No,45.0,New South Wales,344
+1672,Sharla,IT,Affluent Customer,Yes,58.0,New South Wales,344
+2723,Morganne,Manufacturing,Mass Customer,Yes,43.0,New South Wales,344
+1144,Damon,Health,High Net Worth,Yes,25.0,New South Wales,344
+1947,Gretta,Telecommunications,Affluent Customer,Yes,58.0,New South Wales,344
+2184,Lamar,Health,Mass Customer,No,50.0,New South Wales,344
+1937,Renaud,Health,Mass Customer,No,47.0,New South Wales,344
+2284,Ola,Telecommunications,High Net Worth,No,47.0,Victoria,344
+2702,Saraann,Manufacturing,Affluent Customer,Yes,45.0,New South Wales,344
+1788,Anna-diana,Financial Services,High Net Worth,Yes,57.0,New South Wales,344
+2182,Symon,Entertainment,High Net Worth,Yes,54.0,QLD,344
+2574,Humfrey,Manufacturing,Mass Customer,No,42.0,New South Wales,344
+1133,Forrester,Manufacturing,Affluent Customer,No,53.0,QLD,344
+2717,Frederic,Health,Mass Customer,No,40.0,New South Wales,344
+1129,Hercule,Entertainment,Mass Customer,Yes,44.0,QLD,344
+2565,Joannes,Health,Affluent Customer,Yes,52.0,New South Wales,344
+1762,Gaye,Health,Mass Customer,Yes,43.0,Victoria,344
+1957,Gary,Property,Affluent Customer,No,44.0,Victoria,344
+2542,Amanda,Property,Affluent Customer,Yes,55.0,New South Wales,344
+1374,Cleveland,Manufacturing,Mass Customer,No,45.0,Victoria,344
+1113,Dorie,Property,Mass Customer,No,29.0,New South Wales,344
+2076,Beatriz,Manufacturing,Mass Customer,Yes,52.0,Victoria,344
+461,Jsandye,Health,Mass Customer,Yes,42.0,New South Wales,344
+171,Halli,Manufacturing,Mass Customer,No,51.0,New South Wales,344
+2887,Gardiner,Financial Services,High Net Worth,Yes,47.0,New South Wales,344
+177,Ondrea,Financial Services,High Net Worth,No,32.0,New South Wales,344
+3201,Zed,Financial Services,Mass Customer,Yes,21.0,New South Wales,344
+2901,Banky,Manufacturing,Mass Customer,Yes,26.0,QLD,344
+47,Matthew,Health,Affluent Customer,No,29.0,New South Wales,344
+844,Tome,Financial Services,High Net Worth,No,43.0,New South Wales,344
+2880,Ingra,Health,Mass Customer,No,54.0,New South Wales,344
+50,Whitby,Manufacturing,Mass Customer,Yes,41.0,New South Wales,344
+832,Shaun,Retail,Mass Customer,No,44.0,QLD,344
+500,Lazar,Retail,Affluent Customer,Yes,29.0,Victoria,344
+507,Gwen,Health,Mass Customer,No,50.0,New South Wales,344
+44,Neron,Entertainment,Affluent Customer,Yes,40.0,QLD,344
+41,Basilius,Health,Mass Customer,No,45.0,Victoria,344
+3249,Cortney,Manufacturing,Mass Customer,Yes,40.0,New South Wales,344
+3371,Josey,Retail,Mass Customer,No,44.0,QLD,344
+395,Penn,Retail,High Net Worth,Yes,45.0,Victoria,344
+404,Sinclair,Financial Services,Affluent Customer,Yes,26.0,New South Wales,344
+3228,Margette,Health,Mass Customer,No,57.0,New South Wales,344
+425,Michaeline,Retail,Mass Customer,Yes,68.0,New South Wales,344
+445,Timothy,Financial Services,Mass Customer,No,37.0,Victoria,344
+887,Patrizius,Manufacturing,High Net Worth,No,24.0,New South Wales,344
+3220,Hunt,Manufacturing,Affluent Customer,No,49.0,New South Wales,344
+39,Hunfredo,Entertainment,Mass Customer,No,42.0,New South Wales,344
+432,Amby,Manufacturing,Affluent Customer,Yes,31.0,New South Wales,344
+2877,Vaughan,Property,Affluent Customer,Yes,54.0,QLD,344
+877,Didi,Financial Services,Mass Customer,Yes,33.0,New South Wales,344
+516,Craggy,Financial Services,Mass Customer,No,63.0,New South Wales,344
+2932,Bradly,IT,Mass Customer,No,36.0,QLD,344
+3126,Bondon,Financial Services,High Net Worth,No,35.0,Victoria,344
+691,Carver,Financial Services,Affluent Customer,Yes,67.0,New South Wales,344
+765,Valeria,Retail,Affluent Customer,No,37.0,Victoria,344
+3032,Renado,Health,Affluent Customer,Yes,29.0,QLD,344
+682,Ole,Health,Affluent Customer,Yes,50.0,New South Wales,344
+2985,Kerby,Retail,Affluent Customer,Yes,35.0,New South Wales,344
+3431,York,Property,Affluent Customer,No,25.0,Victoria,344
+3120,Lauree,Health,Mass Customer,Yes,42.0,New South Wales,344
+2986,Ettore,Financial Services,Mass Customer,No,41.0,New South Wales,344
+710,Benton,Retail,High Net Worth,Yes,51.0,New South Wales,344
+94,Wallache,Manufacturing,Mass Customer,No,47.0,New South Wales,344
+720,Darrel,Retail,Affluent Customer,No,90.0,New South Wales,344
+724,Heinrik,Financial Services,Mass Customer,Yes,46.0,New South Wales,344
+728,Winthrop,Financial Services,Mass Customer,Yes,65.0,Victoria,344
+3421,Ronalda,Health,Affluent Customer,Yes,59.0,New South Wales,344
+647,Stanislas,Retail,Mass Customer,Yes,64.0,Victoria,344
+769,Cameron,IT,Mass Customer,No,60.0,New South Wales,344
+127,Merrili,Financial Services,Mass Customer,No,47.0,QLD,344
+634,Melonie,Manufacturing,Mass Customer,No,43.0,New South Wales,344
+3060,Milton,Financial Services,Mass Customer,Yes,39.0,New South Wales,344
+2955,Stuart,Financial Services,High Net Worth,No,31.0,New South Wales,344
+788,Gregg,Health,Mass Customer,No,57.0,New South Wales,344
+614,Nonnah,Manufacturing,Mass Customer,Yes,26.0,New South Wales,344
+794,Scott,Financial Services,Affluent Customer,Yes,66.0,New South Wales,344
+139,Gar,Telecommunications,Affluent Customer,No,57.0,QLD,344
+590,Ddene,Health,Mass Customer,Yes,33.0,New South Wales,344
+3117,Nisse,Financial Services,Affluent Customer,Yes,26.0,Victoria,344
+201,Salem,Manufacturing,Mass Customer,Yes,55.0,New South Wales,344
+80,Pablo,Entertainment,Mass Customer,No,43.0,Victoria,344
+2815,Emery,Health,Mass Customer,No,67.0,Victoria,344
+230,Maegan,Property,High Net Worth,No,67.0,New South Wales,344
+250,Kristofer,Health,Mass Customer,Yes,33.0,New South Wales,344
+13,Gabriele,Financial Services,High Net Worth,Yes,66.0,Victoria,344
+3264,Garret,Financial Services,Mass Customer,Yes,43.0,New South Wales,344
+345,Tish,Health,High Net Worth,Yes,32.0,New South Wales,344
+3482,Roch,Health,Affluent Customer,Yes,21.0,QLD,344
+211,Beitris,Manufacturing,Mass Customer,Yes,47.0,New South Wales,344
+968,Wayne,IT,High Net Worth,Yes,66.0,New South Wales,344
+213,Lockwood,Financial Services,High Net Worth,Yes,25.0,QLD,344
+3295,Cleavland,Retail,High Net Worth,Yes,57.0,Victoria,344
+3358,Fairlie,Manufacturing,Affluent Customer,Yes,48.0,New South Wales,344
+936,Raffaello,Health,High Net Worth,No,33.0,Victoria,344
+941,Tye,Financial Services,Affluent Customer,Yes,26.0,QLD,344
+254,Barbie,Retail,Mass Customer,No,60.0,Victoria,344
+204,Thorny,Financial Services,Mass Customer,No,45.0,Victoria,344
+3326,Wes,Manufacturing,High Net Worth,Yes,46.0,New South Wales,344
+29,Mona,Manufacturing,Mass Customer,No,53.0,QLD,344
+380,Teriann,Property,Mass Customer,No,65.0,QLD,344
+3258,Hettie,Retail,Mass Customer,Yes,43.0,New South Wales,344
+3261,Benedicto,Property,Mass Customer,Yes,46.0,New South Wales,344
+912,Vince,Retail,Mass Customer,Yes,53.0,New South Wales,344
+917,Odo,Financial Services,Mass Customer,No,57.0,Victoria,344
+145,Filippo,Financial Services,Mass Customer,No,24.0,New South Wales,343
+1711,Marie-jeanne,Manufacturing,High Net Worth,Yes,28.0,QLD,343
+1402,Hillier,Telecommunications,Mass Customer,No,20.0,Victoria,343
+759,Mitchel,Health,High Net Worth,No,58.0,New South Wales,343
+3436,Marget,Financial Services,Mass Customer,Yes,63.0,New South Wales,343
+2509,Danya,Financial Services,Mass Customer,No,50.0,QLD,343
+2946,Paige,Property,Mass Customer,Yes,31.0,Victoria,343
+2837,Caitrin,Retail,Mass Customer,No,34.0,Victoria,343
+3330,Tina,Health,Mass Customer,Yes,66.0,New South Wales,343
+1001,Finley,Retail,Mass Customer,No,42.0,QLD,343
+58,Dalenna,Financial Services,Affluent Customer,Yes,54.0,New South Wales,343
+950,Bret,IT,High Net Worth,Yes,43.969332992588804,QLD,343
+305,Cris,Financial Services,Mass Customer,No,47.0,New South Wales,343
+3352,Fredek,Manufacturing,Affluent Customer,No,27.0,Victoria,343
+2703,Peria,Manufacturing,Affluent Customer,Yes,41.0,New South Wales,343
+2481,Amber,Manufacturing,Mass Customer,Yes,42.0,Victoria,343
+1259,Emmi,Financial Services,Mass Customer,No,48.0,QLD,343
+3131,Sybilla,Retail,Affluent Customer,Yes,22.0,Victoria,343
+549,Abrahan,Retail,Mass Customer,Yes,36.0,New South Wales,343
+1707,Alfonso,Financial Services,High Net Worth,No,27.0,QLD,343
+136,Mel,Manufacturing,High Net Worth,Yes,48.0,QLD,343
+2832,Tedmund,Telecommunications,Mass Customer,Yes,45.0,Victoria,343
+3324,Sholom,Health,Mass Customer,Yes,48.0,Victoria,343
+642,Les,Property,Mass Customer,No,49.0,QLD,343
+2067,Slade,Health,Mass Customer,No,42.0,New South Wales,343
+1949,Onida,Manufacturing,Mass Customer,No,67.0,New South Wales,343
+2566,Nani,Entertainment,Affluent Customer,Yes,25.0,Victoria,343
+3030,Flor,Manufacturing,Affluent Customer,No,23.0,New South Wales,343
+237,Reginald,Property,High Net Worth,Yes,47.0,New South Wales,343
+2682,Annamarie,Manufacturing,High Net Worth,Yes,34.0,QLD,343
+1007,Cord,Retail,Mass Customer,No,25.0,New South Wales,343
+2331,Marybelle,Financial Services,Mass Customer,Yes,58.0,New South Wales,343
+2179,Benson,Manufacturing,Mass Customer,No,61.0,Victoria,343
+3407,Marven,Financial Services,High Net Worth,Yes,60.0,Victoria,343
+1468,Adaline,Financial Services,Mass Customer,No,43.0,New South Wales,343
+1361,Gradeigh,Manufacturing,Affluent Customer,No,57.0,Victoria,343
+1363,Boniface,Financial Services,Mass Customer,No,60.0,Victoria,343
+2687,Fabe,Manufacturing,High Net Worth,Yes,59.0,New South Wales,343
+102,Langsdon,Manufacturing,Affluent Customer,No,65.0,New South Wales,343
+2338,Clarie,Manufacturing,Mass Customer,No,35.0,New South Wales,343
+2540,Donavon,IT,Mass Customer,Yes,43.969332992588804,New South Wales,343
+1731,Aigneis,Health,High Net Worth,Yes,62.0,QLD,343
+1450,Floris,Manufacturing,Affluent Customer,No,57.0,New South Wales,343
+2110,Gard,Manufacturing,High Net Worth,No,48.0,QLD,343
+429,Berny,IT,High Net Worth,Yes,43.0,New South Wales,343
+1826,Jareb,Manufacturing,High Net Worth,Yes,60.0,New South Wales,343
+1094,Shaughn,Health,High Net Worth,No,46.0,QLD,343
+2844,Amie,Financial Services,Mass Customer,Yes,46.0,New South Wales,343
+246,Binny,Manufacturing,High Net Worth,No,30.0,QLD,343
+1664,Karlis,Manufacturing,Affluent Customer,Yes,46.0,QLD,343
+3204,Ibby,Health,Mass Customer,Yes,27.0,QLD,343
+340,Joshuah,Argiculture,Mass Customer,Yes,48.0,New South Wales,343
+923,Garrek,Financial Services,High Net Worth,No,44.0,QLD,343
+2381,Dulsea,Argiculture,Affluent Customer,Yes,48.0,New South Wales,343
+1864,Anet,Retail,Mass Customer,No,61.0,QLD,343
+2872,Tabbi,Health,Affluent Customer,Yes,47.0,QLD,343
+2438,Lorianne,Manufacturing,Mass Customer,Yes,38.0,New South Wales,343
+24,Kim,Argiculture,Mass Customer,Yes,44.0,New South Wales,343
+1581,Melessa,Argiculture,Mass Customer,No,47.0,New South Wales,343
+87,Fields,Financial Services,Mass Customer,No,47.0,New South Wales,343
+372,Moina,Property,Affluent Customer,Yes,34.0,Victoria,343
+1585,Stillman,Health,Mass Customer,Yes,60.0,New South Wales,343
+1588,Dukey,IT,High Net Worth,Yes,38.0,New South Wales,343
+2763,Dalila,Financial Services,Mass Customer,Yes,42.0,Victoria,343
+2410,Eugenia,Manufacturing,Mass Customer,Yes,47.0,Victoria,343
+401,Halette,Retail,Mass Customer,No,35.0,New South Wales,343
+1613,Ernesta,Property,Mass Customer,No,44.0,New South Wales,343
+1229,Sebastian,Manufacturing,Affluent Customer,Yes,21.0,New South Wales,343
+3143,Corabelle,Manufacturing,Mass Customer,No,25.0,Victoria,343
+333,Debbi,Financial Services,Affluent Customer,Yes,56.0,QLD,343
+90,Cary,Manufacturing,Mass Customer,No,37.0,New South Wales,343
+466,Jarad,Manufacturing,Affluent Customer,Yes,30.0,New South Wales,343
+1913,Tamiko,Health,Mass Customer,Yes,48.0,New South Wales,343
+1912,Hall,Manufacturing,High Net Worth,No,29.0,New South Wales,343
+2839,Jaime,Entertainment,Mass Customer,No,44.0,New South Wales,343
+752,Kalil,Financial Services,High Net Worth,No,60.0,QLD,343
+3020,Witty,Manufacturing,High Net Worth,Yes,56.0,QLD,343
+314,Catie,Retail,High Net Worth,Yes,59.0,Victoria,343
+2204,Kacie,Entertainment,High Net Worth,No,54.0,New South Wales,343
+1254,Quillan,Retail,Mass Customer,Yes,63.0,QLD,343
+475,Vernor,Manufacturing,Affluent Customer,No,25.0,Victoria,343
+2028,Cathy,Retail,Affluent Customer,Yes,45.0,New South Wales,343
+3388,Urbanus,Retail,Mass Customer,No,35.0,New South Wales,343
+1524,Bonni,Financial Services,Mass Customer,Yes,46.0,New South Wales,343
+1527,Gerek,Manufacturing,Mass Customer,No,24.0,New South Wales,343
+981,Bud,Retail,Mass Customer,No,48.0,New South Wales,343
+1531,Evaleen,Financial Services,Mass Customer,Yes,55.0,New South Wales,343
+1776,Korey,Financial Services,Affluent Customer,No,43.0,QLD,343
+2904,Freddi,Manufacturing,High Net Worth,Yes,44.0,New South Wales,343
+2217,Kristofor,Financial Services,Mass Customer,No,40.0,QLD,343
+850,Nevin,Health,Mass Customer,No,21.0,New South Wales,343
+1884,Aurore,Manufacturing,Mass Customer,Yes,52.0,New South Wales,343
+718,Cathe,Manufacturing,Mass Customer,Yes,43.0,QLD,342
+2608,Fenelia,Health,Affluent Customer,Yes,46.0,Victoria,342
+3254,Lissy,Financial Services,Mass Customer,No,20.0,QLD,342
+684,Malvin,Financial Services,Mass Customer,No,34.0,New South Wales,342
+1295,Irving,Argiculture,Mass Customer,Yes,24.0,QLD,342
+382,Issiah,Health,Mass Customer,Yes,36.0,New South Wales,342
+2382,Turner,Retail,Mass Customer,Yes,50.0,QLD,342
+3219,Denyse,Financial Services,Mass Customer,No,23.0,New South Wales,342
+2432,Ebba,Manufacturing,Affluent Customer,Yes,40.0,New South Wales,342
+453,Cornelius,IT,High Net Worth,No,43.969332992588804,New South Wales,342
+1223,Kristyn,Manufacturing,Mass Customer,Yes,56.0,New South Wales,342
+219,Markus,Health,Mass Customer,No,57.0,New South Wales,342
+315,Lisa,Manufacturing,Affluent Customer,No,63.0,Victoria,342
+483,Bertrand,Retail,Affluent Customer,No,48.0,Victoria,342
+1481,Ellissa,Financial Services,Affluent Customer,No,45.0,New South Wales,342
+539,Hobie,Health,High Net Worth,No,46.0,Victoria,342
+563,Rube,IT,Mass Customer,Yes,47.0,QLD,342
+2495,Gwenore,IT,Affluent Customer,No,68.0,New South Wales,342
+2501,Ora,Financial Services,Mass Customer,Yes,50.0,New South Wales,342
+1422,Georgy,Manufacturing,Affluent Customer,Yes,49.0,New South Wales,342
+1405,Kylie,Manufacturing,High Net Worth,Yes,63.0,Victoria,342
+3319,Erda,Financial Services,Affluent Customer,Yes,55.0,Victoria,342
+3185,Duky,Financial Services,Mass Customer,No,65.0,New South Wales,342
+2285,Maritsa,Health,High Net Worth,No,48.0,Victoria,342
+1026,Vernon,Financial Services,Affluent Customer,No,27.0,New South Wales,342
+2915,Enrichetta,Manufacturing,Mass Customer,No,46.0,QLD,342
+2018,Richie,Financial Services,Affluent Customer,No,58.0,New South Wales,342
+2008,Jamill,Financial Services,Mass Customer,Yes,28.0,QLD,342
+2073,Linea,Manufacturing,High Net Worth,Yes,47.0,Victoria,342
+2916,Lauren,Manufacturing,Affluent Customer,Yes,52.0,QLD,342
+1155,Janetta,Property,Mass Customer,Yes,27.0,New South Wales,342
+907,Eamon,Property,High Net Worth,Yes,43.0,New South Wales,342
+1199,Ludovico,Financial Services,Affluent Customer,Yes,63.0,New South Wales,342
+488,Domini,Property,Mass Customer,Yes,41.0,Victoria,341
+1429,Dante,Health,Mass Customer,Yes,41.0,New South Wales,341
+2591,Estevan,Retail,High Net Worth,No,47.0,New South Wales,334
+3478,Hartwell,Health,Mass Customer,No,35.0,New South Wales,334
+2170,Dewitt,Manufacturing,Affluent Customer,No,58.0,New South Wales,334
+2888,Hamel,IT,High Net Worth,Yes,59.0,New South Wales,334
+823,Stesha,Manufacturing,Affluent Customer,No,31.0,New South Wales,334
+2360,Karleen,Financial Services,High Net Worth,Yes,47.0,New South Wales,334
+1639,Marna,Manufacturing,Mass Customer,Yes,59.0,New South Wales,334
+1979,Ephrem,Manufacturing,Mass Customer,Yes,61.0,QLD,334
+3462,Jehanna,Health,High Net Worth,No,64.0,Victoria,334
+2852,Clarinda,Property,High Net Worth,Yes,50.0,Victoria,334
+396,Peria,Telecommunications,High Net Worth,Yes,54.0,New South Wales,334
+546,Jorie,Health,Mass Customer,Yes,40.0,New South Wales,334
+1825,Arv,Financial Services,Mass Customer,Yes,54.0,Victoria,334
+3288,Fair,IT,High Net Worth,No,43.969332992588804,New South Wales,334
+352,Orrin,Retail,Mass Customer,No,42.0,QLD,334
+2154,Bird,Manufacturing,High Net Worth,No,41.0,New South Wales,334
+2097,Web,Telecommunications,Mass Customer,No,33.0,QLD,334
+1440,Consuela,Financial Services,High Net Worth,Yes,56.0,New South Wales,334
+3394,Barde,Health,Mass Customer,No,47.0,New South Wales,334
+66,Anselm,Argiculture,High Net Worth,No,19.0,New South Wales,334
+815,Caryn,Manufacturing,Mass Customer,Yes,47.0,New South Wales,334
+1411,Katrina,Health,Mass Customer,Yes,27.0,New South Wales,334
+1300,Sisely,Financial Services,Affluent Customer,Yes,30.0,QLD,334
+147,Rea,Health,Mass Customer,Yes,48.0,New South Wales,334
+2260,Jarad,Argiculture,High Net Worth,No,54.0,New South Wales,334
+2843,Lorain,Financial Services,Affluent Customer,Yes,53.0,New South Wales,334
+1967,Nomi,Manufacturing,Affluent Customer,Yes,36.0,New South Wales,334
+706,Kane,Financial Services,High Net Worth,Yes,31.0,Victoria,334
+1848,Dev,Manufacturing,Mass Customer,No,45.0,New South Wales,334
+1516,Ham,IT,Affluent Customer,No,54.0,New South Wales,334
+3379,Elysee,Health,Mass Customer,Yes,22.0,Victoria,334
+2297,Pauletta,Manufacturing,Affluent Customer,Yes,50.0,QLD,334
+1351,Lorettalorna,IT,High Net Worth,No,43.969332992588804,Victoria,334
+1379,Lou,Financial Services,Mass Customer,Yes,32.0,Victoria,334
+3058,Hamnet,Manufacturing,Mass Customer,Yes,35.0,New South Wales,334
+1110,Lazar,Retail,High Net Worth,No,30.0,Victoria,334
+1863,Adelbert,Telecommunications,High Net Worth,No,43.0,New South Wales,334
+849,Sylvan,Entertainment,Mass Customer,No,52.0,QLD,334
+1868,Aloisia,Retail,Mass Customer,No,33.0,QLD,334
+2552,Allard,Manufacturing,Affluent Customer,Yes,48.0,New South Wales,334
+2288,Cirillo,Manufacturing,High Net Worth,No,57.0,Victoria,334
+2105,Terrance,Health,High Net Worth,Yes,50.0,Victoria,334
+308,Iver,IT,High Net Worth,No,38.0,Victoria,334
+3350,Tam,Manufacturing,Affluent Customer,No,46.0,New South Wales,334
+989,Caralie,Financial Services,Mass Customer,No,39.0,QLD,334
+3383,Dane,Financial Services,Affluent Customer,Yes,39.0,Victoria,334
+1505,Cristian,Financial Services,Mass Customer,No,28.0,New South Wales,334
+2627,Hildegaard,Retail,Mass Customer,Yes,50.0,New South Wales,334
+1345,Jeth,Manufacturing,Mass Customer,No,61.0,Victoria,334
+3178,Gan,Retail,Mass Customer,Yes,50.0,QLD,334
+2062,Guillermo,Retail,Mass Customer,No,45.0,QLD,333
+2263,Lois,Argiculture,Mass Customer,Yes,34.0,Victoria,333
+210,Albrecht,Property,Mass Customer,No,58.0,Victoria,333
+1697,Eddi,Health,Mass Customer,Yes,52.0,New South Wales,333
+1681,Rupert,Health,High Net Worth,Yes,42.0,Victoria,333
+570,Xever,Financial Services,Mass Customer,Yes,43.0,New South Wales,333
+1878,Pen,Health,Affluent Customer,No,67.0,QLD,333
+3285,Mendie,Health,Affluent Customer,Yes,35.0,Victoria,333
+1827,Stormie,Retail,Affluent Customer,Yes,43.0,QLD,333
+221,Mara,Manufacturing,Mass Customer,No,41.0,New South Wales,333
+3299,Sybille,Manufacturing,Affluent Customer,Yes,41.0,Victoria,333
+329,Garvy,Entertainment,High Net Worth,Yes,37.0,Victoria,333
+795,Cassy,Financial Services,High Net Worth,No,48.0,New South Wales,333
+2354,Tammie,Retail,Mass Customer,No,63.0,Victoria,333
+2539,Tracie,Manufacturing,Affluent Customer,Yes,54.0,New South Wales,333
+337,Shaylah,Argiculture,High Net Worth,Yes,42.0,Victoria,333
+3095,Joachim,Retail,High Net Worth,Yes,23.0,Victoria,333
+588,Gunther,Entertainment,Mass Customer,No,58.0,New South Wales,333
+1384,Marcile,Manufacturing,Mass Customer,No,23.0,QLD,333
+3399,Hillyer,Financial Services,Mass Customer,No,25.0,New South Wales,333
+1423,Tiphanie,Manufacturing,Mass Customer,No,62.0,New South Wales,333
+821,Gregoor,Financial Services,Mass Customer,Yes,40.0,New South Wales,333
+208,Rutter,Property,High Net Worth,No,27.0,QLD,333
+1071,Chrisy,Retail,High Net Worth,No,35.0,New South Wales,333
+2462,Fletcher,Entertainment,Affluent Customer,No,41.0,Victoria,333
+408,Kurtis,Financial Services,Affluent Customer,No,30.0,Victoria,333
+2212,Adrianne,Manufacturing,Affluent Customer,Yes,47.0,QLD,333
+2412,Tiffi,Manufacturing,Affluent Customer,No,40.0,QLD,333
+1518,Dallon,Property,Affluent Customer,No,50.0,New South Wales,333
+477,Cheri,Financial Services,High Net Worth,Yes,61.0,New South Wales,333
+3278,Marcel,Financial Services,Affluent Customer,No,39.0,QLD,333
+840,Chas,Financial Services,Affluent Customer,Yes,57.0,QLD,333
+3372,Orazio,Telecommunications,High Net Worth,No,67.0,New South Wales,333
+1861,Charlena,Manufacturing,Mass Customer,Yes,54.0,New South Wales,333
+2422,Crysta,Entertainment,High Net Worth,No,43.0,New South Wales,333
+176,Angelo,Property,Mass Customer,No,29.0,New South Wales,333
+2439,Shelly,Manufacturing,Affluent Customer,No,54.0,QLD,333
+873,Worthington,Health,Affluent Customer,Yes,62.0,New South Wales,333
+1550,Nell,IT,Mass Customer,Yes,35.0,New South Wales,333
+2399,Devonne,Manufacturing,High Net Worth,Yes,41.0,New South Wales,333
+1486,Dag,Manufacturing,Mass Customer,No,43.0,New South Wales,333
+1125,Raff,IT,Affluent Customer,No,31.0,New South Wales,333
+1432,Hiram,Argiculture,High Net Worth,Yes,23.0,New South Wales,333
+1653,Florry,Argiculture,Mass Customer,Yes,34.0,New South Wales,333
+2488,Idalia,Financial Services,Mass Customer,Yes,33.0,New South Wales,333
+560,Dorree,Health,Affluent Customer,No,68.0,Victoria,333
+818,Beverie,Manufacturing,Mass Customer,No,48.0,New South Wales,333
+2480,Adey,Manufacturing,High Net Worth,Yes,50.0,QLD,333
+1136,Ivan,Property,High Net Worth,No,44.0,New South Wales,333
+3132,Nicko,Retail,Mass Customer,Yes,46.0,New South Wales,333
+367,Katrinka,Manufacturing,Mass Customer,Yes,36.0,New South Wales,333
+313,Theo,Manufacturing,Mass Customer,Yes,34.0,Victoria,333
+3368,Tanya,Financial Services,Affluent Customer,No,54.0,New South Wales,333
+532,Row,Financial Services,Affluent Customer,No,60.0,QLD,333
+2768,Forest,Manufacturing,Mass Customer,No,26.0,New South Wales,333
+2024,Elinor,IT,Mass Customer,Yes,21.0,QLD,333
+2919,Rustin,Financial Services,High Net Worth,Yes,57.0,QLD,333
+1128,Kirsten,Financial Services,Mass Customer,Yes,29.0,QLD,333
+523,Elberta,Financial Services,Affluent Customer,Yes,47.0,New South Wales,333
+1636,Karly,Manufacturing,High Net Worth,Yes,41.0,New South Wales,333
+2544,Ellery,Manufacturing,Mass Customer,Yes,33.0,New South Wales,333
+1388,Carny,Financial Services,Mass Customer,No,49.0,Victoria,333
+969,Jo,Health,High Net Worth,Yes,43.0,QLD,333
+777,Wolfgang,Financial Services,High Net Worth,No,28.0,New South Wales,333
+2117,Llywellyn,Health,Affluent Customer,No,26.0,New South Wales,333
+957,Jamima,Manufacturing,Affluent Customer,Yes,27.0,Victoria,333
+1714,Esma,Property,High Net Worth,Yes,23.0,New South Wales,333
+3306,Iggy,Financial Services,Mass Customer,No,30.0,New South Wales,333
+667,Nicoline,Manufacturing,High Net Worth,Yes,27.0,New South Wales,333
+1771,Zarah,Manufacturing,Mass Customer,Yes,47.0,QLD,333
+1720,Matilda,Financial Services,Mass Customer,Yes,35.0,Victoria,333
+1809,Reba,Health,Mass Customer,Yes,60.0,New South Wales,333
+1288,Abra,Financial Services,Affluent Customer,Yes,42.0,QLD,333
+653,Maxy,Financial Services,Affluent Customer,Yes,53.0,New South Wales,333
+2803,Ailsun,Retail,Mass Customer,Yes,51.0,Victoria,333
+1761,Kassi,Manufacturing,Mass Customer,Yes,47.0,New South Wales,333
+3047,Eddy,Retail,Mass Customer,Yes,59.0,New South Wales,333
+1759,Quillan,Financial Services,High Net Worth,No,52.0,New South Wales,333
+3331,Claire,Financial Services,Mass Customer,No,50.0,Victoria,333
+661,Cinderella,IT,High Net Worth,No,33.0,New South Wales,333
+1314,De,Health,Mass Customer,Yes,51.0,New South Wales,333
+1263,Elliot,Manufacturing,Affluent Customer,No,48.0,QLD,333
+2966,Fredi,Health,Mass Customer,Yes,52.0,New South Wales,333
+782,Bevvy,Manufacturing,Mass Customer,No,45.0,QLD,333
+2312,Ronnica,Manufacturing,Mass Customer,No,42.0,QLD,333
+1019,Ignazio,Manufacturing,Mass Customer,Yes,48.0,New South Wales,333
+1236,Bryanty,Financial Services,High Net Worth,Yes,47.0,Victoria,333
+2639,Mufi,Entertainment,Mass Customer,Yes,35.0,QLD,333
+1969,Dimitry,IT,Mass Customer,Yes,60.0,Victoria,333
+3302,Faulkner,Financial Services,Affluent Customer,No,65.0,New South Wales,333
+1785,Marty,Health,Mass Customer,No,61.0,Victoria,333
+3067,Veronique,Manufacturing,Mass Customer,Yes,30.0,Victoria,333
+970,Kellyann,Financial Services,High Net Worth,Yes,41.0,New South Wales,333
+227,Wendall,Entertainment,Mass Customer,No,48.0,New South Wales,333
+1195,Ally,Telecommunications,Mass Customer,No,43.0,Victoria,333
+3425,Alister,Manufacturing,Mass Customer,Yes,35.0,Victoria,333
+79,Tybi,Manufacturing,Mass Customer,No,53.0,New South Wales,333
+2466,Araldo,Entertainment,High Net Worth,No,41.0,QLD,332
+701,Ransell,Health,Mass Customer,Yes,65.0,QLD,332
+2467,Ynez,Manufacturing,Affluent Customer,Yes,46.0,New South Wales,332
+2801,Danella,Health,Mass Customer,No,56.0,Victoria,332
+2658,Inger,Manufacturing,Mass Customer,Yes,57.0,New South Wales,332
+2392,Isadora,Manufacturing,Affluent Customer,No,20.0,New South Wales,332
+2811,Sharia,Property,Mass Customer,No,45.0,New South Wales,332
+756,Carin,Manufacturing,Mass Customer,Yes,47.0,Victoria,332
+233,Art,Property,Mass Customer,No,35.0,New South Wales,332
+3391,Terrel,Manufacturing,Mass Customer,No,30.0,Victoria,332
+2760,Early,Property,Mass Customer,No,45.0,QLD,332
+686,Hallie,Argiculture,High Net Worth,Yes,67.0,New South Wales,332
+994,Rhetta,Entertainment,Affluent Customer,Yes,44.0,Victoria,332
+1196,Phillie,Health,Mass Customer,No,23.0,New South Wales,332
+1050,Marjie,Telecommunications,Mass Customer,Yes,48.0,New South Wales,332
+15,Erroll,Manufacturing,Mass Customer,No,21.0,New South Wales,332
+3238,Sauveur,Retail,Mass Customer,No,44.0,New South Wales,332
+452,Natalee,Property,Mass Customer,Yes,62.0,Victoria,332
+2899,Leora,Manufacturing,High Net Worth,No,31.0,New South Wales,332
+459,Bel,Manufacturing,Mass Customer,Yes,35.0,QLD,332
+2227,Duff,Property,Affluent Customer,Yes,45.0,Victoria,332
+2127,Wanids,Manufacturing,Mass Customer,No,47.0,Victoria,332
+859,Devinne,Financial Services,Affluent Customer,Yes,43.0,New South Wales,332
+2445,Johnnie,Retail,Affluent Customer,No,45.0,New South Wales,332
+186,Mireielle,Financial Services,Mass Customer,No,47.0,QLD,332
+1790,Vite,Health,Affluent Customer,No,28.0,New South Wales,332
+3345,Hersch,Financial Services,High Net Worth,No,44.0,QLD,332
+2871,Hubie,Entertainment,High Net Worth,Yes,43.0,New South Wales,332
+2214,Farlay,Manufacturing,High Net Worth,Yes,64.0,New South Wales,332
+2997,Jo-ann,Health,Affluent Customer,No,48.0,QLD,332
+2645,Ado,IT,High Net Worth,Yes,21.0,New South Wales,332
+193,Foss,Manufacturing,Mass Customer,Yes,57.0,QLD,332
+2415,Tanner,Manufacturing,Mass Customer,No,43.0,New South Wales,332
+72,Sammy,Manufacturing,Affluent Customer,Yes,49.0,QLD,332
+1244,Glenn,Financial Services,Mass Customer,Yes,43.969332992588804,New South Wales,332
+889,Ezequiel,Retail,Affluent Customer,Yes,54.0,QLD,332
+484,Mason,Manufacturing,Mass Customer,No,47.0,New South Wales,332
+2650,Candice,IT,Affluent Customer,Yes,26.0,QLD,332
+2624,Winfield,Retail,Mass Customer,Yes,57.0,Victoria,332
+258,Othella,Manufacturing,High Net Worth,No,29.0,New South Wales,332
+2100,Der,IT,Mass Customer,No,43.0,Victoria,332
+3174,Odele,Financial Services,Affluent Customer,No,45.0,New South Wales,332
+1902,Camille,Financial Services,Mass Customer,Yes,57.0,Victoria,332
+3479,Pierette,IT,Mass Customer,No,57.0,Victoria,332
+1153,Mirilla,Health,Mass Customer,Yes,26.0,QLD,332
+2944,Kimball,Manufacturing,Affluent Customer,No,44.0,New South Wales,332
+1420,Minni,Health,Mass Customer,No,62.0,New South Wales,332
+149,Drucy,Health,Mass Customer,Yes,26.0,QLD,332
+2772,Reynolds,Property,Affluent Customer,Yes,67.0,New South Wales,332
+580,Johnathan,Financial Services,Mass Customer,Yes,46.0,New South Wales,332
+1719,Devy,Financial Services,High Net Worth,No,48.0,Victoria,332
+1406,Georges,Financial Services,High Net Worth,Yes,51.0,Victoria,332
+2010,Duff,Manufacturing,High Net Worth,Yes,47.0,New South Wales,332
+1718,Eada,Financial Services,High Net Worth,Yes,27.0,New South Wales,332
+2366,Idette,Health,Mass Customer,Yes,46.0,New South Wales,332
+1015,Toiboid,Health,Mass Customer,No,66.0,Victoria,332
+2677,Zollie,Financial Services,Mass Customer,No,67.0,New South Wales,332
+1316,Steven,Retail,High Net Worth,Yes,31.0,QLD,332
+1930,Ambrose,Manufacturing,High Net Worth,No,25.0,Victoria,332
+3303,Ced,Telecommunications,Affluent Customer,Yes,54.0,Victoria,332
+1027,Rolando,Financial Services,Affluent Customer,No,55.0,New South Wales,332
+1018,Matthiew,Manufacturing,Mass Customer,Yes,27.0,Victoria,332
+1349,Curran,Manufacturing,Affluent Customer,No,24.0,Victoria,332
+324,Franz,IT,Mass Customer,Yes,35.0,New South Wales,332
+137,Vaughn,Property,High Net Worth,No,34.0,New South Wales,332
+323,Celka,Health,Mass Customer,Yes,48.0,QLD,332
+3408,Becka,Manufacturing,Mass Customer,No,49.0,QLD,332
+2952,Cristy,Manufacturing,High Net Worth,Yes,46.0,New South Wales,332
+1813,Reeva,Manufacturing,Mass Customer,No,20.0,QLD,332
+785,Anthea,Manufacturing,Mass Customer,Yes,42.0,New South Wales,332
+767,Gustav,Manufacturing,High Net Worth,No,66.0,New South Wales,332
+958,Kristofor,Health,High Net Worth,No,57.0,New South Wales,332
+1444,Claudian,Health,Mass Customer,No,46.0,New South Wales,332
+3027,Augy,Health,Mass Customer,Yes,44.0,QLD,332
+2484,Elise,Property,Mass Customer,Yes,42.0,New South Wales,332
+2584,Sharia,Financial Services,High Net Worth,No,41.0,New South Wales,332
+666,Anselma,Health,High Net Worth,Yes,38.0,Victoria,332
+3422,Lucine,Manufacturing,Mass Customer,No,43.0,New South Wales,332
+553,Charlean,Argiculture,Affluent Customer,Yes,42.0,New South Wales,332
+1186,Brantley,Manufacturing,Affluent Customer,Yes,44.0,New South Wales,332
+3035,Sigfrid,Health,High Net Worth,No,41.0,New South Wales,332
+819,Temp,Manufacturing,Affluent Customer,Yes,46.0,New South Wales,332
+542,Berri,Manufacturing,Mass Customer,No,54.0,New South Wales,332
+1310,Keane,Manufacturing,High Net Worth,Yes,35.0,QLD,332
+1455,Cleo,Property,Affluent Customer,No,29.0,New South Wales,332
+3274,Tory,Financial Services,Mass Customer,Yes,48.0,New South Wales,332
+1738,Frankie,Argiculture,High Net Worth,Yes,36.0,Victoria,332
+2490,Clint,Health,Mass Customer,Yes,34.0,New South Wales,332
+1835,Rodrigo,Financial Services,Affluent Customer,Yes,28.0,New South Wales,331
+1226,Constantia,Health,Mass Customer,Yes,40.0,Victoria,331
+2800,Dominga,Financial Services,Mass Customer,No,33.0,New South Wales,331
+458,Osborn,Manufacturing,Affluent Customer,Yes,52.0,Victoria,331
+3200,Marna,Manufacturing,Mass Customer,No,26.0,QLD,331
+253,Amalee,Health,Mass Customer,Yes,24.0,New South Wales,331
+3339,Andrea,Health,Mass Customer,No,35.0,Victoria,331
+1078,Abe,Manufacturing,Mass Customer,No,45.0,New South Wales,331
+133,Eldridge,Financial Services,Mass Customer,Yes,44.0,QLD,331
+744,Heinrik,Manufacturing,Affluent Customer,Yes,44.0,Victoria,331
+2278,Gerri,Health,Affluent Customer,Yes,44.0,New South Wales,331
+1419,Roddy,Financial Services,Mass Customer,Yes,54.0,New South Wales,331
+778,Stacy,Manufacturing,High Net Worth,No,45.0,New South Wales,331
+2171,Laryssa,Health,High Net Worth,No,51.0,New South Wales,331
+915,Austina,Entertainment,Mass Customer,No,37.0,New South Wales,331
+1061,Anderson,Financial Services,Mass Customer,No,33.0,New South Wales,331
+3263,Quentin,Manufacturing,Affluent Customer,No,40.0,New South Wales,331
+3440,Retha,Manufacturing,Mass Customer,No,63.0,New South Wales,331
+3413,Zulema,Financial Services,Mass Customer,No,24.0,New South Wales,324
+2007,Gail,Manufacturing,Mass Customer,Yes,51.0,New South Wales,324
+2172,Emmery,Health,Affluent Customer,Yes,42.0,New South Wales,324
+2296,Nathalia,Retail,Affluent Customer,No,19.0,QLD,323
+2300,Cary,Financial Services,Mass Customer,Yes,23.0,QLD,323
+2864,Mariejeanne,IT,Mass Customer,No,47.0,Victoria,323
+387,Spike,Financial Services,Mass Customer,No,44.0,New South Wales,323
+2875,Keven,Financial Services,High Net Worth,No,23.0,QLD,323
+1042,Isacco,Manufacturing,High Net Worth,Yes,45.0,New South Wales,323
+2408,Celestia,Health,Mass Customer,No,66.0,New South Wales,323
+303,Shane,Argiculture,Mass Customer,Yes,47.0,New South Wales,323
+2295,Farris,IT,Mass Customer,Yes,43.969332992588804,New South Wales,323
+20,Basile,Manufacturing,Mass Customer,No,41.0,New South Wales,323
+2277,Gillie,Financial Services,High Net Worth,Yes,58.0,Victoria,323
+2357,Lisette,Manufacturing,Mass Customer,No,59.0,New South Wales,323
+3089,Wood,Manufacturing,Affluent Customer,Yes,21.0,QLD,323
+2198,Marijn,Property,Affluent Customer,Yes,23.0,New South Wales,323
+2558,Imojean,Health,High Net Worth,Yes,47.0,Victoria,323
+3127,Tucker,Health,Mass Customer,No,50.0,Victoria,323
+3000,Tann,Financial Services,Affluent Customer,No,47.0,New South Wales,323
+2113,Nita,Manufacturing,Affluent Customer,No,49.0,QLD,323
+651,Minni,Health,Affluent Customer,No,48.0,New South Wales,323
+92,Jodee,Health,Mass Customer,No,41.0,Victoria,323
+536,Jannelle,Manufacturing,Affluent Customer,No,62.0,New South Wales,323
+95,Nomi,Manufacturing,Affluent Customer,Yes,61.0,Victoria,323
+1214,Martino,Property,High Net Worth,No,32.0,New South Wales,323
+2665,Seth,Telecommunications,Mass Customer,Yes,56.0,New South Wales,323
+2614,Anatollo,Retail,High Net Worth,No,64.0,Victoria,323
+2199,Leigha,Property,High Net Worth,Yes,38.0,New South Wales,323
+1311,Sharona,Financial Services,Mass Customer,Yes,37.0,QLD,323
+2515,Manya,Retail,Affluent Customer,Yes,26.0,New South Wales,323
+615,Rebeca,Property,Mass Customer,No,65.0,QLD,323
+2218,Madelena,Health,Affluent Customer,No,29.0,Victoria,323
+3098,Tiff,Health,Mass Customer,No,41.0,QLD,323
+1804,Matelda,Property,Affluent Customer,No,58.0,New South Wales,322
+3049,Tristam,Property,High Net Worth,Yes,54.0,Victoria,322
+202,Audie,Entertainment,Affluent Customer,Yes,58.0,QLD,322
+654,Noelani,Manufacturing,Affluent Customer,No,28.0,New South Wales,322
+1634,Jordana,Manufacturing,Affluent Customer,No,51.0,New South Wales,322
+1630,Sonni,Manufacturing,Mass Customer,No,37.0,New South Wales,322
+1841,Nathanial,Argiculture,Affluent Customer,No,26.0,New South Wales,322
+2085,Carolynn,Health,Mass Customer,No,65.0,Victoria,322
+3357,Georgie,Manufacturing,Affluent Customer,No,22.0,QLD,322
+1312,Magda,Health,Affluent Customer,No,27.0,QLD,322
+1633,Ashia,Property,High Net Worth,Yes,57.0,QLD,322
+2707,Tabb,Property,High Net Worth,Yes,33.0,QLD,322
+1041,Free,Property,Affluent Customer,No,62.0,New South Wales,322
+2578,Felice,Retail,High Net Worth,No,30.0,QLD,322
+554,Esmaria,Health,Mass Customer,Yes,66.0,New South Wales,322
+609,Margalit,Health,Mass Customer,No,21.0,New South Wales,322
+617,Idell,Property,Mass Customer,No,61.0,QLD,322
+1156,Breena,Argiculture,Mass Customer,Yes,24.0,QLD,322
+2842,Olimpia,Health,Mass Customer,No,53.0,New South Wales,322
+225,Brittaney,Health,Affluent Customer,No,44.0,New South Wales,322
+3400,Brenna,Financial Services,Mass Customer,Yes,34.0,Victoria,322
+797,Meridel,Financial Services,Mass Customer,No,48.0,New South Wales,322
+939,Cristian,Manufacturing,Mass Customer,No,60.0,New South Wales,322
+2176,Josie,Property,High Net Worth,Yes,59.0,New South Wales,322
+583,Tirrell,Health,Mass Customer,No,35.0,New South Wales,322
+2694,Teddi,Retail,Mass Customer,No,36.0,QLD,322
+3110,Fabien,IT,Affluent Customer,Yes,27.0,QLD,322
+2511,Jedidiah,Financial Services,Mass Customer,Yes,30.0,New South Wales,322
+632,Angeli,Health,Mass Customer,No,23.0,Victoria,322
+798,Dorita,Financial Services,High Net Worth,No,33.0,Victoria,322
+3485,Berthe,Financial Services,High Net Worth,Yes,40.0,New South Wales,322
+2370,Juliane,Property,High Net Worth,No,25.0,New South Wales,322
+1343,Creight,Health,High Net Worth,No,42.0,Victoria,322
+2261,Gerome,Health,Mass Customer,Yes,41.0,Victoria,322
+806,Carter,Retail,Mass Customer,Yes,29.0,New South Wales,322
+1142,Michal,Telecommunications,Mass Customer,No,23.0,New South Wales,322
+2971,Esther,Manufacturing,High Net Worth,Yes,53.0,New South Wales,322
+2533,Harper,Health,Affluent Customer,Yes,28.0,New South Wales,322
+1989,Emalee,Property,High Net Worth,Yes,48.0,New South Wales,322
+1883,Jinny,Health,Mass Customer,No,30.0,QLD,322
+2626,Gerome,Property,Affluent Customer,Yes,23.0,New South Wales,322
+1118,Colline,Retail,Mass Customer,Yes,46.0,New South Wales,322
+1855,Foss,Entertainment,Mass Customer,Yes,50.0,Victoria,322
+1894,Patten,Manufacturing,High Net Worth,Yes,45.0,Victoria,322
+1739,Burnaby,Entertainment,Mass Customer,No,67.0,New South Wales,322
+2451,Upton,Argiculture,Affluent Customer,Yes,48.0,QLD,322
+2868,Corina,Retail,High Net Worth,No,49.0,New South Wales,322
+179,Esteban,Manufacturing,High Net Worth,Yes,55.0,New South Wales,322
+838,Hayden,Financial Services,High Net Worth,No,50.0,QLD,322
+184,Nappie,Manufacturing,High Net Worth,Yes,50.0,New South Wales,322
+1523,Brnaba,Financial Services,Mass Customer,Yes,62.0,New South Wales,322
+3469,Arabele,Health,Mass Customer,Yes,34.0,QLD,322
+1525,Philis,Financial Services,High Net Worth,No,55.0,New South Wales,322
+1869,Neda,Financial Services,High Net Worth,Yes,44.0,QLD,322
+2996,Jerrylee,Financial Services,Mass Customer,No,54.0,QLD,322
+1079,Dennie,Manufacturing,Mass Customer,No,43.0,New South Wales,322
+3211,Betsy,Health,High Net Worth,Yes,28.0,Victoria,322
+2741,Reinwald,Property,High Net Worth,No,22.0,QLD,322
+1536,Tiffany,Financial Services,Affluent Customer,Yes,42.0,New South Wales,322
+1780,Maude,IT,Mass Customer,No,43.969332992588804,Victoria,322
+1987,Jacobo,Health,Affluent Customer,No,65.0,New South Wales,322
+2137,Renie,Manufacturing,Affluent Customer,No,50.0,QLD,322
+3011,Robena,Financial Services,High Net Worth,No,27.0,New South Wales,322
+1548,Perla,Manufacturing,Mass Customer,Yes,26.0,New South Wales,322
+2320,Kaylyn,Manufacturing,Affluent Customer,No,56.0,New South Wales,322
+1847,Bobinette,Manufacturing,Mass Customer,No,43.0,New South Wales,322
+3328,Arabella,Health,Mass Customer,No,60.0,QLD,322
+1753,Kerry,Health,High Net Worth,Yes,24.0,New South Wales,322
+1273,Hieronymus,Financial Services,Affluent Customer,Yes,47.0,QLD,322
+460,Illa,Manufacturing,Affluent Customer,Yes,35.0,Victoria,322
+2241,Augy,Financial Services,High Net Worth,No,46.0,Victoria,322
+266,Lelia,Retail,Affluent Customer,No,32.0,New South Wales,322
+1603,Osgood,Manufacturing,Affluent Customer,Yes,33.0,QLD,322
+1601,Nita,Manufacturing,Affluent Customer,No,28.0,New South Wales,322
+2229,Linette,Financial Services,Affluent Customer,Yes,62.0,New South Wales,322
+259,Venita,Health,High Net Worth,Yes,38.0,New South Wales,322
+2903,Avery,Manufacturing,Affluent Customer,Yes,44.0,New South Wales,322
+2546,Marinna,Manufacturing,High Net Worth,No,41.0,Victoria,321
+1370,Chastity,Property,Mass Customer,No,35.0,Victoria,321
+1371,Aretha,Retail,Mass Customer,Yes,62.0,Victoria,321
+2126,Hugibert,Health,Mass Customer,Yes,63.0,New South Wales,321
+2692,Jacklyn,Health,High Net Worth,Yes,33.0,Victoria,321
+2636,Carly,Manufacturing,High Net Worth,Yes,47.0,New South Wales,321
+1242,Bartholomeo,Property,High Net Worth,Yes,48.0,Victoria,321
+1344,Renelle,Manufacturing,Mass Customer,No,26.0,Victoria,321
+2631,Antonio,Financial Services,Mass Customer,Yes,26.0,New South Wales,321
+3056,Catlin,Entertainment,Mass Customer,No,53.0,Victoria,321
+1956,Omero,Health,Affluent Customer,Yes,27.0,QLD,321
+1204,Trudy,Manufacturing,Affluent Customer,Yes,50.0,New South Wales,321
+1730,Tildi,Financial Services,Mass Customer,No,36.0,New South Wales,321
+2332,Jeff,Property,High Net Worth,Yes,44.0,New South Wales,321
+1193,Quintus,Retail,High Net Worth,No,35.0,New South Wales,321
+2586,Heywood,Financial Services,Mass Customer,Yes,42.0,New South Wales,321
+45,Trace,Financial Services,Mass Customer,No,46.0,New South Wales,321
+834,Rudolf,Financial Services,Mass Customer,No,48.0,Victoria,321
+1910,Yovonnda,Property,High Net Worth,Yes,62.0,New South Wales,321
+1671,Nerty,Property,Mass Customer,Yes,64.0,Victoria,321
+3155,Tiphani,IT,Affluent Customer,Yes,45.0,New South Wales,321
+1466,Cyndia,Financial Services,High Net Worth,Yes,23.0,New South Wales,321
+3140,Britt,Manufacturing,High Net Worth,No,36.0,New South Wales,321
+3136,Leonardo,Retail,Mass Customer,Yes,23.0,New South Wales,321
+3244,Rosene,Financial Services,Mass Customer,No,62.0,Victoria,321
+1431,Derek,Financial Services,Affluent Customer,Yes,46.0,New South Wales,321
+3124,Anastasie,Retail,High Net Worth,Yes,40.0,New South Wales,321
+2500,Micky,Property,High Net Worth,Yes,64.0,QLD,321
+376,Marena,Financial Services,Mass Customer,Yes,55.0,Victoria,321
+3226,Andi,Entertainment,Affluent Customer,No,48.0,Victoria,321
+412,Evanne,IT,High Net Worth,No,61.0,QLD,321
+190,Hayley,Health,Affluent Customer,No,42.0,New South Wales,321
+1931,Boris,Health,Affluent Customer,No,48.0,QLD,321
+251,Mala,Financial Services,Affluent Customer,Yes,44.0,New South Wales,321
+930,Evelina,Retail,Mass Customer,Yes,50.0,New South Wales,321
+3159,Jesus,Financial Services,Affluent Customer,No,54.0,Victoria,313
+3444,Kara-lynn,Manufacturing,Affluent Customer,No,44.0,Victoria,312
+2450,Jayson,Retail,Affluent Customer,Yes,47.0,QLD,312
+2642,Arabelle,Financial Services,High Net Worth,No,43.969332992588804,QLD,312
+1059,Chantal,Entertainment,High Net Worth,Yes,53.0,New South Wales,312
+222,Nev,Health,Mass Customer,No,43.0,New South Wales,312
+527,Lorilyn,Financial Services,Mass Customer,Yes,31.0,New South Wales,312
+2541,Cleveland,Financial Services,High Net Worth,Yes,21.0,New South Wales,312
+2441,Loutitia,Property,High Net Worth,Yes,62.0,QLD,311
+758,Teena,Manufacturing,High Net Worth,Yes,54.0,New South Wales,311
+2855,Kim,Manufacturing,Mass Customer,Yes,46.0,New South Wales,311
+2749,Cale,Retail,Mass Customer,No,42.0,New South Wales,311
+2215,Viola,Financial Services,Mass Customer,Yes,50.0,Victoria,311
+3488,Cristobal,Manufacturing,Mass Customer,Yes,46.0,New South Wales,311
+2239,Jocelyne,Property,High Net Worth,Yes,61.0,New South Wales,311
+480,Darelle,Health,Mass Customer,Yes,43.969332992588804,New South Wales,311
+1734,Adriana,Retail,Mass Customer,Yes,44.0,QLD,311
+291,Aime,Entertainment,Mass Customer,No,50.0,Victoria,311
+1414,Allison,Retail,Mass Customer,Yes,41.0,New South Wales,311
+3305,Neddy,Health,Mass Customer,Yes,44.0,New South Wales,311
+3464,Etheline,Financial Services,Mass Customer,Yes,39.0,New South Wales,311
+1928,Sully,Manufacturing,High Net Worth,Yes,44.0,New South Wales,311
+2477,Barney,Manufacturing,Affluent Customer,Yes,44.0,New South Wales,311
+1685,Marya,IT,Mass Customer,No,49.0,Victoria,311
+2789,Violetta,Financial Services,Affluent Customer,Yes,29.0,New South Wales,311
+61,Kacey,Property,High Net Worth,No,62.0,New South Wales,244
+166,Elston,Manufacturing,Affluent Customer,No,66.0,QLD,244
+2045,Hermina,Financial Services,High Net Worth,No,37.0,New South Wales,244
+3360,Joelie,Health,Affluent Customer,No,58.0,New South Wales,244
+1898,Katalin,Manufacturing,Affluent Customer,Yes,42.0,QLD,244
+3465,Hadria,Manufacturing,High Net Worth,Yes,43.0,New South Wales,244
+2014,Sandye,Manufacturing,Mass Customer,Yes,31.0,New South Wales,244
+2187,Brunhilde,Health,Mass Customer,No,24.0,New South Wales,244
+3406,Lucy,IT,Mass Customer,Yes,42.0,New South Wales,244
+3484,Hedi,Financial Services,High Net Worth,Yes,45.0,QLD,244
+1891,Neville,Retail,Mass Customer,Yes,31.0,New South Wales,244
+1890,Carce,Financial Services,Mass Customer,No,49.0,QLD,244
+3499,Shelton,Manufacturing,Mass Customer,Yes,42.0,QLD,244
+75,Dollie,Property,Mass Customer,No,43.0,New South Wales,244
+3405,Gavra,Financial Services,Mass Customer,Yes,25.0,QLD,244
+2202,Diannne,Financial Services,Affluent Customer,Yes,44.0,New South Wales,244
+3447,Linell,Financial Services,High Net Worth,No,44.0,Victoria,244
+1984,Hewett,Health,Mass Customer,Yes,22.0,New South Wales,244
+3477,Jaquelin,Financial Services,Affluent Customer,Yes,25.0,New South Wales,244
+54,Loralyn,Property,Mass Customer,Yes,55.0,New South Wales,244
+2099,Mikel,Financial Services,High Net Worth,Yes,62.0,New South Wales,244
+1808,Charles,Retail,High Net Worth,No,56.0,New South Wales,244
+1971,Mariel,Manufacturing,Mass Customer,Yes,23.0,Victoria,244
+198,Vanya,Entertainment,Mass Customer,No,40.0,Victoria,244
+1916,Redd,Retail,High Net Worth,Yes,26.0,New South Wales,244
+2144,Maureene,Property,Mass Customer,Yes,43.0,New South Wales,244
+153,Lorilyn,Entertainment,Mass Customer,Yes,44.0,New South Wales,244
+2258,Cathy,Retail,High Net Worth,No,47.0,New South Wales,244
+1801,Bendix,Manufacturing,Affluent Customer,No,45.0,QLD,244
+1980,Kenneth,Health,High Net Worth,Yes,29.0,New South Wales,244
+1832,Elicia,Manufacturing,Mass Customer,Yes,57.0,QLD,244
+3460,Reinhold,Financial Services,Mass Customer,No,22.0,Victoria,244
+1850,Dare,Manufacturing,High Net Worth,No,43.0,New South Wales,244
+2048,Sorcha,Financial Services,High Net Worth,No,61.0,New South Wales,244
+51,Fidelio,Retail,Mass Customer,No,62.0,QLD,244
+2019,Neda,Entertainment,High Net Worth,No,68.0,QLD,244
+3387,Shel,Manufacturing,Affluent Customer,Yes,45.0,New South Wales,244
+2153,Jimmy,Financial Services,Mass Customer,No,35.0,QLD,244
+1783,Brett,Retail,Mass Customer,Yes,26.0,New South Wales,244
+738,Bunnie,Argiculture,Mass Customer,Yes,37.0,QLD,244
+1528,Ranee,Manufacturing,High Net Worth,No,37.0,New South Wales,244
+1224,Aundrea,Manufacturing,Mass Customer,No,44.0,New South Wales,244
+482,Gar,Health,Mass Customer,No,59.0,New South Wales,244
+2455,Kathe,Manufacturing,Mass Customer,No,44.0,QLD,244
+1227,Carlina,IT,Affluent Customer,Yes,32.0,New South Wales,244
+2459,Jeanna,Manufacturing,High Net Worth,No,35.0,QLD,244
+490,Lida,Argiculture,Mass Customer,No,29.0,Victoria,244
+2638,Moritz,IT,Mass Customer,Yes,44.0,New South Wales,244
+2637,Marcile,Retail,Mass Customer,Yes,49.0,New South Wales,244
+2463,Krystle,Health,Mass Customer,No,43.0,Victoria,244
+733,Ham,Manufacturing,Mass Customer,No,48.0,New South Wales,244
+2635,Arty,Retail,Mass Customer,No,62.0,Victoria,244
+499,Dalli,Financial Services,Affluent Customer,No,60.0,Victoria,244
+3184,Marlee,Manufacturing,Affluent Customer,Yes,45.0,New South Wales,244
+2446,Lovell,Retail,Affluent Customer,No,65.0,New South Wales,244
+2936,Pavia,Financial Services,Mass Customer,Yes,37.0,New South Wales,244
+787,Norma,Retail,Affluent Customer,Yes,25.0,New South Wales,244
+1168,Iosep,Health,Affluent Customer,No,56.0,Victoria,244
+438,Ebenezer,Property,High Net Worth,Yes,32.0,Victoria,244
+1169,Kessiah,Financial Services,Mass Customer,Yes,54.0,New South Wales,244
+446,Marilee,IT,Affluent Customer,Yes,43.0,New South Wales,244
+773,Robbie,Financial Services,Affluent Customer,Yes,36.0,QLD,244
+1559,Hilton,Health,High Net Worth,Yes,46.0,New South Wales,244
+1178,Angelo,Health,Mass Customer,No,51.0,New South Wales,244
+1557,Efren,Financial Services,Mass Customer,No,46.0,New South Wales,244
+1181,Brita,Argiculture,Mass Customer,No,43.0,QLD,244
+454,Eugenie,Health,Affluent Customer,Yes,43.969332992588804,QLD,244
+2662,Louisette,Property,Mass Customer,Yes,44.0,New South Wales,244
+1200,Hedda,Entertainment,High Net Worth,No,47.0,QLD,244
+2989,Mort,Health,High Net Worth,Yes,21.0,New South Wales,244
+3166,Bronson,Health,Mass Customer,No,66.0,New South Wales,244
+1243,Robbert,Retail,Mass Customer,No,68.0,New South Wales,244
+506,Brett,Retail,Mass Customer,No,36.0,Victoria,244
+1482,Georas,Manufacturing,Mass Customer,No,42.0,New South Wales,244
+692,Goraud,Property,Mass Customer,No,34.0,New South Wales,244
+2602,Jessamine,Health,Mass Customer,No,44.0,New South Wales,244
+2599,Pauly,Manufacturing,Mass Customer,No,67.0,Victoria,244
+1287,Nicko,Financial Services,Mass Customer,Yes,61.0,QLD,244
+607,Adelaida,Health,Mass Customer,No,45.0,New South Wales,244
+1290,Vassily,Financial Services,High Net Worth,Yes,54.0,QLD,244
+2580,Kalinda,Financial Services,Mass Customer,Yes,33.0,Victoria,244
+3039,Coralie,Financial Services,Affluent Customer,No,53.0,New South Wales,244
+648,Gardiner,Financial Services,Mass Customer,Yes,43.0,QLD,244
+2572,Sheila,Financial Services,Mass Customer,No,41.0,New South Wales,244
+1389,Reina,Health,Affluent Customer,No,59.0,Victoria,244
+3015,Queenie,Retail,Affluent Customer,No,21.0,QLD,244
+3103,Shaylah,Retail,Mass Customer,No,68.0,QLD,244
+1443,Angela,Financial Services,Affluent Customer,Yes,35.0,New South Wales,244
+1475,Aristotle,Retail,Affluent Customer,Yes,36.0,New South Wales,244
+3146,Fredrika,Property,Mass Customer,No,43.0,New South Wales,244
+1472,Demeter,Financial Services,Mass Customer,No,57.0,New South Wales,244
+3145,Gar,Financial Services,High Net Worth,Yes,43.0,New South Wales,244
+2630,Jonathon,Retail,Mass Customer,No,43.0,New South Wales,244
+3134,Pierette,Manufacturing,Mass Customer,No,26.0,New South Wales,244
+579,Cathlene,Health,Mass Customer,No,47.0,New South Wales,244
+2615,Cordelia,Financial Services,Mass Customer,Yes,23.0,New South Wales,244
+1258,Nefen,Manufacturing,Mass Customer,No,43.0,QLD,244
+1410,Althea,Retail,High Net Worth,Yes,24.0,New South Wales,244
+3108,Trip,Entertainment,Mass Customer,No,54.0,QLD,244
+712,Norine,IT,Mass Customer,No,60.0,New South Wales,244
+1400,Rikki,Manufacturing,Affluent Customer,Yes,39.0,QLD,244
+2701,Ileana,Health,Affluent Customer,Yes,61.0,Victoria,244
+1670,Gisella,Retail,Mass Customer,No,43.0,New South Wales,244
+1641,Vasily,Financial Services,Mass Customer,No,49.0,Victoria,244
+3273,Darline,Entertainment,Mass Customer,No,43.0,Victoria,244
+1003,Mariann,Financial Services,High Net Worth,No,53.0,QLD,244
+2309,Herc,Manufacturing,Affluent Customer,No,36.0,QLD,244
+347,Berkly,Financial Services,Mass Customer,No,56.0,New South Wales,244
+2874,Delores,Manufacturing,Affluent Customer,No,44.0,Victoria,244
+893,Gibby,IT,Mass Customer,No,38.0,New South Wales,244
+2861,Cecelia,Financial Services,Mass Customer,Yes,47.0,QLD,244
+1667,Jaime,Manufacturing,High Net Worth,No,66.0,New South Wales,244
+426,Emlyn,Manufacturing,Affluent Customer,No,49.0,Victoria,244
+331,Ford,Health,Mass Customer,Yes,23.0,New South Wales,244
+1678,Dale,Financial Services,High Net Worth,Yes,44.0,New South Wales,244
+2753,Bale,Manufacturing,Mass Customer,Yes,36.0,New South Wales,244
+2853,Clarence,Retail,High Net Worth,Yes,36.0,New South Wales,244
+1683,Brenn,IT,Mass Customer,Yes,43.969332992588804,New South Wales,244
+1686,Fremont,Argiculture,Mass Customer,Yes,41.0,New South Wales,244
+3296,Leontyne,Financial Services,Affluent Customer,Yes,47.0,New South Wales,244
+919,Grove,Health,Mass Customer,Yes,34.0,New South Wales,244
+2820,Tristam,Manufacturing,Affluent Customer,Yes,42.0,New South Wales,244
+1693,Ring,Health,Affluent Customer,No,56.0,QLD,244
+2336,Karney,Health,Affluent Customer,No,43.0,New South Wales,244
+2788,Melantha,Health,Affluent Customer,No,53.0,Victoria,244
+2847,Noreen,Health,Mass Customer,No,45.0,New South Wales,244
+2353,Lyn,Health,Affluent Customer,Yes,43.0,New South Wales,244
+921,Gretchen,Manufacturing,Mass Customer,No,42.0,New South Wales,244
+2351,Felicity,Retail,Affluent Customer,Yes,29.0,Victoria,244
+1725,Corena,Manufacturing,High Net Worth,Yes,42.0,New South Wales,244
+365,Romona,Property,High Net Worth,No,45.0,QLD,244
+986,Barnard,Manufacturing,Mass Customer,Yes,27.0,QLD,244
+2292,Christie,Health,Mass Customer,Yes,23.0,New South Wales,244
+2294,Skipton,Manufacturing,Mass Customer,No,34.0,QLD,244
+424,Dennie,Health,High Net Worth,No,43.0,Victoria,244
+3224,Darell,Manufacturing,Affluent Customer,No,25.0,Victoria,244
+255,Keeley,IT,Mass Customer,No,67.0,Victoria,244
+827,Phillis,Health,Affluent Customer,No,25.0,QLD,244
+2413,Abbey,Manufacturing,High Net Worth,Yes,78.0,Victoria,244
+1595,Kora,Financial Services,High Net Worth,Yes,45.0,Victoria,244
+3242,Lib,Manufacturing,Affluent Customer,Yes,63.0,Victoria,244
+394,Roanne,Health,High Net Worth,Yes,44.0,New South Wales,244
+938,Corabelle,Retail,Mass Customer,No,25.0,Victoria,244
+2909,Jayme,Entertainment,High Net Worth,No,42.0,Victoria,244
+2883,Ulick,Financial Services,Mass Customer,Yes,26.0,New South Wales,244
+2891,Renae,Manufacturing,High Net Worth,Yes,34.0,New South Wales,244
+2397,Cassius,Retail,Affluent Customer,Yes,36.0,New South Wales,244
+853,Nolana,Retail,Mass Customer,Yes,40.0,New South Wales,244
+2390,Tonya,Property,Mass Customer,No,57.0,QLD,244
+2907,Erik,Financial Services,High Net Worth,No,44.0,Victoria,244
+385,Kendall,Health,High Net Worth,No,55.0,New South Wales,244
+2806,Thorndike,Manufacturing,Mass Customer,Yes,35.0,Victoria,243
+12,Sawyere,Manufacturing,Mass Customer,No,27.0,QLD,243
+679,Yolande,Health,Mass Customer,No,47.0,New South Wales,243
+104,Odille,Health,Mass Customer,Yes,43.0,QLD,243
+2164,Toinette,Financial Services,Mass Customer,Yes,48.0,New South Wales,243
+997,Ambros,Telecommunications,Mass Customer,Yes,40.0,New South Wales,243
+2783,Antonin,Retail,Affluent Customer,Yes,43.0,New South Wales,243
+2930,Goddard,Entertainment,Mass Customer,No,24.0,New South Wales,243
+1982,Julee,Financial Services,High Net Worth,Yes,53.0,New South Wales,243
+2052,Ganny,Retail,Mass Customer,Yes,66.0,QLD,243
+2691,Stearn,Entertainment,Mass Customer,No,46.0,New South Wales,243
+55,Linc,Financial Services,Affluent Customer,Yes,65.0,New South Wales,243
+1132,Coriss,Financial Services,Affluent Customer,Yes,36.0,Victoria,243
+1952,Patrica,Health,Mass Customer,Yes,47.0,QLD,243
+2015,Charyl,Health,Affluent Customer,No,47.0,New South Wales,243
+775,Nikita,Manufacturing,Affluent Customer,No,39.0,QLD,243
+2918,Elli,Financial Services,Mass Customer,Yes,32.0,QLD,243
+2981,Benny,Retail,High Net Worth,Yes,41.0,New South Wales,243
+2910,Drucill,Health,Mass Customer,Yes,59.0,Victoria,243
+748,Linet,Financial Services,High Net Worth,No,40.0,New South Wales,243
+1215,Dyann,Manufacturing,Mass Customer,No,54.0,New South Wales,243
+870,Hugh,Health,Mass Customer,No,57.0,New South Wales,243
+43,Indira,Retail,Mass Customer,No,38.0,QLD,243
+874,Howard,Health,Mass Customer,Yes,20.0,New South Wales,243
+894,Catie,Financial Services,High Net Worth,Yes,51.0,New South Wales,243
+1245,Erin,Manufacturing,Affluent Customer,No,27.0,New South Wales,243
+3002,Tracey,Financial Services,Mass Customer,Yes,65.0,New South Wales,243
+714,Burtie,Manufacturing,High Net Worth,Yes,57.0,New South Wales,243
+3409,Abbey,Argiculture,Mass Customer,No,44.0,QLD,243
+3093,Harwilll,Property,High Net Worth,Yes,29.0,Victoria,243
+2569,Sig,Retail,Mass Customer,No,36.0,New South Wales,243
+417,Fernandina,Argiculture,Mass Customer,No,50.0,Victoria,243
+1580,Laird,Retail,High Net Worth,No,40.0,QLD,243
+1862,Daron,Health,High Net Worth,Yes,41.0,New South Wales,243
+428,Freida,Health,High Net Worth,Yes,44.0,New South Wales,243
+2419,Aron,Property,High Net Worth,No,43.0,QLD,243
+125,Darrelle,Property,Mass Customer,No,61.0,New South Wales,243
+3206,Elbertine,Financial Services,Mass Customer,No,26.0,New South Wales,243
+2226,Hedvig,Entertainment,Mass Customer,No,66.0,QLD,243
+2223,Sarita,Health,Mass Customer,No,40.0,Victoria,243
+463,Allis,Financial Services,Mass Customer,Yes,59.0,New South Wales,243
+3196,Teddi,Health,Mass Customer,No,44.0,Victoria,243
+3377,Jamal,Manufacturing,Mass Customer,Yes,33.0,QLD,243
+3195,Vickie,Manufacturing,Mass Customer,No,40.0,New South Wales,243
+1534,Rosabelle,Manufacturing,Mass Customer,No,23.0,New South Wales,243
+479,Blythe,IT,Mass Customer,Yes,27.0,New South Wales,243
+420,Clem,Entertainment,High Net Worth,No,63.0,Victoria,243
+2409,Carolan,Health,Mass Customer,No,32.0,New South Wales,243
+491,Andrea,Property,Affluent Customer,Yes,45.0,Victoria,243
+2245,Elsinore,Argiculture,Mass Customer,No,41.0,QLD,243
+1777,Lucinda,Retail,Affluent Customer,No,27.0,New South Wales,243
+263,Tonia,Health,High Net Worth,No,36.0,New South Wales,243
+2307,Corina,Retail,High Net Worth,Yes,43.0,QLD,243
+3327,Roma,Manufacturing,Mass Customer,No,48.0,Victoria,243
+289,Modestia,Health,High Net Worth,No,51.0,New South Wales,243
+1729,Alla,Argiculture,High Net Worth,No,34.0,New South Wales,243
+1728,Pryce,Financial Services,Affluent Customer,No,44.0,New South Wales,243
+1727,Everard,Entertainment,High Net Worth,No,43.0,New South Wales,243
+304,Paddy,Manufacturing,Mass Customer,Yes,52.0,New South Wales,243
+1699,Poul,Manufacturing,Mass Customer,Yes,63.0,New South Wales,243
+2359,Merlina,Property,High Net Worth,Yes,35.0,QLD,243
+1665,Witty,Telecommunications,Mass Customer,No,44.0,New South Wales,243
+1659,Olva,Property,High Net Worth,Yes,32.0,New South Wales,243
+1839,Faythe,Entertainment,High Net Worth,Yes,34.0,QLD,243
+2248,Helsa,Manufacturing,Mass Customer,No,25.0,Victoria,243
+3247,Bellanca,Manufacturing,Mass Customer,Yes,36.0,Victoria,243
+444,Britteny,Manufacturing,Mass Customer,Yes,54.0,New South Wales,243
+626,Albrecht,Manufacturing,Mass Customer,No,29.0,QLD,243
+1936,Gisella,Manufacturing,Mass Customer,Yes,57.0,Victoria,243
+3061,Evie,Manufacturing,Affluent Customer,Yes,30.0,New South Wales,243
+587,Adolphus,Health,Mass Customer,Yes,55.0,Victoria,243
+3104,Diahann,Property,Mass Customer,Yes,27.0,QLD,243
+1417,Micki,Manufacturing,High Net Worth,Yes,62.0,New South Wales,243
+138,Onofredo,Financial Services,Affluent Customer,Yes,36.0,New South Wales,243
+1426,Allyn,Financial Services,Mass Customer,No,65.0,New South Wales,243
+603,Alidia,Financial Services,Affluent Customer,No,34.0,QLD,243
+610,Hyatt,Financial Services,Mass Customer,Yes,63.0,New South Wales,243
+3165,Vyky,Manufacturing,Affluent Customer,Yes,46.0,New South Wales,243
+630,D'arcy,Property,Affluent Customer,Yes,35.0,New South Wales,243
+3072,Roma,Manufacturing,Mass Customer,Yes,42.0,New South Wales,243
+638,Joey,Manufacturing,High Net Worth,No,54.0,Victoria,243
+1335,Sibylla,Entertainment,Mass Customer,Yes,24.0,Victoria,243
+619,Finn,Property,Mass Customer,No,44.0,New South Wales,243
+2104,Livy,Financial Services,Mass Customer,No,42.0,QLD,242
+3064,Zach,Financial Services,Affluent Customer,Yes,26.0,Victoria,242
+1090,Lorettalorna,Telecommunications,Affluent Customer,No,46.0,New South Wales,242
+1656,Constantin,Financial Services,Mass Customer,Yes,44.0,QLD,242
+2181,Tobe,IT,Mass Customer,Yes,47.0,New South Wales,242
+1075,Cullin,Manufacturing,High Net Worth,No,54.0,New South Wales,242
+1047,Standford,Financial Services,Affluent Customer,No,43.0,New South Wales,242
+1700,Rana,Manufacturing,High Net Worth,Yes,52.0,QLD,242
+3481,Haley,Manufacturing,High Net Worth,No,24.0,Victoria,242
+1037,Sissie,Financial Services,Mass Customer,No,65.0,New South Wales,242
+1025,Ario,IT,Mass Customer,Yes,24.0,Victoria,242
+2576,Lotty,Manufacturing,Mass Customer,No,62.0,New South Wales,242
+1324,Randie,Manufacturing,Mass Customer,No,43.0,QLD,242
+629,Basil,Manufacturing,High Net Worth,No,61.0,QLD,242
+3334,Koralle,Health,Mass Customer,Yes,56.0,New South Wales,242
+2034,June,Manufacturing,Mass Customer,No,47.0,New South Wales,242
+205,Rolfe,Financial Services,Mass Customer,Yes,63.0,Victoria,242
+984,Luciano,Manufacturing,Affluent Customer,No,67.0,Victoria,242
+3430,Augustus,Health,Affluent Customer,Yes,57.0,New South Wales,242
+749,Andreas,Argiculture,Mass Customer,No,49.0,Victoria,242
+249,D'arcy,IT,High Net Worth,No,29.0,New South Wales,242
+2234,Dylan,Manufacturing,Mass Customer,No,35.0,New South Wales,242
+3141,Esmaria,Retail,Mass Customer,Yes,26.0,QLD,242
+1879,Kermy,Manufacturing,High Net Worth,No,54.0,New South Wales,242
+1546,Natalya,Financial Services,Mass Customer,Yes,65.0,New South Wales,242
+2534,Estelle,Manufacturing,Affluent Customer,Yes,56.0,New South Wales,242
+1241,Lolly,Health,Affluent Customer,Yes,35.0,New South Wales,242
+1286,Mina,Manufacturing,High Net Worth,Yes,46.0,QLD,242
+2311,Addi,Health,Mass Customer,No,32.0,New South Wales,234
+3415,Alberik,Property,High Net Worth,Yes,58.0,New South Wales,234
+2629,Nomi,Entertainment,High Net Worth,No,45.0,New South Wales,234
+3170,Bethanne,Entertainment,Mass Customer,No,53.0,Victoria,234
+3336,Konstantine,Manufacturing,Mass Customer,Yes,42.0,QLD,234
+2290,Myca,Manufacturing,Mass Customer,Yes,40.0,Victoria,234
+3045,Renato,Financial Services,Affluent Customer,Yes,25.0,QLD,234
+2727,Kim,Financial Services,High Net Worth,Yes,33.0,QLD,234
+2771,Jamie,Retail,Affluent Customer,Yes,52.0,New South Wales,234
+2766,Rozanna,Financial Services,High Net Worth,Yes,32.0,New South Wales,234
+2355,Shaughn,Manufacturing,Mass Customer,Yes,28.0,New South Wales,234
+3361,Riva,Property,Mass Customer,Yes,53.0,New South Wales,234
+2368,Rowe,Manufacturing,Mass Customer,No,28.0,New South Wales,234
+3017,Jason,Financial Services,Affluent Customer,No,66.0,Victoria,234
+3365,Karlens,IT,Mass Customer,No,43.969332992588804,New South Wales,234
+2139,Carolina,IT,Affluent Customer,Yes,39.0,Victoria,234
+3367,Melisse,Entertainment,Mass Customer,Yes,21.0,Victoria,234
+3373,Inna,Health,Mass Customer,No,30.0,New South Wales,234
+2257,Siward,Entertainment,Mass Customer,No,44.0,New South Wales,234
+2590,Roslyn,Financial Services,Affluent Customer,Yes,57.0,New South Wales,234
+3173,Angelo,Health,Mass Customer,Yes,20.0,Victoria,234
+2769,Trevor,Manufacturing,Affluent Customer,Yes,43.0,New South Wales,234
+1750,Filbert,Entertainment,Mass Customer,Yes,62.0,New South Wales,234
+864,Regen,Retail,High Net Worth,Yes,51.0,QLD,234
+875,Caryl,Financial Services,Mass Customer,Yes,22.0,Victoria,234
+311,Jaimie,Health,High Net Worth,No,64.0,New South Wales,234
+319,Madelle,Retail,Mass Customer,Yes,50.0,New South Wales,234
+671,Aristotle,Argiculture,Mass Customer,No,37.0,New South Wales,234
+1615,Evvie,Entertainment,Mass Customer,Yes,50.0,Victoria,234
+1609,Reginald,Property,Mass Customer,Yes,25.0,New South Wales,234
+971,Sarge,Manufacturing,High Net Worth,No,33.0,Victoria,234
+655,Stuart,Manufacturing,Affluent Customer,Yes,47.0,Victoria,234
+996,Aura,IT,Mass Customer,Yes,43.969332992588804,New South Wales,234
+339,Nanny,Health,Mass Customer,No,41.0,New South Wales,234
+1022,Suzann,Financial Services,Affluent Customer,Yes,31.0,New South Wales,234
+604,Mella,IT,Affluent Customer,No,23.0,New South Wales,234
+1572,Tam,Financial Services,High Net Worth,Yes,64.0,New South Wales,234
+112,Shena,Retail,High Net Worth,No,46.0,Victoria,234
+1682,Gerladina,Manufacturing,Affluent Customer,Yes,61.0,Victoria,234
+1793,Hewett,Financial Services,Mass Customer,Yes,32.0,Victoria,234
+399,Nickie,Manufacturing,Affluent Customer,Yes,45.0,QLD,234
+1838,Jobina,Financial Services,Affluent Customer,Yes,57.0,Victoria,234
+402,Berne,Retail,Affluent Customer,No,44.0,New South Wales,234
+430,Janice,Financial Services,High Net Worth,Yes,48.0,QLD,234
+868,Effie,Financial Services,Mass Customer,Yes,42.0,New South Wales,234
+421,Tish,Retail,Mass Customer,Yes,22.0,New South Wales,234
+2049,Jud,Manufacturing,High Net Worth,No,59.0,New South Wales,234
+750,Izaak,Retail,Affluent Customer,Yes,26.0,New South Wales,234
+727,Lenci,Manufacturing,Mass Customer,No,43.0,Victoria,234
+2069,Sol,IT,Mass Customer,Yes,43.969332992588804,QLD,234
+770,Zara,IT,High Net Worth,Yes,37.0,Victoria,234
+2051,Teresita,Manufacturing,Affluent Customer,No,62.0,New South Wales,234
+3426,Ron,Entertainment,Mass Customer,No,62.0,New South Wales,233
+2203,Ganny,Health,High Net Worth,Yes,23.0,New South Wales,233
+1508,Orv,Health,Affluent Customer,Yes,35.0,New South Wales,233
+2674,Lynsey,Health,High Net Worth,No,28.0,Victoria,233
+1775,Kimberly,Financial Services,Affluent Customer,No,26.0,Victoria,233
+2207,Junia,Manufacturing,Mass Customer,Yes,42.0,QLD,233
+2897,Kimbra,Manufacturing,Affluent Customer,No,59.0,Victoria,233
+1496,Cordie,IT,Affluent Customer,No,23.0,New South Wales,233
+1208,Lira,Financial Services,Mass Customer,No,38.0,New South Wales,233
+6,Curr,Retail,High Net Worth,Yes,55.0,Victoria,233
+3160,Eadmund,IT,Mass Customer,No,43.0,New South Wales,233
+763,Benita,Manufacturing,Affluent Customer,No,34.0,New South Wales,233
+1782,Ewen,Health,Affluent Customer,Yes,55.0,New South Wales,233
+2457,Benito,IT,High Net Worth,Yes,46.0,QLD,233
+3121,Mahmoud,Manufacturing,Mass Customer,No,62.0,New South Wales,233
+11,Uriah,Property,Mass Customer,No,67.0,Victoria,233
+1669,Jabez,Financial Services,High Net Worth,Yes,43.0,New South Wales,233
+2442,Odie,Health,Affluent Customer,Yes,64.0,New South Wales,233
+1541,Dynah,Argiculture,Mass Customer,Yes,67.0,New South Wales,233
+2711,Steven,Health,Affluent Customer,No,51.0,New South Wales,233
+547,Andee,Health,Mass Customer,No,25.0,New South Wales,233
+1526,Charlie,Manufacturing,Mass Customer,Yes,57.0,New South Wales,233
+2453,Ruthe,Telecommunications,High Net Worth,No,29.0,New South Wales,233
+2299,Mahmoud,Property,High Net Worth,Yes,35.0,Victoria,233
+3138,Wait,Financial Services,Mass Customer,Yes,50.0,New South Wales,233
+1151,Brena,Argiculture,High Net Worth,Yes,56.0,New South Wales,233
+2298,Brigham,Property,Mass Customer,Yes,24.0,Victoria,233
+1909,Drucill,Argiculture,Affluent Customer,Yes,37.0,New South Wales,233
+2289,Kissie,Health,Affluent Customer,Yes,41.0,Victoria,233
+2222,Caroline,Financial Services,Mass Customer,No,47.0,New South Wales,233
+472,Kippy,Financial Services,Mass Customer,Yes,31.0,New South Wales,233
+397,Nerissa,Financial Services,Affluent Customer,Yes,40.0,QLD,233
+1816,Lonni,Argiculture,Mass Customer,No,44.0,QLD,233
+2363,Bobby,Entertainment,Mass Customer,Yes,38.0,QLD,233
+1377,Giacomo,Retail,Mass Customer,Yes,32.0,Victoria,233
+2953,Hector,Health,High Net Worth,Yes,49.0,Victoria,233
+3380,Abe,Manufacturing,High Net Worth,Yes,66.0,Victoria,233
+1372,Rockie,Manufacturing,Affluent Customer,No,41.0,Victoria,233
+1368,Aarika,Property,Mass Customer,No,48.0,Victoria,233
+1427,Jodie,Financial Services,High Net Worth,No,28.0,New South Wales,233
+437,Sayres,Manufacturing,Affluent Customer,Yes,45.0,Victoria,233
+3325,Sylas,Manufacturing,High Net Worth,No,25.0,New South Wales,233
+159,Arin,Health,Affluent Customer,No,34.0,New South Wales,233
+1082,Guinevere,Financial Services,Mass Customer,Yes,43.969332992588804,QLD,233
+3401,Cristie,Telecommunications,Mass Customer,Yes,28.0,New South Wales,233
+1337,Damara,Health,Mass Customer,No,33.0,Victoria,233
+2934,Candida,Telecommunications,Mass Customer,Yes,35.0,New South Wales,233
+2235,Maxine,Health,Affluent Customer,No,42.0,QLD,233
+3404,Thomasine,Property,Affluent Customer,No,48.0,New South Wales,233
+2582,Harv,Health,Mass Customer,No,44.0,QLD,233
+471,Libby,Financial Services,Affluent Customer,No,65.0,Victoria,233
+228,Lucia,Manufacturing,High Net Worth,No,35.0,New South Wales,233
+2286,Katuscha,Manufacturing,High Net Worth,No,26.0,Victoria,233
+1556,Bartram,Manufacturing,Mass Customer,Yes,35.0,New South Wales,233
+2305,Aeriell,Financial Services,Affluent Customer,Yes,37.0,Victoria,233
+354,Mavra,Property,Mass Customer,No,41.0,New South Wales,233
+913,Dayle,Financial Services,Mass Customer,No,21.0,New South Wales,233
+82,Gleda,Property,High Net Worth,No,56.0,Victoria,233
+3068,Gill,Manufacturing,Affluent Customer,No,31.0,Victoria,233
+3062,Lesley,Manufacturing,Mass Customer,No,59.0,QLD,233
+2384,Garey,Health,High Net Worth,Yes,60.0,New South Wales,233
+757,Kinsley,Financial Services,Mass Customer,No,44.0,QLD,233
+2004,Brandy,Manufacturing,Affluent Customer,Yes,58.0,New South Wales,233
+1660,Justinian,Retail,Affluent Customer,No,41.0,Victoria,233
+650,Matthew,Health,Mass Customer,No,44.0,New South Wales,233
+252,Anthea,Property,Mass Customer,Yes,38.0,New South Wales,233
+2991,Fred,Financial Services,Mass Customer,No,57.0,New South Wales,233
+317,Elicia,Entertainment,Mass Customer,Yes,47.0,New South Wales,233
+657,Hoyt,Manufacturing,Affluent Customer,No,28.0,QLD,233
+28,Fee,Health,Affluent Customer,Yes,48.0,QLD,233
+732,Bonita,Financial Services,Mass Customer,No,54.0,New South Wales,233
+1736,Garrek,IT,Affluent Customer,No,23.0,QLD,233
+2041,Mort,Financial Services,Mass Customer,No,64.0,New South Wales,233
+1733,Gothart,Financial Services,High Net Worth,No,35.0,New South Wales,233
+931,Katrina,Manufacturing,Affluent Customer,Yes,22.0,Victoria,233
+2134,Crosby,Manufacturing,Affluent Customer,No,21.0,Victoria,233
+3034,Mara,Manufacturing,Mass Customer,Yes,65.0,Victoria,233
+952,Marina,Financial Services,Affluent Customer,Yes,50.0,Victoria,233
+2124,Damien,Retail,High Net Worth,No,43.0,Victoria,233
+947,Hyacinth,Health,Mass Customer,No,35.0,Victoria,233
+3028,Leandra,Manufacturing,High Net Worth,No,65.0,QLD,233
+3289,Frederico,Property,Mass Customer,No,43.0,New South Wales,233
+1755,Dagmar,Property,Mass Customer,No,35.0,New South Wales,233
+1065,Chilton,Financial Services,Mass Customer,Yes,59.0,New South Wales,233
+1063,Terrence,Financial Services,Affluent Customer,Yes,34.0,New South Wales,233
+355,Stacy,Retail,Mass Customer,Yes,42.0,New South Wales,233
+2765,Bartholomew,IT,Mass Customer,Yes,36.0,QLD,233
+2174,Rock,Argiculture,High Net Worth,No,59.0,Victoria,233
+2881,Ezra,Health,Affluent Customer,Yes,59.0,New South Wales,233
+3087,Gerry,Health,Mass Customer,No,35.0,New South Wales,233
+3230,Calida,Financial Services,Mass Customer,No,51.0,Victoria,233
+3310,Bethany,Property,Affluent Customer,Yes,60.0,New South Wales,233
+2313,Christa,Manufacturing,Mass Customer,No,55.0,QLD,233
+2166,Mareah,Property,Mass Customer,No,37.0,New South Wales,233
+2921,Astrid,Financial Services,Mass Customer,No,45.0,QLD,233
+2093,Salem,Financial Services,High Net Worth,No,22.0,New South Wales,233
+1657,Stanwood,Financial Services,Mass Customer,No,44.0,New South Wales,233
+2317,Alwin,Health,Mass Customer,Yes,45.0,Victoria,233
+2161,Tommie,Financial Services,Mass Customer,No,23.0,Victoria,233
+2160,Kettie,Health,Mass Customer,Yes,50.0,Victoria,233
+2785,Gennifer,Financial Services,Mass Customer,No,40.0,QLD,233
+2344,Wat,Financial Services,Mass Customer,Yes,28.0,New South Wales,233
+336,Georgiana,Manufacturing,High Net Worth,No,41.0,Victoria,233
+1593,Tommy,IT,Mass Customer,No,42.0,New South Wales,233
+3075,Corty,Entertainment,Mass Customer,Yes,62.0,Victoria,233
+940,Marnia,Manufacturing,Mass Customer,No,34.0,QLD,233
+1642,Nollie,Manufacturing,Affluent Customer,Yes,39.0,New South Wales,232
+1814,Shawn,Retail,Affluent Customer,No,33.0,New South Wales,232
+1421,Mallorie,Property,Mass Customer,No,65.0,New South Wales,232
+356,Nichole,Entertainment,High Net Worth,No,46.0,QLD,232
+390,Royall,Health,Affluent Customer,No,24.0,New South Wales,232
+1469,Shermy,Financial Services,Affluent Customer,Yes,64.0,New South Wales,232
+243,Barbara,Manufacturing,High Net Worth,Yes,45.0,New South Wales,232
+3343,Cristabel,IT,Mass Customer,Yes,43.969332992588804,Victoria,232
+1662,Xenia,Manufacturing,High Net Worth,No,65.0,Victoria,232
+1582,Francesco,Property,Mass Customer,No,43.0,New South Wales,232
+1501,Shelby,Property,Mass Customer,Yes,48.0,New South Wales,232
+334,Fredi,Financial Services,Affluent Customer,Yes,22.0,Victoria,232
+1474,Farley,Health,Mass Customer,Yes,35.0,New South Wales,232
+2324,Jerrold,Manufacturing,Mass Customer,Yes,55.0,QLD,232
+214,Jeramie,Health,Mass Customer,No,64.0,QLD,232
+229,Vaughn,Property,High Net Worth,No,55.0,New South Wales,232
+2407,Merrily,Financial Services,High Net Worth,Yes,62.0,New South Wales,232
+1462,Omero,Financial Services,Mass Customer,Yes,26.0,QLD,232
+1735,Sly,Health,Mass Customer,No,55.0,QLD,232
+386,Ethelyn,Argiculture,Mass Customer,No,31.0,New South Wales,232
+2349,Julee,Telecommunications,High Net Worth,No,42.0,New South Wales,232
+3297,Addy,Manufacturing,Mass Customer,No,46.0,Victoria,232
+3313,Kori,Property,High Net Worth,Yes,26.0,New South Wales,232
+2078,Joice,Manufacturing,Mass Customer,No,32.0,New South Wales,232
+414,Thorin,Health,High Net Worth,No,45.0,New South Wales,232
+628,Mallissa,Financial Services,Mass Customer,No,40.0,QLD,232
+1009,Nolie,Manufacturing,High Net Worth,Yes,64.0,QLD,232
+83,Kerr,IT,Mass Customer,Yes,54.0,New South Wales,232
+88,Malynda,Property,High Net Worth,Yes,55.0,New South Wales,232
+2158,Caesar,Entertainment,Mass Customer,No,61.0,New South Wales,232
+606,Filia,Manufacturing,Mass Customer,Yes,32.0,New South Wales,232
+2774,Danella,Manufacturing,Mass Customer,No,65.0,Victoria,232
+601,Ken,Retail,High Net Worth,Yes,29.0,New South Wales,232
+181,Pavla,Manufacturing,Mass Customer,No,39.0,Victoria,232
+3111,Maxwell,Financial Services,Mass Customer,Yes,24.0,New South Wales,232
+1096,Jakie,Health,High Net Worth,No,52.0,New South Wales,232
+3453,Jammie,Retail,Affluent Customer,No,32.0,QLD,232
+2821,Fairlie,Property,Affluent Customer,No,36.0,New South Wales,232
+1107,Maridel,Health,High Net Worth,No,47.0,New South Wales,232
+1986,Melania,Retail,Mass Customer,No,40.0,New South Wales,232
+779,Maddy,Health,High Net Worth,No,29.0,New South Wales,232
+803,Nina,Manufacturing,High Net Worth,No,22.0,QLD,232
+2931,Efren,IT,Mass Customer,Yes,42.0,QLD,232
+2087,Yehudi,IT,Mass Customer,Yes,52.0,Victoria,232
+813,Lisette,Health,Mass Customer,No,59.0,New South Wales,232
+2924,Fina,Entertainment,Mass Customer,Yes,33.0,Victoria,232
+828,Darda,Health,Mass Customer,Yes,64.0,New South Wales,232
+9,Mala,Argiculture,Affluent Customer,Yes,48.0,New South Wales,232
+2016,Laraine,Retail,Affluent Customer,Yes,23.0,New South Wales,232
+888,Chickie,Manufacturing,Mass Customer,No,58.0,QLD,232
+3474,Justinian,Manufacturing,Mass Customer,No,42.0,QLD,232
+929,Kippy,Financial Services,Mass Customer,Yes,56.0,Victoria,232
+664,Mathe,Health,High Net Worth,No,27.0,QLD,232
+3434,Stesha,Health,Mass Customer,No,48.0,Victoria,232
+597,Cassandra,Manufacturing,Mass Customer,No,67.0,Victoria,232
+1929,Elka,Health,Affluent Customer,No,35.0,Victoria,232
+1260,Fremont,Property,Mass Customer,No,32.0,QLD,232
+1877,Radcliffe,Financial Services,High Net Worth,Yes,55.0,QLD,232
+2722,Faustine,Health,Mass Customer,No,34.0,Victoria,232
+1279,Burr,Financial Services,Mass Customer,No,59.0,QLD,232
+1859,Melamie,IT,High Net Worth,Yes,31.0,New South Wales,232
+451,Marlow,IT,High Net Worth,No,43.969332992588804,Victoria,232
+2244,Sidney,Manufacturing,Mass Customer,No,49.0,New South Wales,232
+1364,Selby,Manufacturing,Mass Customer,No,43.0,Victoria,232
+1366,Zacharia,Retail,Affluent Customer,No,47.0,QLD,232
+2253,Gracie,Manufacturing,Affluent Customer,Yes,62.0,New South Wales,232
+1375,Archie,Financial Services,Affluent Customer,No,43.0,Victoria,232
+175,Templeton,Manufacturing,Affluent Customer,No,46.0,Victoria,232
+3213,Marcile,Telecommunications,Affluent Customer,Yes,50.0,Victoria,232
+2526,Izaak,Manufacturing,Mass Customer,No,52.0,New South Wales,232
+1261,Candice,Manufacturing,Mass Customer,No,50.0,QLD,232
+3314,Blakelee,Financial Services,Mass Customer,Yes,49.0,New South Wales,232
+1256,Granny,Health,High Net Worth,No,35.0,QLD,232
+1198,Alina,Retail,High Net Worth,No,48.0,New South Wales,232
+540,Tresa,Manufacturing,Mass Customer,No,20.0,New South Wales,232
+2699,Michal,Manufacturing,Affluent Customer,Yes,43.0,Victoria,232
+1915,Dusty,Health,Mass Customer,Yes,68.0,Victoria,232
+531,Modesty,Financial Services,High Net Worth,No,28.0,New South Wales,232
+1163,Manolo,Financial Services,High Net Worth,Yes,40.0,Victoria,232
+2681,Liza,Manufacturing,Affluent Customer,Yes,47.0,Victoria,232
+2668,Allan,Health,Mass Customer,No,43.0,QLD,232
+1192,Hollyanne,Manufacturing,Mass Customer,No,52.0,New South Wales,232
+1899,Lambert,Retail,Affluent Customer,Yes,24.0,Victoria,232
+2483,Greta,Manufacturing,Mass Customer,No,34.0,New South Wales,231
+3187,Samuele,Financial Services,Mass Customer,Yes,47.0,New South Wales,231
+2738,Lurleen,Health,Mass Customer,No,24.0,New South Wales,231
+1016,Adrian,IT,Mass Customer,Yes,62.0,Victoria,231
+1674,Rahal,Manufacturing,High Net Worth,No,44.0,New South Wales,231
+982,Tibold,Health,High Net Worth,Yes,61.0,New South Wales,231
+1587,Kevan,Entertainment,Affluent Customer,Yes,35.0,New South Wales,231
+861,Rebekah,Financial Services,High Net Worth,No,44.0,Victoria,231
+1621,Sibley,Health,Mass Customer,No,47.0,New South Wales,231
+1489,Mead,Health,Mass Customer,No,28.0,New South Wales,231
+899,Teodora,Health,Affluent Customer,Yes,58.0,New South Wales,231
+2797,Agatha,IT,Mass Customer,Yes,36.0,Victoria,231
+911,Marcellus,Property,Affluent Customer,No,47.0,New South Wales,231
+677,El,Financial Services,Mass Customer,No,24.0,New South Wales,231
+2564,Bell,Health,Mass Customer,No,45.0,New South Wales,231
+2810,Malvin,Property,Mass Customer,Yes,60.0,Victoria,231
+2963,Christin,IT,Affluent Customer,Yes,43.969332992588804,New South Wales,231
+103,Ethyl,Financial Services,Affluent Customer,Yes,24.0,New South Wales,231
+264,Jedd,Health,Mass Customer,No,44.0,New South Wales,231
+3476,Stearn,Manufacturing,Affluent Customer,No,32.0,New South Wales,231
+2196,Skylar,Retail,High Net Worth,Yes,45.0,New South Wales,231
+1322,Kathye,Financial Services,Mass Customer,Yes,20.0,QLD,224
+1057,Laryssa,Health,Mass Customer,No,52.0,New South Wales,223
+3214,Cindelyn,Financial Services,Mass Customer,Yes,28.0,QLD,223
+1383,Coriss,IT,Affluent Customer,No,64.0,Victoria,223
+93,Gordon,Retail,Mass Customer,Yes,45.0,Victoria,223
+3378,Ina,Financial Services,Affluent Customer,No,59.0,Victoria,223
+2175,Elvyn,Health,Mass Customer,No,36.0,Victoria,223
+3459,Emelda,Entertainment,Mass Customer,Yes,21.0,QLD,223
+878,Clarence,Manufacturing,Mass Customer,Yes,39.0,QLD,223
+2322,Hazlett,Health,Mass Customer,Yes,29.0,New South Wales,223
+450,Myrlene,Entertainment,Mass Customer,Yes,46.0,New South Wales,223
+726,Norma,Health,Mass Customer,Yes,43.0,New South Wales,223
+3294,Juditha,Manufacturing,Affluent Customer,No,35.0,Victoria,223
+1741,Karlens,Financial Services,High Net Worth,No,27.0,New South Wales,223
+1940,Gabriellia,Manufacturing,High Net Worth,Yes,44.0,QLD,223
+1415,Merilyn,Property,High Net Worth,Yes,23.0,New South Wales,223
+2119,Dorise,Financial Services,Mass Customer,No,36.0,QLD,223
+901,Letta,Retail,Mass Customer,Yes,46.0,QLD,223
+1439,Leupold,Retail,Mass Customer,No,56.0,New South Wales,223
+960,Lannie,Health,Mass Customer,Yes,53.0,Victoria,223
+965,Meggie,Retail,High Net Worth,Yes,24.0,New South Wales,223
+688,Baron,Health,High Net Worth,No,52.0,Victoria,223
+967,April,Manufacturing,Affluent Customer,Yes,22.0,Victoria,223
+2497,Gustav,Property,Affluent Customer,No,52.0,QLD,223
+2141,Georgie,Financial Services,High Net Worth,Yes,57.0,New South Wales,223
+2302,Loraine,Retail,Mass Customer,Yes,22.0,Victoria,223
+2444,Emmet,Manufacturing,High Net Worth,No,44.0,Victoria,223
+1973,Fanni,Financial Services,High Net Worth,No,41.0,New South Wales,223
+2507,Alysa,Health,Affluent Customer,Yes,35.0,New South Wales,223
+1737,Benny,Property,Affluent Customer,Yes,45.0,QLD,223
+672,Kleon,Retail,High Net Worth,No,44.0,New South Wales,223
+2343,Wilhelm,Argiculture,High Net Worth,Yes,62.0,QLD,223
+265,Pennie,Retail,High Net Worth,Yes,56.0,Victoria,223
+268,Kacie,Manufacturing,Mass Customer,No,43.0,New South Wales,223
+1124,Eben,Health,Affluent Customer,Yes,56.0,New South Wales,223
+3167,Vernor,Property,Mass Customer,No,26.0,Victoria,223
+1649,Brenden,Property,Mass Customer,No,59.0,New South Wales,223
+1235,Sharon,Health,Mass Customer,No,52.0,New South Wales,223
+455,Mile,Manufacturing,Mass Customer,Yes,30.0,New South Wales,222
+1180,Gaye,Financial Services,Affluent Customer,No,46.0,New South Wales,222
+1977,Myrtia,Manufacturing,Mass Customer,Yes,44.0,New South Wales,222
+3366,Rickey,Manufacturing,Mass Customer,Yes,46.0,New South Wales,222
+496,Korry,Financial Services,Affluent Customer,Yes,45.0,New South Wales,222
+1424,Allin,Health,High Net Worth,Yes,47.0,New South Wales,222
+2669,Carrol,Property,Affluent Customer,No,26.0,Victoria,222
+3171,Leif,Financial Services,Affluent Customer,Yes,54.0,New South Wales,222
+1251,Codie,Property,Mass Customer,No,24.0,QLD,222
+2670,Cam,Financial Services,High Net Worth,Yes,44.0,QLD,222
+2493,Rey,Entertainment,Mass Customer,Yes,40.0,New South Wales,222
+2206,Osmond,Financial Services,Affluent Customer,No,64.0,New South Wales,222
+2625,Kristal,Manufacturing,Affluent Customer,Yes,49.0,Victoria,222
+1225,Arte,Health,Mass Customer,Yes,33.0,Victoria,222
+2216,Clarinda,Property,High Net Worth,Yes,59.0,New South Wales,222
+1212,Cindy,Property,Affluent Customer,No,53.0,New South Wales,222
+503,Burr,Health,Affluent Customer,Yes,32.0,New South Wales,222
+391,Duffie,Argiculture,Mass Customer,No,51.0,New South Wales,222
+663,Massimo,Property,Affluent Customer,Yes,24.0,New South Wales,222
+1189,Mart,Health,High Net Worth,Yes,33.0,Victoria,222
+388,Carlye,Financial Services,Mass Customer,Yes,55.0,Victoria,222
+107,Pris,Financial Services,Mass Customer,Yes,31.0,New South Wales,222
+63,Ebony,Retail,Mass Customer,Yes,56.0,New South Wales,222
+2834,Timmie,Retail,Affluent Customer,No,41.0,New South Wales,222
+1789,Talya,Property,Mass Customer,No,35.0,New South Wales,222
+2514,Vincenty,Financial Services,High Net Worth,Yes,46.0,Victoria,222
+1904,Nert,IT,High Net Worth,Yes,43.0,New South Wales,222
+3069,Phylis,Financial Services,Affluent Customer,No,33.0,Victoria,222
+114,Sunny,Entertainment,Affluent Customer,No,36.0,New South Wales,222
+2571,Chariot,Health,Affluent Customer,Yes,35.0,New South Wales,222
+1080,Monah,Property,Mass Customer,Yes,22.0,QLD,222
+150,Bradly,Financial Services,Affluent Customer,No,38.0,New South Wales,222
+571,Ramonda,Entertainment,Mass Customer,No,63.0,Victoria,222
+581,Brenna,Financial Services,Mass Customer,Yes,52.0,New South Wales,222
+1072,Curt,Financial Services,High Net Worth,Yes,64.0,New South Wales,222
+566,Datha,Financial Services,High Net Worth,Yes,43.0,New South Wales,222
+1354,Karee,Financial Services,Affluent Customer,No,21.0,Victoria,222
+231,Basile,Financial Services,Mass Customer,Yes,26.0,New South Wales,222
+1114,Evonne,Retail,Mass Customer,No,45.0,QLD,222
+2756,Cymbre,Entertainment,Mass Customer,No,52.0,Victoria,222
+2549,Mike,Health,Mass Customer,Yes,23.0,New South Wales,222
+441,Felicle,IT,Mass Customer,No,47.0,New South Wales,222
+1919,Bartie,Argiculture,Mass Customer,Yes,61.0,QLD,222
+1139,Shellysheldon,Manufacturing,Mass Customer,Yes,39.0,QLD,222
+436,Erwin,IT,Mass Customer,No,64.0,New South Wales,222
+1031,Roi,Manufacturing,Mass Customer,No,38.0,QLD,222
+1391,Winni,Retail,High Net Worth,No,45.0,Victoria,222
+2781,Linnea,Financial Services,Affluent Customer,Yes,24.0,Victoria,222
+1268,Baudoin,Financial Services,High Net Worth,Yes,32.0,QLD,222
+2262,Nyssa,Health,Mass Customer,Yes,37.0,QLD,222
+2162,Andrew,Financial Services,High Net Worth,Yes,47.0,New South Wales,222
+2567,Tobe,Financial Services,Mass Customer,No,46.0,New South Wales,222
+192,Goldi,Health,Mass Customer,Yes,43.0,Victoria,222
+3097,Alessandro,Financial Services,Affluent Customer,Yes,43.0,New South Wales,222
+1401,Ashien,Financial Services,High Net Worth,No,43.0,Victoria,222
+38,Cordi,Financial Services,Affluent Customer,No,66.0,QLD,222
+2316,Vernen,Financial Services,Affluent Customer,Yes,43.0,Victoria,222
+2334,Zebulen,Health,Affluent Customer,No,25.0,Victoria,222
+2900,Cyrille,Health,Mass Customer,Yes,35.0,New South Wales,222
+3291,Cindy,Manufacturing,Mass Customer,No,65.0,New South Wales,222
+14,Rayshell,Financial Services,Affluent Customer,No,38.0,New South Wales,222
+1573,Aurea,Property,Mass Customer,Yes,27.0,New South Wales,222
+2314,Ravid,Health,High Net Worth,Yes,28.0,QLD,222
+1749,Debbi,Telecommunications,High Net Worth,No,41.0,Victoria,222
+3346,Nadya,Financial Services,High Net Worth,No,30.0,QLD,222
+1553,Vanna,Retail,High Net Worth,No,65.0,New South Wales,222
+2906,Ivory,Retail,Mass Customer,Yes,29.0,New South Wales,222
+846,Alvan,Manufacturing,Affluent Customer,No,67.0,New South Wales,222
+1710,Matilde,Health,High Net Worth,No,67.0,New South Wales,222
+3311,Clary,Manufacturing,Mass Customer,Yes,42.0,QLD,222
+764,Samuel,Financial Services,Mass Customer,Yes,44.0,QLD,222
+2373,Cordy,Manufacturing,High Net Worth,Yes,39.0,Victoria,222
+3497,Thia,Manufacturing,Affluent Customer,Yes,35.0,Victoria,222
+740,Farr,Financial Services,Affluent Customer,No,27.0,QLD,222
+3492,Urbanus,Manufacturing,Mass Customer,No,55.0,Victoria,222
+288,Ebenezer,Manufacturing,High Net Worth,No,36.0,Victoria,222
+814,Raffarty,Manufacturing,Mass Customer,No,62.0,Victoria,222
+836,Clemence,Financial Services,Mass Customer,Yes,31.0,QLD,222
+1717,Obadias,Manufacturing,Mass Customer,No,43.0,Victoria,222
+842,Mahmud,Financial Services,High Net Worth,No,22.0,Victoria,222
+2998,Quintana,Manufacturing,High Net Worth,Yes,21.0,QLD,222
+2854,Vikky,IT,High Net Worth,Yes,43.969332992588804,New South Wales,222
+2866,Ky,Health,High Net Worth,No,26.0,New South Wales,222
+698,Ellette,Manufacturing,High Net Worth,Yes,25.0,Victoria,222
+241,Quillan,Entertainment,Mass Customer,No,34.0,QLD,222
+1509,Sibley,IT,High Net Worth,Yes,43.969332992588804,New South Wales,222
+1490,Lusa,Financial Services,Mass Customer,Yes,51.0,New South Wales,222
+2460,Mick,Manufacturing,High Net Worth,Yes,45.0,Victoria,221
+537,Raine,Entertainment,High Net Worth,No,32.0,New South Wales,221
+816,Donni,Manufacturing,Mass Customer,No,64.0,New South Wales,221
+1278,Betsy,Health,Affluent Customer,No,23.0,QLD,221
+3308,Daffi,Financial Services,Mass Customer,Yes,42.0,New South Wales,221
+2593,Sharona,Manufacturing,Affluent Customer,No,48.0,New South Wales,221
+1284,Alexis,Entertainment,Affluent Customer,No,45.0,QLD,221
+1900,Noland,Financial Services,Affluent Customer,Yes,41.0,QLD,221
+567,Hashim,Financial Services,Affluent Customer,No,56.0,New South Wales,221
+3182,Catherina,Financial Services,Affluent Customer,No,54.0,New South Wales,221
+1100,Cord,Manufacturing,Mass Customer,No,38.0,QLD,221
+1097,Gwenora,Financial Services,Mass Customer,Yes,53.0,New South Wales,221
+2734,Hetty,Manufacturing,High Net Worth,No,64.0,New South Wales,221
+1085,Lucho,Health,Mass Customer,No,46.0,QLD,221
+2568,Anna-diana,Manufacturing,Mass Customer,No,38.0,Victoria,221
+2402,Merrielle,Financial Services,Mass Customer,Yes,64.0,New South Wales,221
+96,Heath,Manufacturing,Mass Customer,No,53.0,New South Wales,221
+1784,Louella,Manufacturing,Mass Customer,Yes,27.0,New South Wales,221
+1442,Mylo,Manufacturing,Affluent Customer,No,58.0,New South Wales,221
+493,Tommie,Manufacturing,Mass Customer,Yes,61.0,QLD,221
+3144,Ringo,Manufacturing,Mass Customer,Yes,43.0,Victoria,221
+3019,Alonso,Manufacturing,Affluent Customer,Yes,35.0,New South Wales,221
+3423,Griselda,Health,Affluent Customer,No,22.0,Victoria,221
+1187,Antonino,Financial Services,Mass Customer,No,23.0,Victoria,221
+2950,Kristos,Financial Services,Mass Customer,Yes,66.0,Victoria,221
+1222,Barbey,Property,Mass Customer,No,51.0,Victoria,221
+2362,Herbie,Financial Services,Affluent Customer,Yes,49.0,New South Wales,221
+2000,Kain,IT,High Net Worth,Yes,43.969332992588804,New South Wales,221
+2348,Keeley,Manufacturing,Mass Customer,No,64.0,New South Wales,221
+2084,Britni,IT,Mass Customer,Yes,35.0,QLD,221
+809,Nevsa,Health,Mass Customer,No,44.0,New South Wales,221
+497,Allissa,Property,Mass Customer,Yes,47.0,Victoria,221
+3466,Victor,IT,Mass Customer,No,42.0,Victoria,221
+810,Fawnia,Health,Mass Customer,Yes,23.0,New South Wales,221
+1255,Erhart,Health,Affluent Customer,No,39.0,New South Wales,221
+3172,Marje,Retail,Affluent Customer,No,60.0,QLD,221
+3463,Fletch,Financial Services,Affluent Customer,No,37.0,New South Wales,221
+1654,Melli,IT,High Net Worth,Yes,32.0,Victoria,221
+2579,Celka,Manufacturing,Mass Customer,No,51.0,Victoria,221
+2178,Veriee,Retail,Mass Customer,No,67.0,QLD,221
+3341,Vitia,Retail,Affluent Customer,Yes,41.0,New South Wales,221
+169,Alfy,Telecommunications,High Net Worth,Yes,64.0,New South Wales,221
+863,Kessiah,Financial Services,Affluent Customer,No,60.0,Victoria,221
+2767,Sybil,Property,High Net Worth,No,33.0,New South Wales,221
+2784,Thurston,Manufacturing,Mass Customer,No,32.0,QLD,221
+699,Mirabella,IT,Affluent Customer,Yes,49.0,New South Wales,221
+2790,Shirleen,Retail,High Net Worth,Yes,44.0,New South Wales,221
+2962,Shari,Property,Mass Customer,No,50.0,New South Wales,221
+2516,Zoe,Health,Mass Customer,No,54.0,QLD,221
+3233,Xever,Financial Services,Mass Customer,Yes,62.0,Victoria,221
+2809,Jenilee,Retail,Mass Customer,No,52.0,Victoria,221
+883,Lolita,IT,Mass Customer,Yes,43.969332992588804,New South Wales,221
+2440,Lethia,Manufacturing,Affluent Customer,No,62.0,New South Wales,221
+2764,Callie,Financial Services,Mass Customer,Yes,66.0,QLD,221
+1201,Stephani,Manufacturing,Mass Customer,No,66.0,New South Wales,221
+961,Rosamund,Financial Services,Mass Customer,No,35.0,New South Wales,221
+3385,Ronda,Argiculture,Mass Customer,No,46.0,New South Wales,221
+3101,Paxton,Manufacturing,High Net Worth,No,34.0,New South Wales,221
+3024,Franz,Health,Mass Customer,No,62.0,Victoria,213
+2619,Lavinia,Financial Services,High Net Worth,Yes,43.0,QLD,213
+1612,Wendel,Financial Services,High Net Worth,Yes,34.0,New South Wales,213
+3099,Shelli,Retail,Mass Customer,Yes,25.0,QLD,212
+1146,Hadleigh,Financial Services,High Net Worth,No,29.0,Victoria,212
+1510,Timmie,Financial Services,Mass Customer,No,62.0,New South Wales,212
+2047,Kirsten,Financial Services,Affluent Customer,Yes,46.0,QLD,212
+130,Raddy,Manufacturing,Mass Customer,No,24.0,New South Wales,212
+2644,Brooke,IT,Mass Customer,No,44.0,Victoria,212
+2743,Carr,Health,High Net Worth,Yes,42.0,New South Wales,212
+2107,Dre,IT,Affluent Customer,Yes,29.0,QLD,211
+1206,Lucina,Financial Services,Mass Customer,No,43.0,Victoria,211
+282,Lauren,Argiculture,High Net Worth,Yes,32.0,QLD,211
+3161,Cindie,Financial Services,Mass Customer,Yes,44.0,Victoria,211
+1230,Eben,Financial Services,Mass Customer,Yes,36.0,New South Wales,211
+3396,Arin,Manufacturing,Mass Customer,Yes,61.0,New South Wales,211
+2274,Nada,Manufacturing,Mass Customer,Yes,42.0,New South Wales,211
+1911,Hallsy,Manufacturing,Mass Customer,No,41.0,QLD,211
+2423,Lenci,IT,Mass Customer,Yes,40.0,Victoria,211
+2115,Shannon,Health,Mass Customer,Yes,46.0,Victoria,211
+3392,Brock,Financial Services,Mass Customer,No,45.0,New South Wales,211
+862,Worden,Argiculture,High Net Worth,Yes,44.0,Victoria,211
+2056,Cristin,Property,High Net Worth,No,35.0,New South Wales,211
+1920,Rutter,Financial Services,Mass Customer,No,33.0,New South Wales,211
+1325,Ty,Argiculture,High Net Worth,Yes,53.0,QLD,211
+3189,Abbott,Financial Services,Mass Customer,No,58.0,QLD,211
+97,Arne,Financial Services,Mass Customer,Yes,42.0,New South Wales,144
+1119,Lemmy,Entertainment,Mass Customer,Yes,45.0,New South Wales,144
+841,Hanan,Manufacturing,Affluent Customer,Yes,55.0,Victoria,144
+565,Saleem,Manufacturing,Mass Customer,Yes,62.0,New South Wales,144
+2001,Mada,Manufacturing,Mass Customer,Yes,44.0,New South Wales,144
+943,Holly,Property,Affluent Customer,Yes,42.0,New South Wales,144
+1932,Sybila,Entertainment,Affluent Customer,Yes,44.0,Victoria,144
+2185,Gayle,Property,Mass Customer,No,58.0,New South Wales,144
+2894,Gilburt,Financial Services,Mass Customer,Yes,44.0,QLD,144
+3461,Nigel,Manufacturing,Affluent Customer,Yes,59.0,New South Wales,144
+700,Josias,Financial Services,Mass Customer,No,31.0,New South Wales,144
+2951,Duffy,Financial Services,High Net Worth,No,44.0,Victoria,144
+897,Pris,Manufacturing,Mass Customer,No,52.0,New South Wales,144
+1951,Rockie,Manufacturing,Mass Customer,Yes,21.0,Victoria,144
+1901,Vail,Argiculture,Affluent Customer,No,44.0,QLD,144
+2982,Celisse,Financial Services,Mass Customer,Yes,39.0,Victoria,144
+1157,Saunder,Health,Affluent Customer,Yes,47.0,New South Wales,144
+528,Gayel,Health,Mass Customer,No,42.0,New South Wales,144
+1954,Greg,Manufacturing,Affluent Customer,No,54.0,New South Wales,144
+1043,Giorgi,Financial Services,Mass Customer,Yes,35.0,QLD,144
+2121,Clarita,Financial Services,Mass Customer,Yes,32.0,Victoria,144
+1992,Shanta,Manufacturing,Mass Customer,Yes,26.0,New South Wales,144
+3113,Wenonah,Property,Mass Customer,Yes,52.0,New South Wales,144
+2151,Herrick,Entertainment,Affluent Customer,No,35.0,QLD,144
+865,Germain,Telecommunications,Mass Customer,No,56.0,QLD,144
+2885,Minnie,Financial Services,Mass Customer,Yes,52.0,New South Wales,144
+3003,Brita,Retail,Mass Customer,Yes,58.0,New South Wales,144
+34,Jephthah,IT,Affluent Customer,No,178.0,QLD,144
+608,Alisun,Retail,High Net Worth,Yes,41.0,QLD,144
+2140,Hilario,Telecommunications,High Net Worth,No,45.0,QLD,144
+3135,Titus,Financial Services,Mass Customer,No,59.0,New South Wales,144
+1988,Kelwin,Property,Mass Customer,No,64.0,Victoria,144
+2529,Ben,Manufacturing,High Net Worth,Yes,67.0,Victoria,144
+247,Kristal,Financial Services,High Net Worth,Yes,38.0,New South Wales,144
+2617,Vanda,Health,High Net Worth,No,62.0,New South Wales,144
+2388,Quincy,Financial Services,Mass Customer,No,24.0,New South Wales,144
+135,Rosalia,IT,Mass Customer,No,46.0,Victoria,144
+325,Anthia,Financial Services,Affluent Customer,Yes,50.0,QLD,144
+2570,Hirsch,Financial Services,Mass Customer,Yes,44.0,QLD,144
+2610,Arliene,IT,Mass Customer,No,67.0,QLD,144
+473,Benji,Health,Mass Customer,Yes,44.0,Victoria,144
+2221,Tye,Argiculture,Affluent Customer,No,26.0,QLD,144
+1637,Timothee,Manufacturing,High Net Worth,No,52.0,New South Wales,144
+3417,Deedee,Health,Mass Customer,No,48.0,Victoria,144
+1743,Pall,Manufacturing,Affluent Customer,Yes,40.0,QLD,144
+343,Nicole,Property,Affluent Customer,No,64.0,New South Wales,144
+1307,Emlyn,Health,High Net Worth,Yes,51.0,QLD,144
+3280,Micki,Financial Services,Mass Customer,Yes,34.0,New South Wales,144
+3221,Brigid,Property,High Net Worth,Yes,62.0,QLD,144
+1533,Sonia,Health,Affluent Customer,Yes,44.0,New South Wales,144
+469,Levi,Financial Services,High Net Worth,Yes,25.0,New South Wales,144
+299,Corabelle,Financial Services,Mass Customer,Yes,65.0,New South Wales,144
+1285,Tomkin,Manufacturing,Mass Customer,Yes,48.0,QLD,144
+3212,Corella,Financial Services,Affluent Customer,No,40.0,New South Wales,144
+1447,Renaldo,Manufacturing,Mass Customer,No,25.0,New South Wales,144
+275,Dud,Health,High Net Worth,No,66.0,New South Wales,144
+392,Brandyn,Property,Mass Customer,No,43.0,Victoria,144
+2654,Dawn,Telecommunications,Mass Customer,No,44.0,New South Wales,144
+168,Reggie,IT,Affluent Customer,Yes,43.969332992588804,Victoria,144
+467,Welbie,Property,Affluent Customer,No,67.0,New South Wales,143
+892,Conroy,IT,Mass Customer,Yes,43.969332992588804,Victoria,143
+361,Stephana,Health,Mass Customer,Yes,22.0,New South Wales,143
+196,Swen,Manufacturing,High Net Worth,No,55.0,New South Wales,143
+905,Dorian,Manufacturing,Affluent Customer,No,43.0,QLD,143
+2513,Rustie,Property,Mass Customer,No,43.0,New South Wales,143
+369,Alic,Financial Services,Mass Customer,Yes,30.0,Victoria,143
+3237,Astrid,Manufacturing,Mass Customer,No,57.0,New South Wales,143
+27,Garvin,Health,Mass Customer,Yes,43.0,Victoria,143
+1959,Arlen,Health,Mass Customer,Yes,43.0,QLD,143
+585,Tiphany,Health,Mass Customer,Yes,43.0,QLD,143
+1418,Valaria,IT,Affluent Customer,Yes,45.0,New South Wales,143
+32,Marion,Manufacturing,Affluent Customer,No,26.0,New South Wales,143
+2494,Donella,Manufacturing,High Net Worth,No,47.0,New South Wales,143
+370,Trstram,Telecommunications,Affluent Customer,Yes,23.0,QLD,143
+662,Bonnibelle,Manufacturing,Mass Customer,Yes,54.0,Victoria,143
+2562,Boonie,Retail,Mass Customer,No,41.0,Victoria,143
+378,Raquela,Retail,Mass Customer,No,47.0,New South Wales,143
+598,Zebulen,Financial Services,High Net Worth,No,54.0,New South Wales,143
+3320,Anabella,Manufacturing,High Net Worth,No,27.0,Victoria,143
+248,Inger,Health,Affluent Customer,Yes,43.0,New South Wales,143
+3432,Max,Argiculture,Mass Customer,Yes,33.0,QLD,143
+2058,Ronna,Argiculture,High Net Worth,No,43.0,QLD,143
+3342,Henry,Entertainment,Mass Customer,No,36.0,New South Wales,143
+1647,Ivory,Financial Services,High Net Worth,Yes,44.0,QLD,143
+272,Arlie,Retail,Mass Customer,Yes,34.0,New South Wales,143
+1677,Petrina,Health,Affluent Customer,Yes,63.0,New South Wales,143
+525,Lennard,Manufacturing,Mass Customer,Yes,41.0,Victoria,143
+504,Vinny,Manufacturing,High Net Worth,Yes,26.0,Victoria,143
+2956,Thedric,Telecommunications,Mass Customer,Yes,62.0,New South Wales,143
+1555,Marcello,Health,High Net Worth,No,59.0,New South Wales,143
+1840,Sherman,Argiculture,High Net Worth,Yes,44.0,New South Wales,142
+524,Florence,Retail,Mass Customer,No,59.0,Victoria,142
+2968,Lek,Retail,High Net Worth,No,44.0,QLD,142
+620,Willy,Financial Services,Mass Customer,Yes,48.0,QLD,142
+1177,Bobbette,Health,Affluent Customer,Yes,68.0,New South Wales,142
+2478,Andreas,Financial Services,Affluent Customer,Yes,55.0,QLD,142
+1831,Lisle,Health,Mass Customer,No,44.0,Victoria,142
+944,Anderea,Manufacturing,Mass Customer,No,45.0,Victoria,142
+2609,Genvieve,Financial Services,Mass Customer,Yes,57.0,New South Wales,142
+1321,Bree,Argiculture,Affluent Customer,No,27.0,QLD,142
+242,Taite,Property,Affluent Customer,No,29.0,New South Wales,142
+1089,Korney,Property,Affluent Customer,No,33.0,Victoria,142
+568,Quinn,Manufacturing,Mass Customer,No,64.0,QLD,141
+3265,Isaak,Health,High Net Worth,No,54.0,Victoria,141
+3150,Morissa,Financial Services,Mass Customer,No,30.0,New South Wales,141
+1964,Cara,Financial Services,Affluent Customer,Yes,57.0,QLD,134
+283,Sari,Retail,Mass Customer,No,30.0,QLD,134
+1397,Dimitri,Manufacturing,Mass Customer,Yes,42.0,Victoria,134
+1005,Kalila,IT,High Net Worth,Yes,54.0,New South Wales,134
+3268,Estelle,Manufacturing,Mass Customer,No,35.0,Victoria,134
+3450,Brooke,Retail,Mass Customer,No,28.0,QLD,134
+3267,Gerri,Property,High Net Worth,Yes,34.0,New South Wales,134
+2510,Nealson,Manufacturing,Mass Customer,Yes,48.0,Victoria,134
+2270,Augustus,Retail,Affluent Customer,No,55.0,Victoria,134
+1779,Krishnah,Argiculture,Affluent Customer,No,25.0,Victoria,134
+1676,Ozzy,Health,Mass Customer,No,46.0,New South Wales,134
+685,Booth,IT,Mass Customer,No,43.969332992588804,New South Wales,134
+330,Port,Manufacturing,High Net Worth,Yes,62.0,New South Wales,134
+2472,Mathias,Health,High Net Worth,Yes,32.0,Victoria,134
+1552,Cully,Entertainment,Mass Customer,Yes,33.0,New South Wales,134
+2096,Torrie,Telecommunications,High Net Worth,Yes,52.0,New South Wales,134
+920,Stefano,Health,Mass Customer,Yes,45.0,New South Wales,134
+2824,Lombard,Entertainment,Affluent Customer,No,26.0,Victoria,134
+2938,Richardo,Argiculture,Affluent Customer,No,21.0,QLD,134
+1661,Meggy,Health,Affluent Customer,No,42.0,New South Wales,134
+65,Yale,Financial Services,Affluent Customer,Yes,45.0,New South Wales,134
+2857,Alanna,Manufacturing,Mass Customer,Yes,64.0,QLD,134
+2275,Ursulina,Financial Services,High Net Worth,Yes,29.0,Victoria,134
+743,Pattin,Financial Services,Mass Customer,Yes,40.0,New South Wales,134
+882,Esmaria,Property,Mass Customer,Yes,56.0,New South Wales,134
+2655,York,Manufacturing,Mass Customer,No,55.0,QLD,134
+599,Ernestus,Financial Services,Mass Customer,Yes,43.969332992588804,Victoria,134
+1249,Tabb,Telecommunications,Mass Customer,No,54.0,QLD,134
+1882,Justin,Manufacturing,Affluent Customer,No,57.0,New South Wales,134
+1849,Jess,Retail,Mass Customer,Yes,63.0,Victoria,134
+495,Lucius,Financial Services,Mass Customer,Yes,62.0,Victoria,134
+486,Prudi,Manufacturing,Affluent Customer,Yes,66.0,Victoria,134
+1150,Bernelle,Financial Services,Mass Customer,Yes,46.0,QLD,134
+1339,Mariam,IT,High Net Worth,No,43.0,Victoria,134
+1852,Darby,Manufacturing,Affluent Customer,No,43.0,Victoria,134
+1147,Tate,Entertainment,High Net Worth,Yes,53.0,New South Wales,134
+131,Jana,Retail,High Net Worth,No,57.0,QLD,134
+3115,Rip,Manufacturing,Mass Customer,No,40.0,Victoria,134
+2605,Had,Health,High Net Worth,Yes,56.0,Victoria,134
+1876,Borden,Financial Services,Affluent Customer,No,44.0,New South Wales,134
+1138,Elli,Retail,Mass Customer,Yes,30.0,QLD,134
+2594,Sigismond,Manufacturing,Mass Customer,No,24.0,New South Wales,134
+1293,Vidovic,IT,Mass Customer,No,41.0,QLD,134
+1298,Guglielmo,Health,Mass Customer,No,47.0,QLD,134
+3168,Johan,Health,Affluent Customer,No,45.0,QLD,134
+468,Valeria,Property,High Net Worth,Yes,47.0,Victoria,134
+2169,Jarrad,Financial Services,Mass Customer,No,42.0,New South Wales,134
+3153,Hannis,Financial Services,High Net Worth,No,48.0,New South Wales,134
+509,Tobe,Financial Services,Affluent Customer,Yes,42.0,QLD,134
+1376,Pail,Health,Mass Customer,Yes,55.0,Victoria,134
+1381,Ellary,Manufacturing,Affluent Customer,Yes,36.0,Victoria,134
+3284,Jorrie,Retail,Affluent Customer,No,30.0,Victoria,133
+284,Seth,Financial Services,High Net Worth,Yes,35.0,New South Wales,133
+800,Quint,Manufacturing,Mass Customer,No,43.0,QLD,133
+802,Ailyn,Financial Services,Mass Customer,No,35.0,QLD,133
+2948,Yank,Manufacturing,Mass Customer,Yes,24.0,QLD,133
+1746,Kev,IT,High Net Worth,No,59.0,QLD,133
+508,Abagail,Property,Mass Customer,Yes,50.0,New South Wales,133
+3323,Cortie,Health,High Net Worth,No,48.0,QLD,133
+3004,Waylon,Health,Mass Customer,Yes,66.0,Victoria,133
+2604,Lewiss,Retail,Mass Customer,Yes,46.0,Victoria,133
+2598,Lindsay,Manufacturing,Affluent Customer,No,41.0,New South Wales,133
+1568,Bellanca,Manufacturing,Mass Customer,Yes,41.0,New South Wales,133
+1889,Dare,Retail,Affluent Customer,No,48.0,New South Wales,133
+791,Tootsie,Manufacturing,Mass Customer,Yes,53.0,Victoria,133
+541,Annissa,Manufacturing,Affluent Customer,Yes,55.0,Victoria,133
+709,Holly,Financial Services,Mass Customer,Yes,42.0,Victoria,133
+1754,Zonnya,Retail,Mass Customer,Yes,56.0,Victoria,133
+1875,Amory,Retail,High Net Worth,Yes,62.0,QLD,133
+2435,Orly,Manufacturing,Mass Customer,No,60.0,QLD,133
+783,Rudd,Retail,Affluent Customer,No,36.0,QLD,133
+2782,Gillian,IT,Mass Customer,No,33.0,New South Wales,133
+1535,Emanuel,Financial Services,Affluent Customer,Yes,24.0,New South Wales,133
+1596,Vinnie,Financial Services,High Net Worth,Yes,52.0,New South Wales,133
+3164,Hortensia,Manufacturing,Mass Customer,Yes,35.0,New South Wales,133
+805,Jorrie,Manufacturing,Mass Customer,No,61.0,New South Wales,133
+2061,Loralyn,Manufacturing,High Net Worth,No,38.0,QLD,133
+502,Rica,Manufacturing,Mass Customer,No,51.0,QLD,133
+3498,Lois,Manufacturing,Mass Customer,No,26.0,Victoria,133
+2371,Rory,Manufacturing,High Net Worth,Yes,55.0,New South Wales,133
+2064,Reynard,Health,Mass Customer,Yes,52.0,QLD,133
+3493,Jeffie,Health,High Net Worth,No,57.0,New South Wales,133
+2925,Henderson,Financial Services,Affluent Customer,Yes,43.0,New South Wales,133
+1652,Ulrikaumeko,Manufacturing,High Net Worth,Yes,40.0,QLD,133
+2941,Emylee,Retail,Mass Customer,No,58.0,QLD,133
+2675,Dayle,Retail,Mass Customer,No,48.0,New South Wales,133
+2983,Hilario,Retail,Mass Customer,Yes,36.0,Victoria,133
+3489,Margo,Argiculture,Mass Customer,Yes,52.0,New South Wales,133
+2917,Siegfried,Manufacturing,Affluent Customer,No,45.0,QLD,133
+2984,Frances,Manufacturing,Mass Customer,Yes,62.0,New South Wales,133
+2678,Amble,Health,Mass Customer,No,45.0,Victoria,133
+2715,Umberto,Manufacturing,Affluent Customer,No,59.0,Victoria,133
+1170,Lari,IT,Mass Customer,Yes,57.0,QLD,133
+1631,Towny,Financial Services,Affluent Customer,No,25.0,QLD,133
+300,Malachi,Health,Mass Customer,No,65.0,Victoria,133
+1908,Jaquelyn,Financial Services,High Net Worth,Yes,58.0,New South Wales,133
+2613,Trenton,Health,Mass Customer,Yes,55.0,New South Wales,133
+257,Marissa,Manufacturing,Affluent Customer,Yes,55.0,New South Wales,133
+722,Stewart,IT,Mass Customer,No,65.0,New South Wales,133
+2679,Padriac,Financial Services,High Net Worth,No,31.0,New South Wales,133
+3347,Nichols,Entertainment,High Net Worth,Yes,36.0,Victoria,133
+3128,Betteanne,Manufacturing,High Net Worth,Yes,56.0,Victoria,133
+400,Sibeal,Financial Services,Mass Customer,No,59.0,Victoria,133
+1791,Ninon,IT,Affluent Customer,Yes,47.0,QLD,133
+449,Shana,Manufacturing,High Net Worth,Yes,47.0,New South Wales,133
+3036,Windy,Property,Affluent Customer,Yes,44.0,New South Wales,133
+2133,Clarissa,Financial Services,High Net Worth,No,23.0,New South Wales,133
+3364,Trueman,Manufacturing,Mass Customer,Yes,28.0,New South Wales,133
+3250,Hussein,Argiculture,High Net Worth,Yes,29.0,QLD,133
+658,Donn,Manufacturing,Affluent Customer,Yes,77.0,Victoria,133
+3046,Shela,Manufacturing,Affluent Customer,No,57.0,New South Wales,133
+2759,Melodee,Health,Affluent Customer,Yes,20.0,Victoria,133
+2813,Lillian,Manufacturing,Mass Customer,Yes,68.0,New South Wales,133
+3090,Zared,Manufacturing,Mass Customer,No,57.0,Victoria,133
+976,Andonis,Financial Services,Affluent Customer,No,50.0,Victoria,133
+2272,Grete,Manufacturing,Mass Customer,No,27.0,QLD,133
+3102,Paquito,Property,Affluent Customer,No,31.0,New South Wales,133
+1689,Teodor,Financial Services,Mass Customer,Yes,26.0,QLD,133
+980,Max,Health,Mass Customer,No,43.0,New South Wales,133
+1842,Ephrayim,Financial Services,Mass Customer,No,44.0,New South Wales,133
+991,Lenna,Financial Services,Mass Customer,Yes,30.0,Victoria,133
+3438,Gaylor,Manufacturing,Mass Customer,No,25.0,New South Wales,133
+406,Rhona,Financial Services,High Net Worth,No,34.0,New South Wales,133
+1036,Randene,Financial Services,Mass Customer,Yes,52.0,New South Wales,133
+1004,Colas,IT,High Net Worth,No,46.0,Victoria,133
+1385,Melesa,Financial Services,Mass Customer,No,64.0,Victoria,133
+2777,Dita,Health,Mass Customer,Yes,24.0,New South Wales,133
+183,Dannie,Retail,Affluent Customer,No,24.0,New South Wales,133
+949,Jarid,Health,Mass Customer,Yes,46.0,New South Wales,133
+2177,Waverly,Health,Mass Customer,No,44.0,New South Wales,133
+384,Friederike,Financial Services,Affluent Customer,No,45.0,Victoria,133
+1927,Masha,Manufacturing,Affluent Customer,Yes,46.0,Victoria,133
+1305,Averil,Financial Services,High Net Worth,Yes,51.0,QLD,133
+3122,Cthrine,Manufacturing,High Net Worth,Yes,41.0,New South Wales,133
+462,Melany,Manufacturing,Affluent Customer,Yes,61.0,New South Wales,133
+366,Constance,Entertainment,High Net Worth,No,67.0,New South Wales,133
+2581,Gwenette,Manufacturing,Affluent Customer,Yes,47.0,New South Wales,133
+457,Querida,Financial Services,High Net Worth,Yes,41.0,New South Wales,133
+3106,Yetty,Financial Services,Mass Customer,Yes,32.0,New South Wales,133
+3116,Correy,Health,Mass Customer,No,43.0,Victoria,133
+1497,Karole,Retail,High Net Worth,No,48.0,New South Wales,133
+232,Zaria,Retail,Mass Customer,No,34.0,New South Wales,133
+2504,Aloysius,Property,Mass Customer,No,21.0,QLD,133
+1347,Leisha,Manufacturing,Mass Customer,Yes,44.0,Victoria,133
+2473,Davon,Entertainment,Mass Customer,Yes,51.0,Victoria,133
+1857,Purcell,Manufacturing,Affluent Customer,Yes,53.0,Victoria,133
+3109,Jeralee,Health,Mass Customer,Yes,63.0,New South Wales,133
+3490,Taylor,Financial Services,High Net Worth,No,41.0,New South Wales,132
+3376,Amity,Manufacturing,Mass Customer,No,39.0,New South Wales,132
+411,Cathyleen,Financial Services,High Net Worth,No,44.0,New South Wales,132
+3271,Daisi,Property,High Net Worth,Yes,35.0,New South Wales,132
+514,Trent,Financial Services,Mass Customer,Yes,25.0,Victoria,132
+3218,Conny,Argiculture,Mass Customer,Yes,45.0,QLD,132
+3333,Celinda,Property,Mass Customer,Yes,42.0,New South Wales,132
+389,Dorene,Entertainment,Affluent Customer,Yes,46.0,New South Wales,132
+3441,Janelle,Manufacturing,High Net Worth,Yes,33.0,Victoria,132
+3270,Tracey,Financial Services,Mass Customer,Yes,64.0,Victoria,132
+240,Gavin,IT,High Net Worth,Yes,32.0,New South Wales,132
+489,Tresa,Retail,Mass Customer,Yes,50.0,Victoria,132
+269,Zacherie,Property,Mass Customer,Yes,67.0,Victoria,132
+3437,Penny,Retail,High Net Worth,No,58.0,Victoria,132
+3026,Minda,Property,Mass Customer,Yes,33.0,New South Wales,132
+448,Robin,IT,High Net Worth,No,26.0,New South Wales,132
+3245,Wainwright,IT,High Net Worth,No,62.0,New South Wales,132
+3418,Felipa,Health,High Net Worth,No,62.0,New South Wales,132
+761,Vaughan,Health,Affluent Customer,Yes,44.0,New South Wales,132
+3246,Norene,Financial Services,Mass Customer,Yes,53.0,QLD,132
+456,Randolph,Manufacturing,Affluent Customer,Yes,46.0,New South Wales,132
+3349,Byram,Argiculture,Affluent Customer,No,40.0,Victoria,132
+348,Gan,Retail,Mass Customer,Yes,41.0,New South Wales,132
+98,Allianora,Health,Mass Customer,No,65.0,New South Wales,132
+349,Vinnie,Manufacturing,High Net Worth,No,40.0,Victoria,132
+3483,Emlyn,Health,High Net Worth,Yes,65.0,QLD,132
+3188,Boyd,Financial Services,Mass Customer,No,22.0,Victoria,132
+3500,Josy,Entertainment,Affluent Customer,No,54.0,New South Wales,132
+1051,Xylia,Property,High Net Worth,Yes,44.0,Victoria,132
+2252,Darcey,IT,High Net Worth,Yes,43.969332992588804,Victoria,132
+1976,Letitia,Manufacturing,Mass Customer,No,46.0,Victoria,132
+2249,Kiele,Financial Services,Mass Customer,No,25.0,New South Wales,132
+847,Kelci,Retail,High Net Worth,No,30.0,New South Wales,132
+2663,Royce,Health,Mass Customer,Yes,65.0,New South Wales,132
+2667,Randene,Manufacturing,Affluent Customer,Yes,63.0,Victoria,132
+2006,Hyacinthia,Property,High Net Worth,Yes,22.0,New South Wales,132
+1874,Nickolai,Argiculture,High Net Worth,Yes,64.0,New South Wales,132
+1069,Reese,Telecommunications,Mass Customer,No,45.0,QLD,132
+1060,Vanda,Argiculture,Affluent Customer,Yes,60.0,New South Wales,132
+1044,Frederico,Health,High Net Worth,No,43.969332992588804,QLD,132
+1013,Corissa,Retail,High Net Worth,No,45.0,New South Wales,132
+2869,Gavra,Manufacturing,Affluent Customer,No,20.0,New South Wales,132
+1948,Elizabeth,Entertainment,Mass Customer,No,57.0,New South Wales,132
+2167,Laina,Entertainment,Mass Customer,No,24.0,New South Wales,132
+2123,Shirley,Manufacturing,Affluent Customer,No,28.0,QLD,132
+2156,Darill,Retail,Mass Customer,Yes,44.0,New South Wales,132
+1966,Moshe,Financial Services,High Net Worth,No,28.0,New South Wales,132
+2150,Huntlee,Retail,Affluent Customer,Yes,62.0,QLD,132
+1968,Frederica,Entertainment,Mass Customer,No,27.0,QLD,132
+914,Marc,Manufacturing,Affluent Customer,Yes,22.0,Victoria,132
+2827,Shelli,Financial Services,High Net Worth,No,48.0,New South Wales,132
+2264,Tony,Health,Affluent Customer,No,49.0,Victoria,132
+2646,Jesselyn,Retail,Mass Customer,Yes,49.0,QLD,132
+2913,Padraic,IT,Affluent Customer,Yes,66.0,Victoria,132
+2524,Rustie,Retail,Mass Customer,Yes,52.0,New South Wales,132
+781,Elvis,Manufacturing,Mass Customer,No,63.0,New South Wales,132
+2066,Skipp,Health,High Net Worth,Yes,52.0,New South Wales,132
+1542,Sanders,Health,Mass Customer,Yes,43.0,New South Wales,132
+1499,Patton,Manufacturing,Mass Customer,Yes,48.0,New South Wales,132
+1692,Harriette,Health,Mass Customer,Yes,54.0,Victoria,132
+1463,Willie,Property,High Net Worth,Yes,56.0,New South Wales,132
+2491,Tabbie,Health,Mass Customer,No,44.0,Victoria,132
+1430,Kalli,Manufacturing,Mass Customer,Yes,22.0,New South Wales,132
+1732,Elihu,Argiculture,Mass Customer,Yes,43.0,Victoria,132
+2039,Laureen,IT,High Net Worth,Yes,43.0,New South Wales,132
+2293,Engracia,Financial Services,Affluent Customer,No,63.0,New South Wales,132
+1275,Francisca,Health,Mass Customer,Yes,55.0,QLD,132
+1320,Fae,Manufacturing,High Net Worth,Yes,38.0,QLD,132
+830,Jayson,Manufacturing,Affluent Customer,No,40.0,New South Wales,132
+2830,Bjorn,Manufacturing,High Net Worth,No,63.0,Victoria,132
+2798,Barclay,Argiculture,High Net Worth,Yes,56.0,Victoria,131
+3063,Andrea,Financial Services,Affluent Customer,No,22.0,QLD,131
+1092,Katlin,Retail,Mass Customer,No,86.0,Victoria,131
+2315,Pernell,Financial Services,Affluent Customer,No,27.0,New South Wales,131
+2496,Lew,Manufacturing,Mass Customer,Yes,41.0,QLD,131
+1154,Chase,Health,Mass Customer,Yes,47.0,New South Wales,131
+1651,Idalina,Telecommunications,Mass Customer,Yes,25.0,New South Wales,131
+1141,Shannah,Financial Services,High Net Worth,Yes,40.0,Victoria,131
+2403,Karalee,Financial Services,Affluent Customer,No,44.0,New South Wales,131
+67,Vernon,Retail,Mass Customer,No,61.0,New South Wales,131
+1892,Allyson,Retail,High Net Worth,Yes,26.0,New South Wales,131
+2720,Shirline,Retail,High Net Worth,No,38.0,New South Wales,131
+2933,Ralf,Retail,Affluent Customer,Yes,35.0,Victoria,131
+435,Jerome,Telecommunications,Mass Customer,No,22.0,New South Wales,124
+2696,Isabelle,Health,Mass Customer,Yes,43.969332992588804,QLD,124
+2030,Xymenes,Property,High Net Worth,No,60.0,Victoria,124
+569,Jaime,IT,Mass Customer,No,45.0,New South Wales,124
+1834,Otes,Financial Services,High Net Worth,Yes,44.0,QLD,124
+3198,Dur,Manufacturing,Mass Customer,Yes,24.0,Victoria,124
+1459,Haydon,Manufacturing,Mass Customer,No,23.0,New South Wales,124
+2116,Wyndham,Financial Services,Affluent Customer,Yes,42.0,Victoria,124
+735,Khalil,Financial Services,Mass Customer,Yes,56.0,New South Wales,123
+2026,Anabelle,Property,Mass Customer,Yes,34.0,New South Wales,123
+1247,Hildagarde,Entertainment,Affluent Customer,No,61.0,QLD,123
+194,Ursala,Financial Services,Affluent Customer,No,47.0,QLD,123
+492,Pail,Financial Services,Mass Customer,No,45.0,Victoria,123
+855,Bennie,Retail,High Net Worth,Yes,47.0,QLD,123
+19,Sorcha,Manufacturing,High Net Worth,No,20.0,New South Wales,123
+2649,Merwyn,Health,Affluent Customer,Yes,35.0,New South Wales,123
+3403,Jessalyn,Financial Services,Mass Customer,Yes,27.0,Victoria,123
+1280,Horacio,Manufacturing,High Net Worth,Yes,43.0,QLD,123
+3001,Gal,Argiculture,Mass Customer,No,44.0,New South Wales,123
+129,Weidar,Financial Services,High Net Worth,Yes,36.0,New South Wales,123
+551,Florence,Financial Services,High Net Worth,No,34.0,Victoria,123
+555,Jarib,Property,Mass Customer,No,51.0,Victoria,123
+123,Almeta,Financial Services,High Net Worth,No,33.0,New South Wales,123
+121,Myles,Manufacturing,Mass Customer,No,64.0,New South Wales,123
+2225,Christina,Health,Affluent Customer,No,33.0,QLD,123
+1888,Sibyl,Health,Mass Customer,Yes,19.0,New South Wales,123
+3005,Rafaellle,Property,Affluent Customer,Yes,52.0,New South Wales,123
+582,Rhoda,IT,Affluent Customer,No,43.969332992588804,New South Wales,123
+2600,Darnell,Financial Services,Mass Customer,Yes,20.0,QLD,123
+1296,Essy,Financial Services,Affluent Customer,Yes,32.0,QLD,123
+1800,Dianemarie,Argiculture,High Net Worth,No,66.0,New South Wales,123
+3192,Illa,Financial Services,High Net Worth,Yes,53.0,Victoria,123
+2411,Casey,Financial Services,High Net Worth,No,57.0,New South Wales,123
+1583,Krysta,IT,Mass Customer,Yes,43.969332992588804,New South Wales,123
+2957,Hurlee,Health,Affluent Customer,No,52.0,New South Wales,123
+1563,Crosby,Property,Mass Customer,No,29.0,QLD,123
+2429,Emeline,Manufacturing,Mass Customer,Yes,41.0,New South Wales,123
+1675,Luke,Manufacturing,Affluent Customer,Yes,66.0,Victoria,123
+1679,Arabel,Health,Mass Customer,Yes,46.0,New South Wales,123
+3318,Courtnay,Manufacturing,High Net Worth,Yes,59.0,New South Wales,123
+2356,Arluene,Manufacturing,Affluent Customer,No,27.0,QLD,123
+2091,Dominga,Argiculture,Mass Customer,No,41.0,New South Wales,123
+1458,Ashley,Telecommunications,Affluent Customer,No,65.0,New South Wales,123
+1437,Gearalt,Manufacturing,Affluent Customer,No,47.0,New South Wales,123
+2503,Devlin,Health,Affluent Customer,Yes,54.0,New South Wales,123
+2506,Arlana,Health,Affluent Customer,No,66.0,New South Wales,123
+2517,Rozanna,Health,Mass Customer,Yes,43.0,New South Wales,123
+1392,Marris,Financial Services,Mass Customer,No,21.0,Victoria,123
+2321,Libbi,Manufacturing,Mass Customer,Yes,41.0,QLD,123
+1386,Mufinella,Retail,Mass Customer,Yes,54.0,Victoria,123
+244,Germayne,Retail,Affluent Customer,No,47.0,Victoria,123
+2037,Irwin,IT,Mass Customer,No,32.0,New South Wales,123
+2583,Appolonia,Property,Mass Customer,No,58.0,New South Wales,123
+105,Maribeth,Manufacturing,Mass Customer,No,20.0,New South Wales,123
+2960,Hollie,Property,Mass Customer,Yes,45.0,New South Wales,123
+2754,Waring,Retail,Mass Customer,No,58.0,New South Wales,123
+596,Sue,Property,Affluent Customer,No,53.0,QLD,123
+1998,Hamil,Manufacturing,High Net Worth,No,46.0,Victoria,123
+35,Margaretha,Health,High Net Worth,Yes,58.0,QLD,123
+624,Winny,Manufacturing,Mass Customer,Yes,45.0,New South Wales,123
+2757,Leodora,Financial Services,Affluent Customer,No,60.0,Victoria,123
+954,Alain,Manufacturing,Mass Customer,Yes,26.0,Victoria,123
+1938,Austin,IT,Mass Customer,Yes,43.969332992588804,QLD,123
+1017,Jacquenette,Entertainment,High Net Worth,No,42.0,New South Wales,123
+2795,Shirline,Financial Services,Mass Customer,No,55.0,Victoria,123
+942,Shirley,Financial Services,Mass Customer,Yes,47.0,QLD,123
+422,Vito,Manufacturing,Affluent Customer,No,19.0,New South Wales,122
+2927,Yard,Manufacturing,Affluent Customer,Yes,61.0,Victoria,122
+3442,Adrianne,Retail,Mass Customer,Yes,59.0,New South Wales,122
+427,Giusto,Entertainment,Mass Customer,Yes,25.0,New South Wales,122
+3053,Susie,Retail,High Net Worth,No,37.0,New South Wales,122
+2323,Adair,Property,High Net Worth,No,33.0,QLD,122
+2979,Louella,Retail,Mass Customer,No,45.0,Victoria,122
+1394,Freemon,Health,Mass Customer,Yes,43.0,Victoria,122
+3051,Edi,Manufacturing,Affluent Customer,Yes,48.0,New South Wales,122
+641,Foster,Manufacturing,Affluent Customer,No,47.0,Victoria,122
+2333,Ives,Financial Services,Mass Customer,Yes,55.0,Victoria,122
+2521,Kellia,Manufacturing,High Net Worth,Yes,22.0,Victoria,122
+643,Carolee,Entertainment,Mass Customer,Yes,39.0,Victoria,122
+2,Eli,Financial Services,Mass Customer,Yes,41.0,New South Wales,122
+1380,Lavina,Financial Services,Mass Customer,No,23.0,Victoria,122
+1369,Ilka,Manufacturing,Mass Customer,Yes,27.0,Victoria,122
+3066,Renell,Financial Services,Affluent Customer,Yes,26.0,Victoria,122
+622,Arri,Financial Services,Mass Customer,No,53.0,QLD,122
+3009,Hephzibah,Health,High Net Worth,Yes,44.0,Victoria,122
+3194,Hakeem,Manufacturing,Mass Customer,No,43.0,QLD,122
+2873,Elvina,Financial Services,Mass Customer,No,40.0,New South Wales,122
+2035,Kylie,Health,Mass Customer,No,42.0,New South Wales,122
+890,Tony,Health,Mass Customer,Yes,47.0,New South Wales,122
+1772,Michael,Financial Services,High Net Worth,Yes,37.0,New South Wales,122
+1360,Maurice,Manufacturing,Mass Customer,Yes,51.0,Victoria,122
+2926,Jonie,Health,High Net Worth,No,58.0,QLD,122
+2545,Grayce,Manufacturing,Mass Customer,Yes,43.0,Victoria,122
+267,Edgar,IT,High Net Worth,No,43.969332992588804,New South Wales,122
+2499,Doll,Retail,Mass Customer,No,48.0,QLD,122
+646,Rowena,Manufacturing,Affluent Customer,No,48.0,Victoria,122
+3496,Danya,Manufacturing,Mass Customer,Yes,35.0,New South Wales,122
+1680,Loise,Property,Mass Customer,Yes,23.0,New South Wales,122
+2065,Silvio,Retail,Mass Customer,Yes,43.0,New South Wales,122
+286,Kiley,Manufacturing,Affluent Customer,Yes,32.0,QLD,122
+2148,Annis,Manufacturing,Mass Customer,Yes,32.0,Victoria,122
+1658,Selina,Retail,Mass Customer,Yes,28.0,New South Wales,122
+3037,Leanora,Financial Services,High Net Worth,Yes,50.0,New South Wales,122
+3457,Robbi,Manufacturing,Mass Customer,No,65.0,Victoria,122
+927,Jarret,Financial Services,Mass Customer,Yes,55.0,Victoria,122
+1566,Stavros,Argiculture,Mass Customer,No,59.0,New South Wales,122
+2420,Celie,Financial Services,High Net Worth,No,45.0,QLD,122
+1635,Indira,Financial Services,Mass Customer,No,50.0,Victoria,122
+3458,Alejandro,Manufacturing,High Net Worth,Yes,44.0,New South Wales,122
+2959,Max,Health,Mass Customer,Yes,68.0,QLD,122
+1590,Crystie,Retail,Mass Customer,No,56.0,QLD,122
+670,Janifer,Retail,Affluent Customer,No,29.0,QLD,122
+1520,Dillie,Retail,Mass Customer,No,56.0,New South Wales,122
+77,Shermie,Financial Services,Mass Customer,No,32.0,QLD,122
+1491,Agneta,Health,Mass Customer,Yes,24.0,New South Wales,122
+2975,Deva,Financial Services,Mass Customer,No,40.0,New South Wales,122
+3491,Leanna,Financial Services,Affluent Customer,No,45.0,Victoria,122
+1433,Marya,IT,Mass Customer,No,63.0,New South Wales,122
+2973,Torr,Health,High Net Worth,No,49.0,Victoria,122
+678,Ambur,IT,High Net Worth,No,26.0,QLD,122
+2487,Elton,IT,Affluent Customer,Yes,43.0,Victoria,122
+3449,Ilyssa,Argiculture,High Net Worth,Yes,47.0,New South Wales,122
+1708,Wenona,Property,High Net Worth,No,33.0,New South Wales,122
+2482,Regan,Health,Mass Customer,Yes,68.0,New South Wales,122
+2819,Clyve,Manufacturing,Affluent Customer,No,44.0,New South Wales,122
+808,Nigel,Health,High Net Worth,Yes,42.0,Victoria,122
+659,Natalee,Financial Services,Affluent Customer,Yes,42.0,New South Wales,122
+1465,Wilona,Financial Services,Mass Customer,Yes,50.0,New South Wales,122
+2825,Tammara,Manufacturing,Affluent Customer,Yes,50.0,New South Wales,122
+3260,Kelsy,Telecommunications,High Net Worth,No,42.0,QLD,122
+2792,Jocelyne,Financial Services,Mass Customer,Yes,57.0,Victoria,122
+623,Hazel,Property,High Net Worth,No,33.0,QLD,122
+2077,Tobe,Financial Services,Mass Customer,Yes,29.0,QLD,122
+3471,Brita,IT,High Net Worth,Yes,68.0,New South Wales,122
+1045,Aeriel,Financial Services,Mass Customer,Yes,35.0,New South Wales,122
+552,Hilly,Manufacturing,High Net Worth,Yes,43.0,New South Wales,122
+600,Duke,Argiculture,Mass Customer,Yes,47.0,New South Wales,122
+1127,Elly,Financial Services,Mass Customer,No,30.0,New South Wales,122
+544,Giacomo,Manufacturing,High Net Worth,Yes,31.0,New South Wales,122
+1135,Mireielle,Financial Services,Mass Customer,Yes,41.0,New South Wales,122
+2706,Kelly,Retail,Affluent Customer,No,57.0,New South Wales,122
+708,Idalina,IT,Mass Customer,Yes,34.0,Victoria,122
+1040,Jacenta,Health,High Net Worth,No,46.0,QLD,122
+2186,Carolina,Health,High Net Worth,No,58.0,New South Wales,122
+1871,Shayna,Financial Services,High Net Worth,Yes,27.0,QLD,122
+1020,Natala,IT,Affluent Customer,No,46.0,New South Wales,122
+128,Isidro,Property,Mass Customer,Yes,44.0,New South Wales,122
+3410,Merrili,Property,Mass Customer,No,81.0,New South Wales,122
+141,Townsend,Financial Services,High Net Worth,Yes,67.0,New South Wales,122
+1053,Davon,Manufacturing,Mass Customer,Yes,59.0,New South Wales,122
+2002,Matilde,Financial Services,Mass Customer,No,50.0,New South Wales,122
+1064,Thornie,Entertainment,Affluent Customer,Yes,44.0,New South Wales,122
+1066,Hailey,Telecommunications,High Net Worth,No,26.0,Victoria,122
+586,Jayme,Manufacturing,Mass Customer,No,22.0,New South Wales,122
+595,Nikola,Financial Services,Mass Customer,No,48.0,QLD,122
+3429,Alla,Health,High Net Worth,No,57.0,New South Wales,122
+2742,Osgood,Financial Services,High Net Worth,Yes,42.0,QLD,122
+2205,Birk,IT,Mass Customer,No,43.969332992588804,Victoria,122
+2220,Curr,Financial Services,Mass Customer,Yes,62.0,New South Wales,122
+574,Gerard,Financial Services,Mass Customer,No,31.0,New South Wales,122
+120,Sloan,Financial Services,High Net Worth,Yes,43.0,New South Wales,122
+2724,Gerome,Financial Services,Mass Customer,No,27.0,QLD,122
+2228,Rosita,Manufacturing,High Net Worth,No,65.0,Victoria,122
+2238,Nata,Retail,Mass Customer,Yes,43.0,Victoria,122
+530,Townie,Manufacturing,Mass Customer,No,47.0,Victoria,122
+2256,Mara,Retail,Mass Customer,No,43.0,New South Wales,122
+1257,Prentiss,Property,Affluent Customer,Yes,49.0,QLD,122
+845,Koressa,Manufacturing,Mass Customer,No,48.0,New South Wales,122
+2255,Iorgo,Health,Affluent Customer,Yes,29.0,New South Wales,122
+3076,Merna,Health,Mass Customer,Yes,30.0,New South Wales,122
+1011,Cymbre,Health,High Net Worth,Yes,36.0,New South Wales,122
+2628,Giselbert,Entertainment,Affluent Customer,No,20.0,New South Wales,122
+170,Jammal,Health,High Net Worth,No,46.0,Victoria,122
+1211,Gunar,Financial Services,Affluent Customer,Yes,43.0,New South Wales,122
+616,Perl,Health,High Net Worth,No,26.0,New South Wales,122
+3175,Alphard,Health,Mass Customer,No,37.0,Victoria,122
+1267,Leopold,Entertainment,Affluent Customer,Yes,42.0,QLD,122
+2265,Brendan,Property,Mass Customer,Yes,41.0,QLD,122
+1270,Cullen,Financial Services,Affluent Customer,No,38.0,QLD,122
+2173,Gracia,IT,Mass Customer,Yes,45.0,New South Wales,122
+3029,Timmie,Manufacturing,Mass Customer,No,43.0,New South Wales,122
+162,Port,IT,Mass Customer,No,42.0,New South Wales,122
+2666,Lyle,Health,Mass Customer,No,50.0,New South Wales,122
+3079,Yorker,Retail,Mass Customer,Yes,62.0,New South Wales,122
+848,Lannie,Manufacturing,Mass Customer,No,42.0,QLD,122
+3078,Mariel,Retail,Mass Customer,No,39.0,New South Wales,122
+1744,Phoebe,Financial Services,High Net Worth,No,49.0,QLD,121
+2224,Sydel,Retail,High Net Worth,Yes,23.0,New South Wales,121
+1943,Armstrong,Financial Services,Affluent Customer,Yes,36.0,New South Wales,121
+1828,Leigha,Manufacturing,Affluent Customer,No,34.0,QLD,121
+3362,Piotr,Financial Services,Affluent Customer,No,50.0,QLD,121
+1673,Suzie,Financial Services,Affluent Customer,Yes,43.0,New South Wales,121
+26,Trixi,Financial Services,Mass Customer,Yes,43.0,QLD,121
+2337,Odilia,Health,Mass Customer,No,21.0,New South Wales,121
+2398,Mirelle,Financial Services,High Net Worth,Yes,21.0,QLD,121
+2211,Carmelita,Manufacturing,Mass Customer,Yes,46.0,New South Wales,121
+326,Guenna,Financial Services,Mass Customer,No,41.0,New South Wales,121
+157,Chad,Financial Services,Affluent Customer,No,47.0,Victoria,121
+1805,Venus,Financial Services,Mass Customer,No,45.0,New South Wales,121
+7,Fina,Financial Services,Affluent Customer,Yes,45.0,New South Wales,121
+3416,Evanne,Manufacturing,Mass Customer,Yes,45.0,Victoria,121
+1907,Lind,Health,High Net Worth,No,47.0,New South Wales,121
+31,Star,Telecommunications,High Net Worth,Yes,59.0,New South Wales,121
+1715,Cobb,Entertainment,Mass Customer,Yes,33.0,New South Wales,121
+164,Aarika,Retail,Affluent Customer,Yes,22.0,QLD,121
+1747,Obadiah,Financial Services,Affluent Customer,No,34.0,QLD,121
+42,Chiquita,Manufacturing,Mass Customer,No,44.0,Victoria,121
+2250,De witt,Telecommunications,High Net Worth,No,29.0,New South Wales,121
+274,Tessi,Health,Mass Customer,Yes,45.0,Victoria,121
+3348,Amanda,Health,High Net Worth,Yes,65.0,New South Wales,121
+2011,Guthrie,Manufacturing,High Net Worth,Yes,43.0,New South Wales,121
+1724,Davita,Entertainment,High Net Worth,Yes,22.0,New South Wales,121
+1774,Vidovik,Financial Services,Mass Customer,Yes,43.0,New South Wales,121
+2086,Gayle,Financial Services,High Net Worth,No,24.0,New South Wales,121
+3317,Ric,Financial Services,Mass Customer,Yes,51.0,Victoria,121
+2197,Filip,Financial Services,Mass Customer,No,28.0,Victoria,121
+2519,Ryon,Manufacturing,Mass Customer,Yes,42.0,QLD,121
+1173,Gertie,Retail,High Net Worth,No,43.0,New South Wales,121
+518,Bernhard,Retail,Mass Customer,Yes,30.0,QLD,121
+2716,Claribel,Entertainment,Mass Customer,No,54.0,New South Wales,121
+2704,Orlando,Retail,Affluent Customer,Yes,22.0,New South Wales,121
+1160,Trisha,IT,Affluent Customer,No,56.0,New South Wales,121
+2690,Sissie,Health,Affluent Customer,Yes,41.0,New South Wales,121
+526,Ardelle,Health,Mass Customer,Yes,43.969332992588804,New South Wales,121
+2688,Shelden,Property,Mass Customer,No,44.0,QLD,121
+1164,Gilligan,Health,Mass Customer,Yes,44.0,Victoria,121
+512,Sigfried,Financial Services,Mass Customer,No,66.0,Victoria,121
+2725,Sibylla,Property,Affluent Customer,No,56.0,New South Wales,121
+1202,Rollie,Retail,Mass Customer,Yes,29.0,New South Wales,121
+1228,Marti,Financial Services,Affluent Customer,No,59.0,New South Wales,121
+2634,Silvester,Financial Services,High Net Worth,No,41.0,New South Wales,121
+494,Gaby,Manufacturing,Mass Customer,No,46.0,New South Wales,121
+1269,Ravid,Property,High Net Worth,Yes,31.0,QLD,121
+1281,Leighton,Manufacturing,Affluent Customer,Yes,53.0,QLD,121
+1294,Cari,Manufacturing,Mass Customer,Yes,47.0,QLD,121
+1352,Jerald,Manufacturing,High Net Worth,No,67.0,Victoria,121
+1109,Nestor,Entertainment,High Net Worth,No,32.0,Victoria,121
+2744,Bjorn,Financial Services,Mass Customer,No,22.0,New South Wales,121
+1365,Shurlocke,Health,Mass Customer,No,29.0,Victoria,121
+2835,Deloria,Manufacturing,Affluent Customer,No,24.0,New South Wales,121
+2970,Cassi,Financial Services,Mass Customer,No,29.0,New South Wales,121
+812,Coral,Financial Services,Mass Customer,No,32.0,New South Wales,121
+2978,Erasmus,Manufacturing,Affluent Customer,No,47.0,New South Wales,121
+755,Baily,Financial Services,Mass Customer,No,28.0,New South Wales,121
+839,Charis,IT,Mass Customer,Yes,43.969332992588804,New South Wales,121
+734,Leicester,Retail,Affluent Customer,No,41.0,New South Wales,121
+3023,Rikki,IT,High Net Worth,Yes,27.0,New South Wales,121
+956,Ezechiel,Manufacturing,Mass Customer,Yes,61.0,New South Wales,121
+584,Fiona,Manufacturing,Affluent Customer,Yes,26.0,New South Wales,121
+2802,Clem,Financial Services,Mass Customer,No,25.0,Victoria,121
+644,Tomlin,Health,Affluent Customer,No,22.0,New South Wales,121
+3070,Malissia,Health,Affluent Customer,Yes,23.0,New South Wales,121
+3071,Shirlee,Entertainment,Mass Customer,Yes,32.0,New South Wales,121
+3073,Hernando,Telecommunications,Affluent Customer,No,54.0,Victoria,121
+1058,Gretel,Retail,Affluent Customer,Yes,34.0,Victoria,121
+592,Edik,Manufacturing,Mass Customer,No,29.0,QLD,121
+2547,Aili,Health,Mass Customer,Yes,36.0,QLD,121
+1010,Leighton,Financial Services,Affluent Customer,No,58.0,New South Wales,121
+342,Winslow,Health,High Net Worth,No,34.0,New South Wales,121
+780,Kim,Financial Services,Mass Customer,No,48.0,New South Wales,121
+1575,Phaidra,Retail,Mass Customer,No,32.0,New South Wales,121
+1560,Tymon,Retail,Mass Customer,No,48.0,New South Wales,121
+375,Salvidor,Manufacturing,Mass Customer,Yes,45.0,New South Wales,121
+3243,Tim,Health,Mass Customer,No,48.0,Victoria,121
+1604,Natale,Financial Services,High Net Worth,No,61.0,QLD,121
+160,Wake,Health,Mass Customer,No,57.0,New South Wales,113
+3040,Kameko,Retail,Mass Customer,No,55.0,New South Wales,113
+2745,Moyra,Manufacturing,Mass Customer,Yes,44.0,New South Wales,113
+1266,Harry,Health,Mass Customer,Yes,43.0,QLD,113
+1628,Hermione,IT,Mass Customer,No,43.969332992588804,New South Wales,113
+152,Stephana,Financial Services,Mass Customer,No,40.0,New South Wales,112
+1231,Aloisia,Health,Affluent Customer,No,48.0,New South Wales,112
+1209,Jacky,Property,High Net Worth,Yes,44.0,Victoria,112
+910,Lewes,Financial Services,Mass Customer,No,35.0,New South Wales,112
+1716,Lou,Telecommunications,Affluent Customer,No,34.0,New South Wales,112
+1626,Fanchon,Financial Services,Mass Customer,No,42.0,QLD,112
+3025,Osgood,Financial Services,Mass Customer,Yes,44.0,New South Wales,112
+3162,Deanne,Argiculture,Mass Customer,Yes,43.0,New South Wales,112
+3033,Danielle,Financial Services,High Net Worth,No,42.0,Victoria,112
+2829,Juditha,Manufacturing,High Net Worth,No,42.0,New South Wales,112
+1704,Tremain,IT,High Net Worth,No,59.0,Victoria,112
+2896,Chryste,Financial Services,Mass Customer,Yes,51.0,Victoria,112
+972,Dena,Retail,Mass Customer,Yes,40.0,QLD,112
+2721,Alf,Manufacturing,Mass Customer,Yes,52.0,New South Wales,112
+992,Cordelia,Property,Mass Customer,Yes,63.0,Victoria,112
+415,Conchita,Financial Services,Affluent Customer,Yes,66.0,New South Wales,112
+287,Hannie,Manufacturing,Affluent Customer,No,36.0,New South Wales,112
+3424,Vale,Manufacturing,Affluent Customer,Yes,44.0,Victoria,112
+2882,Claudia,Manufacturing,Mass Customer,No,35.0,QLD,112
+3091,Guenevere,Manufacturing,Affluent Customer,Yes,26.0,Victoria,112
+474,Consolata,Entertainment,Affluent Customer,No,38.0,New South Wales,112
+2271,King,Telecommunications,Mass Customer,Yes,47.0,New South Wales,112
+3354,Ollie,Manufacturing,Mass Customer,Yes,43.0,Victoria,112
+2040,Gal,Retail,Affluent Customer,Yes,52.0,QLD,112
+2920,Casar,IT,Mass Customer,Yes,43.969332992588804,New South Wales,112
+1768,Normand,Manufacturing,High Net Worth,No,47.0,New South Wales,112
+1362,Giuditta,Manufacturing,Affluent Customer,Yes,48.0,Victoria,112
+212,Nanice,IT,Affluent Customer,No,20.0,QLD,112
+1382,Lucio,Manufacturing,High Net Worth,Yes,32.0,Victoria,112
+2964,Geneva,Telecommunications,Mass Customer,Yes,47.0,New South Wales,112
+1023,Iseabal,Financial Services,Affluent Customer,Yes,30.0,New South Wales,111
+71,Hoyt,Argiculture,Affluent Customer,Yes,36.0,New South Wales,111
+302,Laurice,Health,Mass Customer,No,44.0,QLD,111
+2416,Eberhard,Health,Affluent Customer,No,62.0,New South Wales,111
+618,Lucho,Manufacturing,Affluent Customer,Yes,59.0,Victoria,111
+2807,Lynna,Manufacturing,Mass Customer,Yes,64.0,New South Wales,111
+988,Andree,Manufacturing,High Net Worth,No,40.0,QLD,111
+78,Arch,Argiculture,Affluent Customer,No,36.0,New South Wales,111
+784,Frederik,IT,High Net Worth,Yes,44.0,Victoria,111
+774,Phelia,Manufacturing,High Net Worth,No,23.0,Victoria,111
+1962,Paddie,Retail,Mass Customer,Yes,44.0,New South Wales,111
+1632,Orbadiah,Manufacturing,High Net Worth,Yes,36.0,Victoria,111
+2974,Hyacinthia,Financial Services,High Net Worth,No,46.0,Victoria,111
+2090,Stanton,Financial Services,Mass Customer,Yes,57.0,New South Wales,111
+3041,Sherrie,Retail,Mass Customer,Yes,47.0,QLD,111
+2157,Alidia,Property,Mass Customer,No,43.0,QLD,111
+998,Petunia,Manufacturing,Affluent Customer,Yes,56.0,New South Wales,111
+2089,Erie,Financial Services,High Net Worth,No,63.0,New South Wales,111
+4,Talbot,IT,Mass Customer,No,60.0,QLD,111
+301,Hildy,Manufacturing,High Net Worth,No,41.0,New South Wales,111
+2145,Adrea,Entertainment,Affluent Customer,Yes,62.0,New South Wales,111
+2895,Lind,Entertainment,Mass Customer,Yes,54.0,New South Wales,111
+898,Reyna,Financial Services,Affluent Customer,No,44.0,New South Wales,111
+2902,Stacia,Financial Services,Mass Customer,Yes,47.0,New South Wales,111
+2003,Lilli,Manufacturing,High Net Worth,Yes,59.0,QLD,111
+872,Suki,IT,Mass Customer,No,50.0,New South Wales,111
+2393,Dorian,Health,High Net Worth,Yes,40.0,QLD,111
+2876,Swen,Retail,High Net Worth,No,40.0,New South Wales,111
+2911,Janenna,Entertainment,Mass Customer,No,53.0,Victoria,111
+2021,Ulrica,IT,High Net Worth,Yes,43.969332992588804,New South Wales,111
+2863,Alisander,Manufacturing,Mass Customer,No,56.0,New South Wales,111
+2828,Philippine,Health,High Net Worth,Yes,23.0,Victoria,111
+2129,Barron,Manufacturing,High Net Worth,No,41.0,New South Wales,111
+751,Amie,Financial Services,Affluent Customer,No,20.0,New South Wales,111
+60,Nadiya,Manufacturing,Mass Customer,No,51.0,New South Wales,111
+754,Patsy,Financial Services,Mass Customer,No,42.0,Victoria,111
+822,Ardis,Health,High Net Worth,No,47.0,Victoria,111
+922,Bekki,Financial Services,Mass Customer,No,49.0,Victoria,111
+306,Ruy,Health,High Net Worth,No,48.0,Victoria,111
+341,Jeremiah,Financial Services,Mass Customer,No,45.0,New South Wales,111
+1975,Tommie,Health,Affluent Customer,No,56.0,QLD,111
+2328,Gayler,Health,Mass Customer,Yes,35.0,QLD,111
+1055,Danell,Manufacturing,Mass Customer,No,33.0,New South Wales,111
+2612,Bran,Retail,Affluent Customer,No,52.0,New South Wales,111
+1796,Cayla,Manufacturing,High Net Worth,Yes,52.0,New South Wales,111
+3235,Leif,Property,Affluent Customer,Yes,56.0,Victoria,111
+1283,Tory,Health,Mass Customer,No,27.0,QLD,111
+1276,Farrel,Health,Affluent Customer,No,57.0,QLD,111
+1819,Deedee,Entertainment,Mass Customer,Yes,27.0,Victoria,111
+1271,Jo-anne,Telecommunications,Mass Customer,Yes,27.0,QLD,111
+487,Elayne,Health,Mass Customer,No,42.0,Victoria,111
+3279,Morgun,Financial Services,Mass Customer,No,62.0,New South Wales,111
+3180,Gage,IT,Mass Customer,Yes,47.0,New South Wales,111
+3179,Jarid,Entertainment,Affluent Customer,Yes,42.0,New South Wales,111
+271,Doll,Financial Services,Mass Customer,No,30.0,QLD,111
+1836,Rochella,Health,Mass Customer,Yes,66.0,New South Wales,111
+393,Cesaro,Manufacturing,Mass Customer,Yes,66.0,New South Wales,111
+226,Bondie,Manufacturing,Mass Customer,No,44.0,New South Wales,111
+1334,Cicily,Financial Services,Mass Customer,No,23.0,Victoria,111
+1786,Lonee,Argiculture,High Net Worth,Yes,59.0,New South Wales,111
+2287,Gisela,Telecommunications,High Net Worth,No,47.0,Victoria,111
+2291,Guido,Manufacturing,Affluent Customer,Yes,50.0,Victoria,111
+1350,Bing,Retail,Mass Customer,Yes,64.0,Victoria,111
+3234,Mata,Manufacturing,Mass Customer,Yes,34.0,Victoria,111
+1403,Germana,Retail,Mass Customer,No,41.0,Victoria,111
+2303,Alair,Retail,Mass Customer,Yes,28.0,New South Wales,111
+1757,Hashim,IT,High Net Worth,No,55.0,QLD,111
+2532,Milli,Manufacturing,Mass Customer,No,52.0,New South Wales,111
+434,Raff,Financial Services,Mass Customer,Yes,26.0,New South Wales,111
+431,Gale,Health,Affluent Customer,Yes,65.0,QLD,111
+1387,Natalee,Manufacturing,Mass Customer,Yes,44.0,Victoria,111
+2525,Hans,Financial Services,Mass Customer,No,29.0,Victoria,111
+2326,Trev,Retail,High Net Worth,No,55.0,Victoria,111
+1434,Craig,Property,High Net Worth,No,48.0,New South Wales,111
+163,Kessia,Entertainment,High Net Worth,Yes,45.0,Victoria,111
+1712,Chad,Health,High Net Worth,Yes,45.0,Victoria,111
+1521,Pernell,Financial Services,Affluent Customer,Yes,26.0,New South Wales,111
+2431,Alvy,Financial Services,Mass Customer,Yes,22.0,QLD,111
+3428,Leonora,Manufacturing,Mass Customer,Yes,47.0,New South Wales,111
+591,Sydney,Entertainment,Affluent Customer,No,47.0,New South Wales,111
+2209,Rriocard,Health,Affluent Customer,Yes,28.0,New South Wales,111
+1067,Berri,Financial Services,Mass Customer,Yes,56.0,New South Wales,111
+2739,Alair,Health,High Net Worth,Yes,36.0,Victoria,111
+575,Etan,Financial Services,High Net Worth,Yes,65.0,New South Wales,111
+2735,Ricoriki,Financial Services,High Net Worth,Yes,63.0,QLD,111
+1099,Jarrett,Manufacturing,Affluent Customer,Yes,46.0,New South Wales,111
+2437,Simonette,Financial Services,Mass Customer,Yes,44.0,Victoria,111
+1544,Keane,Health,Affluent Customer,Yes,58.0,New South Wales,111
+1529,Tansy,Financial Services,High Net Worth,Yes,35.0,New South Wales,111
+557,Cassie,Manufacturing,Affluent Customer,Yes,60.0,QLD,111
+373,Eva,Health,High Net Worth,Yes,21.0,Victoria,111
+379,Bert,Manufacturing,High Net Worth,Yes,41.0,Victoria,111
+1448,Hinze,Property,Mass Customer,No,33.0,New South Wales,111
+1856,Toni,Retail,Mass Customer,No,52.0,New South Wales,111
+1441,Renae,Manufacturing,Affluent Customer,No,44.0,New South Wales,111
+146,Ricoriki,Manufacturing,Mass Customer,No,36.0,New South Wales,111
+3397,Melisande,IT,Mass Customer,No,36.0,QLD,111
+332,Liza,Health,High Net Worth,No,43.0,QLD,111
+521,Peri,Health,High Net Worth,No,43.0,New South Wales,111
+1846,Lorette,Manufacturing,Affluent Customer,No,43.0,Victoria,111
+2486,Alaine,Manufacturing,Mass Customer,Yes,67.0,New South Wales,111
+3292,Hamlen,Retail,Affluent Customer,Yes,48.0,New South Wales,111
